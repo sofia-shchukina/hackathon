@@ -6,10 +6,28 @@ import java.util.List;
 
 public class ShoppingRequest {
 
+
+    public ShoppingRequest(String id, String nameOfTheRequester, List<Product> productsToBuy, String status) {
+        this.id = id;
+        this.nameOfTheRequester = nameOfTheRequester;
+        this.productsToBuy = productsToBuy;
+        this.status = status;
+    }
+
     String id;
     String nameOfTheRequester;
 
     List<Product> productsToBuy;
+
+    String status;
+
+    public void setStatus(String status) {
+        this.status = status;
+    }
+
+    public String getStatus() {
+        return status;
+    }
 
     public String getId() {
         return id;
