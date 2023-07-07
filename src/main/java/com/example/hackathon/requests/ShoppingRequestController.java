@@ -3,10 +3,7 @@ package com.example.hackathon.requests;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -29,6 +26,15 @@ public class ShoppingRequestController {
     public ResponseEntity <List<ShoppingRequest>> showAllCurrentShoppingRequests(){
         List<ShoppingRequest> allCurrentShoppingRequest =  shoppingRequestService.showAllCurrentShoppingRequest();
         return ResponseEntity.status(HttpStatus.CREATED).body(allCurrentShoppingRequest);
+    }
+    @DeleteMapping("/{id}")
+    public ResponseEntity<Void> deleteShoppingRequestById(@PathVariable String id) {
+        boolean deleted = shoppingRequestService.deleteShoppingRequestById(id);
+        if (deleted) {
+            return ResponseEntity.noContent().build();
+        } else {
+            return ResponseEntity.notFound().build();
+        }
     }
 
 }

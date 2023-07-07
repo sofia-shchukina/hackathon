@@ -24,4 +24,12 @@ public class ShoppingRequestService {
                 .filter(request -> request.getStatus().equals("open"))
                 .collect(Collectors.toList());
     }
+
+    public boolean deleteShoppingRequestById(String id) {
+        ShoppingRequest existingRequest = shoppingRequestRepository.getShoppingRequestById(id);
+        if (existingRequest != null) {
+            return shoppingRequestRepository.deleteShoppingRequestById(existingRequest);
+        }
+        return false;
+    }
 }

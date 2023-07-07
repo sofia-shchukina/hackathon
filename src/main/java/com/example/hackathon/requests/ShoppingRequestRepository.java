@@ -23,4 +23,17 @@ public class ShoppingRequestRepository {
     public List<ShoppingRequest> getAllShoppingRequests() {
         return shoppingRequests;
     }
+
+    public boolean deleteShoppingRequestById(ShoppingRequest shoppingRequest) {
+        return shoppingRequests.remove(shoppingRequest);
+    }
+
+    public ShoppingRequest getShoppingRequestById(String id) {
+        for (ShoppingRequest shoppingRequest : shoppingRequests) {
+            if (shoppingRequest.getId().equals(id)) {
+                return shoppingRequest;
+            }
+        }
+        return null;
+    }
 }
