@@ -1,0 +1,8850 @@
+[
+  {
+    "id": 1000,
+    "name": "3-Klingenrasierermen",
+    "brand": "Cien",
+    "pack": "1 Stk.",
+    "price": 2.99,
+    "eans": "4638137504847,7496236943779"
+  },
+  {
+    "id": 1001,
+    "name": "5-KlingenrasiererMenShark5",
+    "brand": "Cien",
+    "pack": "1 Stk.",
+    "price": 3.89,
+    "eans": "2940305640601,9691082187065"
+  },
+  {
+    "id": 1002,
+    "name": "Anti-SchuppenShampoo,sortiert",
+    "brand": "Cien",
+    "pack": "300 ml",
+    "price": 0.95,
+    "eans": "5687697097411,4736801326594"
+  },
+  {
+    "id": 1003,
+    "name": "BabyFeuchttücher,sortiert",
+    "brand": "Lupilu",
+    "pack": "80 Blatt",
+    "price": 0.99,
+    "eans": "5519045068401,8984274028033"
+  },
+  {
+    "id": 1004,
+    "name": "Baby-FeuchttücherXXL,sortiert",
+    "brand": "Lupilu",
+    "pack": "320 Blatt",
+    "price": 3.95,
+    "eans": "7818965068811,4534077514635"
+  },
+  {
+    "id": 1005,
+    "name": "CremeDusche,sortiert",
+    "brand": "Cien",
+    "pack": "300 ml",
+    "price": 0.55,
+    "eans": "9558697947432,3445999497016"
+  },
+  {
+    "id": 1006,
+    "name": "CremeseifeMilk&Honey",
+    "brand": "Cien",
+    "pack": "300 g",
+    "price": 0.7,
+    "eans": "8896981492871,8095815726629"
+  },
+  {
+    "id": 1007,
+    "name": "Cremeseife,flüssig",
+    "brand": "Cien",
+    "pack": "500 ml",
+    "price": 0.65,
+    "eans": "2599830225526,4025575568263"
+  },
+  {
+    "id": 1008,
+    "name": "Cremeseife,flüssig,Nachfüllbeutel",
+    "brand": "Cien",
+    "pack": "1000 ml",
+    "price": 0.99,
+    "eans": "9144811673877,1388699938590"
+  },
+  {
+    "id": 1009,
+    "name": "Duschgel,sortiert",
+    "brand": "Cien",
+    "pack": "300 ml",
+    "price": 0.55,
+    "eans": "7798411476776,4087706859510"
+  },
+  {
+    "id": 1010,
+    "name": "Einwegrasierer,2-Klingen",
+    "brand": "Cien",
+    "pack": "12 Stk.",
+    "price": 1.45,
+    "eans": "5593477160834,1933723895754"
+  },
+  {
+    "id": 1011,
+    "name": "Handseife,sortiert",
+    "brand": "Cien",
+    "pack": "300 ml",
+    "price": 0.99,
+    "eans": "3136565041398,3085592378222"
+  },
+  {
+    "id": 1012,
+    "name": "Interdental-SticksSuperFein",
+    "brand": "Dentalux",
+    "pack": "6 Stk.",
+    "price": 2.29,
+    "eans": "4160195412524,3778638951885"
+  },
+  {
+    "id": 1013,
+    "name": "Kinder-Zahnbürste",
+    "brand": "Dentalux",
+    "pack": "2 Stk.",
+    "price": 0.65,
+    "eans": "7859376740705,6111052499668"
+  },
+  {
+    "id": 1014,
+    "name": "MenDuschgel&Shampoo,sortiert",
+    "brand": "Cien",
+    "pack": "300 ml",
+    "price": 0.48,
+    "eans": "6392067944040,6204846302173"
+  },
+  {
+    "id": 1015,
+    "name": "MenShark5Ersatzklingen(4erPack)",
+    "brand": "Cien",
+    "pack": "4 Stk.",
+    "price": 4.49,
+    "eans": "6483427157412,3930755221023"
+  },
+  {
+    "id": 1016,
+    "name": "Mundspülung,sortiert",
+    "brand": "Dentalux",
+    "pack": "500 ml",
+    "price": 0.75,
+    "eans": "2192752988595,8720239686326"
+  },
+  {
+    "id": 1017,
+    "name": "ProvitaminShampoo,sortiert",
+    "brand": "Cien",
+    "pack": "300 ml",
+    "price": 0.55,
+    "eans": "6375801831554,4068188621116"
+  },
+  {
+    "id": 1018,
+    "name": "ProvitaminSpülung,sortiert",
+    "brand": "Cien",
+    "pack": "300 ml",
+    "price": 0.55,
+    "eans": "7466772095256,6610994355280"
+  },
+  {
+    "id": 1019,
+    "name": "Rasierschaum",
+    "brand": "Cien",
+    "pack": "300 ml",
+    "price": 0.85,
+    "eans": "9684086754142,5416741710460"
+  },
+  {
+    "id": 1020,
+    "name": "TagfürTagShampoo,sortiert",
+    "brand": "Cien",
+    "pack": "500 ml",
+    "price": 0.65,
+    "eans": "8982998084014,2396061344961"
+  },
+  {
+    "id": 1021,
+    "name": "ZahnbürsteClassic,sortiert",
+    "brand": "Dentalux",
+    "pack": "2 Stk.",
+    "price": 0.65,
+    "eans": "7661569191337,8218783394755"
+  },
+  {
+    "id": 1022,
+    "name": "ZahnbürstePerfomance,sortiert",
+    "brand": "Dentalux",
+    "pack": "2 Stk.",
+    "price": 1.29,
+    "eans": "7113380486425,3973919404498"
+  },
+  {
+    "id": 1023,
+    "name": "ZahnbürstenProfessional,sortiert",
+    "brand": "Dentalux",
+    "pack": "2 Stk.",
+    "price": 1.49,
+    "eans": "8905048296946,5205448073486"
+  },
+  {
+    "id": 1024,
+    "name": "ZahncremeComplex3,sortiert",
+    "brand": "Dentalux",
+    "pack": "125 ml",
+    "price": 0.45,
+    "eans": "5993034220757,3232707588667"
+  },
+  {
+    "id": 1025,
+    "name": "ZahncremeComplex7TotalCarePlus",
+    "brand": "Dentalux",
+    "pack": "125 ml",
+    "price": 0.65,
+    "eans": "9299009568517,1820394417852"
+  },
+  {
+    "id": 1026,
+    "name": "Zahnseide,aufquellendeFasern",
+    "brand": "Dentalux",
+    "pack": "80 m",
+    "price": 1.69,
+    "eans": "1039492365808,5675740242703"
+  },
+  {
+    "id": 1027,
+    "name": "Zahnseide,gewachst",
+    "brand": "Dentalux",
+    "pack": "160 m",
+    "price": 1.49,
+    "eans": "3549939893798,7032124469770"
+  },
+  {
+    "id": 1028,
+    "name": "DamenbindenMaxiLang",
+    "brand": "SIEMPRE",
+    "pack": "14 Stk.",
+    "price": 0.55,
+    "eans": "7650877166731,3808456433338"
+  },
+  {
+    "id": 1029,
+    "name": "DamenbindenMaxiNormal",
+    "brand": "SIEMPRE",
+    "pack": "20 Stk.",
+    "price": 0.55,
+    "eans": "2439120775426,3702911804674"
+  },
+  {
+    "id": 1030,
+    "name": "Damenbinden,UltraNormal",
+    "brand": "SIEMPRE",
+    "pack": "16 Stk.",
+    "price": 1.09,
+    "eans": "8926476011963,7174362196480"
+  },
+  {
+    "id": 1031,
+    "name": "Damenbinden,UltraPlusLang",
+    "brand": "SIEMPRE",
+    "pack": "14 Stk.",
+    "price": 1.09,
+    "eans": "1800424925786,7097598862380"
+  },
+  {
+    "id": 1032,
+    "name": "Damenbinden,UltraPlusNormal",
+    "brand": "SIEMPRE",
+    "pack": "20 Stk.",
+    "price": 1.09,
+    "eans": "4143841370256,3343230124649"
+  },
+  {
+    "id": 1033,
+    "name": "FeuchtesToilettenpapierPremium,Nachfüllpack",
+    "brand": "Floralys",
+    "pack": "140 Stk.",
+    "price": 1.29,
+    "eans": "2060464469346,8124269610755"
+  },
+  {
+    "id": 1034,
+    "name": "InkontinenzbindenExtra",
+    "brand": "SIEMPRE",
+    "pack": "12 Stk.",
+    "price": 1.89,
+    "eans": "7167503284054,8087499724275"
+  },
+  {
+    "id": 1035,
+    "name": "InkontinenzbindenNormal",
+    "brand": "SIEMPRE",
+    "pack": "14 Stk.",
+    "price": 1.95,
+    "eans": "4867576042768,2331185976636"
+  },
+  {
+    "id": 1036,
+    "name": "Recycling-Toilettenpapier,3-lagig,200Blatt",
+    "brand": "Floralys",
+    "pack": "8 Rolle",
+    "price": 2.15,
+    "eans": "2365181847584,7193782107760"
+  },
+  {
+    "id": 1037,
+    "name": "SlipeinlagenNormal",
+    "brand": "SIEMPRE",
+    "pack": "45 Stk.",
+    "price": 0.99,
+    "eans": "3919580355387,5074694263084"
+  },
+  {
+    "id": 1038,
+    "name": "TamponsMini",
+    "brand": "SIEMPRE",
+    "pack": "64 Stk.",
+    "price": 2.55,
+    "eans": "3978663918468,7894392554189"
+  },
+  {
+    "id": 1039,
+    "name": "TamponsNormal",
+    "brand": "SIEMPRE",
+    "pack": "80 Stk.",
+    "price": 2.55,
+    "eans": "1017990362673,5709325156014"
+  },
+  {
+    "id": 1040,
+    "name": "TamponsSuper",
+    "brand": "SIEMPRE",
+    "pack": "56 Stk.",
+    "price": 2.55,
+    "eans": "1185403185055,3323401194039"
+  },
+  {
+    "id": 1041,
+    "name": "Taschentücherbalsam,10Stück",
+    "brand": "Floralys",
+    "pack": "15 Pkg",
+    "price": 1.49,
+    "eans": "5514839434233,4751724119399"
+  },
+  {
+    "id": 1042,
+    "name": "Taschentücher,soft,10Stück",
+    "brand": "Floralys",
+    "pack": "30 Pkg",
+    "price": 1.85,
+    "eans": "1718654202105,6656310278314"
+  },
+  {
+    "id": 1043,
+    "name": "Toilettenpapier,3lagig,200Blatt",
+    "brand": "Floralys",
+    "pack": "10 Rolle",
+    "price": 2.95,
+    "eans": "1031671524365,1733482688686"
+  },
+  {
+    "id": 1044,
+    "name": "Toilettenpapier,3lagig,200Blatt",
+    "brand": "Floralys",
+    "pack": "20 Rolle",
+    "price": 4.99,
+    "eans": "2020208807162,2001608980747"
+  },
+  {
+    "id": 1045,
+    "name": "Toilettenpapier,4lagig,160Blatt",
+    "brand": "Floralys",
+    "pack": "10 Rolle",
+    "price": 3.35,
+    "eans": "8418265818940,4276054071570"
+  },
+  {
+    "id": 1046,
+    "name": "Wattestäbchen",
+    "brand": "Cien",
+    "pack": "300 Stk.",
+    "price": 0.49,
+    "eans": "8517374049389,1409687925870"
+  },
+  {
+    "id": 1047,
+    "name": "WindelnJuniorGr5(11-25kg)",
+    "brand": "Lupilu",
+    "pack": "44 Stk.",
+    "price": 6.79,
+    "eans": "8048644623904,2663496288864"
+  },
+  {
+    "id": 1048,
+    "name": "WindelnMaxiGr4(7-18kg)",
+    "brand": "Lupilu",
+    "pack": "50 Stk.",
+    "price": 5.74,
+    "eans": "1586428638470,3286840163557"
+  },
+  {
+    "id": 1049,
+    "name": "WindelnMidiGr3(4-9kg)",
+    "brand": "Lupilu",
+    "pack": "56 Stk.",
+    "price": 6.05,
+    "eans": "7480294384988,6447752327605"
+  },
+  {
+    "id": 1050,
+    "name": "WindelnMiniGr2(3-6kg)",
+    "brand": "Lupilu",
+    "pack": "42 Stk.",
+    "price": 4.65,
+    "eans": "9326282919498,1232818688210"
+  },
+  {
+    "id": 1051,
+    "name": "WindelnNewbornGr1(2-5kg)",
+    "brand": "Lupilu",
+    "pack": "24 Stk.",
+    "price": 3.09,
+    "eans": "6561439176680,2375968380852"
+  },
+  {
+    "id": 1052,
+    "name": "WindelnXLGr6(16-30kg)",
+    "brand": "Lupilu",
+    "pack": "30 Stk.",
+    "price": 5.39,
+    "eans": "5908458015223,4657992986551"
+  },
+  {
+    "id": 1053,
+    "name": "Anti-FaltenTagescremeQ10",
+    "brand": "Cien",
+    "pack": "50 ml",
+    "price": 1.95,
+    "eans": "4143734326797,3272908317925"
+  },
+  {
+    "id": 1054,
+    "name": "AprèsSunLotion",
+    "brand": "Cien",
+    "pack": "500 ml",
+    "price": 0.99,
+    "eans": "9405803997280,1706351938007"
+  },
+  {
+    "id": 1055,
+    "name": "Bodymilk/Bodylotion,sortiert",
+    "brand": "Cien",
+    "pack": "400 ml",
+    "price": 1.95,
+    "eans": "4397190243796,4406345661344"
+  },
+  {
+    "id": 1056,
+    "name": "Deospray,sortiert",
+    "brand": "Cien",
+    "pack": "200 ml",
+    "price": 0.85,
+    "eans": "4565000732284,1023660442262"
+  },
+  {
+    "id": 1057,
+    "name": "Deospraymen,sortiert",
+    "brand": "Cien",
+    "pack": "200 ml",
+    "price": 0.85,
+    "eans": "5800589635465,8548457346064"
+  },
+  {
+    "id": 1058,
+    "name": "Gesichtsreinigungstücher\"Sensitive",
+    "brand": "Cien",
+    "pack": "25 Stk.",
+    "price": 0.95,
+    "eans": "6375024356742,2550898792405"
+  },
+  {
+    "id": 1059,
+    "name": "Gesichtswasser",
+    "brand": "Cien",
+    "pack": "250 ml",
+    "price": 1.49,
+    "eans": "9240219078969,5166145702676"
+  },
+  {
+    "id": 1060,
+    "name": "Hautpflegecreme,CLASSIC",
+    "brand": "Cien",
+    "pack": "250 ml",
+    "price": 1.25,
+    "eans": "8808738094221,8054640779620"
+  },
+  {
+    "id": 1061,
+    "name": "Kosmetiktücher,3-lagig",
+    "brand": "Cien",
+    "pack": "90 Stk.",
+    "price": 0.59,
+    "eans": "1489006915638,1662300414292"
+  },
+  {
+    "id": 1062,
+    "name": "MedSensitiveHandcreme",
+    "brand": "Cien",
+    "pack": "75 ml",
+    "price": 0.85,
+    "eans": "8249893011331,6483139412878"
+  },
+  {
+    "id": 1063,
+    "name": "Reinigungsmilch",
+    "brand": "Cien",
+    "pack": "250 ml",
+    "price": 1.25,
+    "eans": "2727940635885,8004051283445"
+  },
+  {
+    "id": 1064,
+    "name": "SonnencremeAnti-AgeLSF25",
+    "brand": "Cien",
+    "pack": "75 ml",
+    "price": 0.99,
+    "eans": "6840683240294,9474871109420"
+  },
+  {
+    "id": 1065,
+    "name": "SonnencremeClassicLSF10",
+    "brand": "Cien",
+    "pack": "100 ml",
+    "price": 0.69,
+    "eans": "9501023795993,8957206586925"
+  },
+  {
+    "id": 1066,
+    "name": "SonnencremefürKinder,LSF50",
+    "brand": "Cien",
+    "pack": "100 ml",
+    "price": 2.25,
+    "eans": "1808748696764,6133981952601"
+  },
+  {
+    "id": 1067,
+    "name": "Sonnencreme,SportLSF30",
+    "brand": "Cien",
+    "pack": "75 ml",
+    "price": 1.49,
+    "eans": "8744464242768,4834232472429"
+  },
+  {
+    "id": 1068,
+    "name": "SonnenmilchClassicLSF20",
+    "brand": "Cien",
+    "pack": "250 ml",
+    "price": 2.45,
+    "eans": "9032989577298,5799994517025"
+  },
+  {
+    "id": 1069,
+    "name": "SonnenmilchClassicLSF30",
+    "brand": "Cien",
+    "pack": "200 ml",
+    "price": 3.45,
+    "eans": "6860125464859,9790492193441"
+  },
+  {
+    "id": 1070,
+    "name": "SonnensprayfürKinder,LSF50",
+    "brand": "Cien",
+    "pack": "250 ml",
+    "price": 5.99,
+    "eans": "1255543422461,7240796694219"
+  },
+  {
+    "id": 1071,
+    "name": "TransparentesSonnensprayLSF30",
+    "brand": "Cien",
+    "pack": "200 ml",
+    "price": 3.45,
+    "eans": "7640382101983,9133840342601"
+  },
+  {
+    "id": 1072,
+    "name": "UreaAnti-FaltenNachtcremeQ10",
+    "brand": "Cien",
+    "pack": "50 ml",
+    "price": 1.95,
+    "eans": "9197784723865,8680665794562"
+  },
+  {
+    "id": 1073,
+    "name": "UreaFußcreme",
+    "brand": "Cien",
+    "pack": "100 ml",
+    "price": 1.25,
+    "eans": "1594601185451,8473354741950"
+  },
+  {
+    "id": 1074,
+    "name": "Waschpeeling",
+    "brand": "Cien",
+    "pack": "150 ml",
+    "price": 0.95,
+    "eans": "3800858468857,7103234671206"
+  },
+  {
+    "id": 1075,
+    "name": "Wattepads",
+    "brand": "Cien",
+    "pack": "140 Stk.",
+    "price": 0.8,
+    "eans": "8580690255963,8679205375927"
+  },
+  {
+    "id": 1076,
+    "name": "WellnessSchaumbad",
+    "brand": "Cien",
+    "pack": "1000 ml",
+    "price": 1.49,
+    "eans": "4055225639623,4243242786196"
+  },
+  {
+    "id": 1077,
+    "name": "6BrunchmixBrötchen",
+    "brand": "ACME",
+    "pack": "6 Stk.",
+    "price": 0.99,
+    "eans": "3843545778808,5135812683549"
+  },
+  {
+    "id": 1078,
+    "name": "6Croissants",
+    "brand": "chef select",
+    "pack": "6 Stk.",
+    "price": 0.99,
+    "eans": "2494347662010,5547977719481"
+  },
+  {
+    "id": 1079,
+    "name": "6SonntagsBrötchen",
+    "brand": "chef select",
+    "pack": "330 g",
+    "price": 0.99,
+    "eans": "6219045325106,9707272654986"
+  },
+  {
+    "id": 1080,
+    "name": "Aktivbrötchen",
+    "brand": "Grafschafter",
+    "pack": "9 Stk.",
+    "price": 0.99,
+    "eans": "7435650567666,4807442108372"
+  },
+  {
+    "id": 1081,
+    "name": "AmericanSandwich\"CLASSIC",
+    "brand": "Grafschafter",
+    "pack": "750 g",
+    "price": 0.99,
+    "eans": "1053051669176,3138776323027"
+  },
+  {
+    "id": 1082,
+    "name": "AmericanSandwich\"VOLLKORN",
+    "brand": "Grafschafter",
+    "pack": "750 g",
+    "price": 0.89,
+    "eans": "4636831263657,9167720058061"
+  },
+  {
+    "id": 1083,
+    "name": "BaguetteBrötchen",
+    "brand": "Grafschafter",
+    "pack": "300 g",
+    "price": 0.45,
+    "eans": "4387348018468,8807525742956"
+  },
+  {
+    "id": 1084,
+    "name": "Baguettestiefgefroren,sortiert",
+    "brand": "Grafschafter",
+    "pack": "350 g",
+    "price": 1.19,
+    "eans": "4572101473541,2409965676110"
+  },
+  {
+    "id": 1085,
+    "name": "BalanceBrot",
+    "brand": "Grafschafter",
+    "pack": "500 g",
+    "price": 0.99,
+    "eans": "9787138558016,8121259132914"
+  },
+  {
+    "id": 1086,
+    "name": "BalanceBrötchen",
+    "brand": "Grafschafter",
+    "pack": "540 g",
+    "price": 0.79,
+    "eans": "4032954734140,9846850431462"
+  },
+  {
+    "id": 1087,
+    "name": "BalanceBrötchen",
+    "brand": "Grafschafter",
+    "pack": "6 Stk.",
+    "price": 0.99,
+    "eans": "2655903843612,8410595827258"
+  },
+  {
+    "id": 1088,
+    "name": "Brioche-Zopf",
+    "brand": "MAÎTRE JEAN PIERRE",
+    "pack": "600 g",
+    "price": 1.99,
+    "eans": "2166306167132,9495700649115"
+  },
+  {
+    "id": 1089,
+    "name": "Brot,glutenfrei,sortiert",
+    "brand": "Grafschafter",
+    "pack": "250 g",
+    "price": 1.99,
+    "eans": "3720712687067,9660376576571"
+  },
+  {
+    "id": 1090,
+    "name": "Brötchenglutenfrei,sortiert",
+    "brand": "Grafschafter",
+    "pack": "180 g",
+    "price": 1.89,
+    "eans": "9740858097319,5558106944070"
+  },
+  {
+    "id": 1091,
+    "name": "Buttertoast",
+    "brand": "Grafschafter",
+    "pack": "500 g",
+    "price": 0.79,
+    "eans": "7274466530682,8743734582955"
+  },
+  {
+    "id": 1092,
+    "name": "Croissants",
+    "brand": "Grafschafter",
+    "pack": "200 g",
+    "price": 1.19,
+    "eans": "5068709554137,5991727373674"
+  },
+  {
+    "id": 1093,
+    "name": "CroissantsmitFüllung,sortiert",
+    "brand": "MAÎTRE JEAN PIERRE",
+    "pack": "240 g",
+    "price": 0.99,
+    "eans": "3645931722033,8381921007388"
+  },
+  {
+    "id": 1094,
+    "name": "DürümFladenbrot",
+    "brand": "ACME",
+    "pack": "0.8 kg",
+    "price": 1.99,
+    "eans": "3203715954836,3105525509988"
+  },
+  {
+    "id": 1095,
+    "name": "Eiweißbrot",
+    "brand": "Grafschafter",
+    "pack": "500 g",
+    "price": 1.99,
+    "eans": "8156606617172,1767110524985"
+  },
+  {
+    "id": 1096,
+    "name": "FranzösischeMilchbrötchen",
+    "brand": "MAÎTRE JEAN PIERRE",
+    "pack": "350 g",
+    "price": 0.99,
+    "eans": "2337169628263,7497361802368"
+  },
+  {
+    "id": 1097,
+    "name": "HamburgerBrötchen",
+    "brand": "Grafschafter",
+    "pack": "300 g",
+    "price": 0.69,
+    "eans": "6936897994990,4779411709678"
+  },
+  {
+    "id": 1098,
+    "name": "HotDogBrötchen",
+    "brand": "Grafschafter",
+    "pack": "250 g",
+    "price": 0.69,
+    "eans": "1662189744831,6381618137970"
+  },
+  {
+    "id": 1099,
+    "name": "Knoblauch-/Kräuter-Baguettes,sortiert",
+    "brand": "Grafschafter",
+    "pack": "175 g",
+    "price": 0.59,
+    "eans": "8886669685138,5923472413008"
+  },
+  {
+    "id": 1100,
+    "name": "PfundsSchnittenRoggenmischbrot",
+    "brand": "Grafschafter",
+    "pack": "500 g",
+    "price": 0.69,
+    "eans": "2037925191870,8796450652884"
+  },
+  {
+    "id": 1101,
+    "name": "Roggen-VollkornbrotmitSonnenblumenkernen",
+    "brand": "Grafschafter",
+    "pack": "500 g",
+    "price": 0.92,
+    "eans": "1307248161074,9234417747574"
+  },
+  {
+    "id": 1102,
+    "name": "Roggenvollkornbrot",
+    "brand": "Grafschafter",
+    "pack": "500 g",
+    "price": 0.86,
+    "eans": "5151583790125,2045577053156"
+  },
+  {
+    "id": 1103,
+    "name": "Sonntags-Brötchen",
+    "brand": "Grafschafter",
+    "pack": "540 g",
+    "price": 0.99,
+    "eans": "9572471031971,6732030612550"
+  },
+  {
+    "id": 1104,
+    "name": "ToastTwins,sortiert,sortiert",
+    "brand": "Grafschafter",
+    "pack": "6 Stk.",
+    "price": 0.79,
+    "eans": "2025392836851,6882105744713"
+  },
+  {
+    "id": 1105,
+    "name": "Toastbrötchen,sortiert",
+    "brand": "Grafschafter",
+    "pack": "260 g",
+    "price": 0.99,
+    "eans": "9996073609985,1139935343018"
+  },
+  {
+    "id": 1106,
+    "name": "Vollkorn-Knäckebrot,sortiert",
+    "brand": "Grafschafter",
+    "pack": "250 g",
+    "price": 0.69,
+    "eans": "9106862764096,8430212694742"
+  },
+  {
+    "id": 1107,
+    "name": "Vollkorntoast",
+    "brand": "Grafschafter",
+    "pack": "500 g",
+    "price": 0.59,
+    "eans": "3020992072844,9431205426394"
+  },
+  {
+    "id": 1108,
+    "name": "Weizen-Knusperbrot",
+    "brand": "Grafschafter",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "4532771160202,8033336902993"
+  },
+  {
+    "id": 1109,
+    "name": "4gefüllteKleinkuchen",
+    "brand": "Confiserie Firenze",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "2198856479632,8587859346364"
+  },
+  {
+    "id": 1110,
+    "name": "AltdeutscherKäsekuchen",
+    "brand": "Confiserie Firenze",
+    "pack": "1250 g",
+    "price": 2.99,
+    "eans": "1396942674164,4449706581356"
+  },
+  {
+    "id": 1111,
+    "name": "Kuchenriegel,sortiert",
+    "brand": "Mister Choc",
+    "pack": "114 g",
+    "price": 0.79,
+    "eans": "7416053528959,9109618340360"
+  },
+  {
+    "id": 1112,
+    "name": "MiniBerliner",
+    "brand": "Confiserie Firenze",
+    "pack": "324 g",
+    "price": 1.99,
+    "eans": "9167075157310,9949966152402"
+  },
+  {
+    "id": 1113,
+    "name": "MiniSahnewindbeutel",
+    "brand": "Confiserie Firenze",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "1136723808049,7773508394621"
+  },
+  {
+    "id": 1114,
+    "name": "MuffinsSchoko",
+    "brand": "Confiserie Firenze",
+    "pack": "360 g",
+    "price": 1.49,
+    "eans": "1820185104923,1241886923161"
+  },
+  {
+    "id": 1115,
+    "name": "PflaumenStreuselkuchen",
+    "brand": "Confiserie Firenze",
+    "pack": "1250 g",
+    "price": 2.99,
+    "eans": "5979229536575,3636518806383"
+  },
+  {
+    "id": 1116,
+    "name": "Profiteroles",
+    "brand": "DELUXE",
+    "pack": "450 g",
+    "price": 2.69,
+    "eans": "3185961168857,4406845429086"
+  },
+  {
+    "id": 1117,
+    "name": "Quarkbällchen",
+    "brand": "Confiserie Firenze",
+    "pack": "336 g",
+    "price": 1.99,
+    "eans": "7693362266219,4517169274358"
+  },
+  {
+    "id": 1118,
+    "name": "Rührkuchen,sortiert",
+    "brand": "Confiserie Firenze",
+    "pack": "400 g",
+    "price": 1.19,
+    "eans": "5029247348053,7056142770151"
+  },
+  {
+    "id": 1119,
+    "name": "Sahne-Torte,sortiert",
+    "brand": "DELUXE",
+    "pack": "750 g",
+    "price": 4.99,
+    "eans": "2128278100883,8093579462326"
+  },
+  {
+    "id": 1120,
+    "name": "Sandkuchen,Marmor",
+    "brand": "Confiserie Firenze",
+    "pack": "600 g",
+    "price": 1.79,
+    "eans": "2285572413931,8658822926118"
+  },
+  {
+    "id": 1121,
+    "name": "Torte,sortiert",
+    "brand": "Confiserie Firenze",
+    "pack": "750 g",
+    "price": 3.99,
+    "eans": "8453543667858,9964315773459"
+  },
+  {
+    "id": 1122,
+    "name": "CaffeClassico\"GanzeBohne",
+    "brand": "Bellarom",
+    "pack": "1000 g",
+    "price": 5.99,
+    "eans": "8012651842467,4963170072245"
+  },
+  {
+    "id": 1123,
+    "name": "CaffèCrema\"GanzeBohne",
+    "brand": "Bellarom",
+    "pack": "1000 g",
+    "price": 7.99,
+    "eans": "3722061302905,9595404364762"
+  },
+  {
+    "id": 1124,
+    "name": "CaffeEspresso\"GanzeBohne",
+    "brand": "Bellarom",
+    "pack": "1000 g",
+    "price": 7.99,
+    "eans": "4521890645189,6708667245324"
+  },
+  {
+    "id": 1125,
+    "name": "Espresso",
+    "brand": "Bellarom",
+    "pack": "200 g",
+    "price": 2.99,
+    "eans": "1988534353061,3301088985355"
+  },
+  {
+    "id": 1126,
+    "name": "FamilyCappuccinoCaramel-Krokant",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 2.59,
+    "eans": "4733531021263,6341519579170"
+  },
+  {
+    "id": 1127,
+    "name": "FamilyCappuccino\"White",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 2.79,
+    "eans": "2316711844368,9776495913637"
+  },
+  {
+    "id": 1128,
+    "name": "FamilyChocoCappuccino",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 2.39,
+    "eans": "7063573000382,3035486273102"
+  },
+  {
+    "id": 1129,
+    "name": "FamilyLatteMacchiatoClassico",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 2.39,
+    "eans": "9434249518612,3605145678274"
+  },
+  {
+    "id": 1130,
+    "name": "Instant-KaffeeGold",
+    "brand": "Bellarom",
+    "pack": "100 g",
+    "price": 2.19,
+    "eans": "4247447202468,2955172523407"
+  },
+  {
+    "id": 1131,
+    "name": "Instant-KaffeeGold,entkoffeiniert",
+    "brand": "Bellarom",
+    "pack": "100 g",
+    "price": 2.49,
+    "eans": "1039396547591,1815266470868"
+  },
+  {
+    "id": 1132,
+    "name": "Instant-Kaffeekräftig",
+    "brand": "Bellarom",
+    "pack": "200 g",
+    "price": 3.49,
+    "eans": "5688415798856,3675659158869"
+  },
+  {
+    "id": 1133,
+    "name": "Instant-Kaffeemild",
+    "brand": "Bellarom",
+    "pack": "200 g",
+    "price": 3.49,
+    "eans": "4505006146524,7360355863143"
+  },
+  {
+    "id": 1134,
+    "name": "KaffeeGold",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 2.99,
+    "eans": "2820782277913,2977779482062"
+  },
+  {
+    "id": 1135,
+    "name": "KaffeeKräftig",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 2.79,
+    "eans": "4859463312511,8597938579644"
+  },
+  {
+    "id": 1136,
+    "name": "Kaffee\"CafedelMundo",
+    "brand": "Fairglobe",
+    "pack": "500 g",
+    "price": 5.29,
+    "eans": "1469472263266,7456102644643"
+  },
+  {
+    "id": 1137,
+    "name": "Kaffee\"Mild",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 3.49,
+    "eans": "1167169155008,9310072962603"
+  },
+  {
+    "id": 1138,
+    "name": "Kaffee,Entkoffeiniert",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 3.29,
+    "eans": "4689825981341,7340761447588"
+  },
+  {
+    "id": 1139,
+    "name": "KaffeegetränkCappuccino",
+    "brand": "Milbona",
+    "pack": "330 ml",
+    "price": 0.65,
+    "eans": "6247921792124,7349213850235"
+  },
+  {
+    "id": 1140,
+    "name": "KaffeegetränkEspressoMacchiato",
+    "brand": "Milbona",
+    "pack": "330 ml",
+    "price": 0.65,
+    "eans": "6325307615097,2616281505295"
+  },
+  {
+    "id": 1141,
+    "name": "KaffeegetränkLatteMacchiato",
+    "brand": "Milbona",
+    "pack": "330 ml",
+    "price": 0.65,
+    "eans": "7156403852265,4990336971869"
+  },
+  {
+    "id": 1142,
+    "name": "KaffeekapselnEspresso,sortiert",
+    "brand": "Bellarom",
+    "pack": "10 Stk.",
+    "price": 1.75,
+    "eans": "9538226103812,2742246308493"
+  },
+  {
+    "id": 1143,
+    "name": "KaffeekapselnLungo,sortiert",
+    "brand": "Bellarom",
+    "pack": "10 Stk.",
+    "price": 1.75,
+    "eans": "9247310123697,8099899300386"
+  },
+  {
+    "id": 1144,
+    "name": "KaffeepadsCaffeCrema",
+    "brand": "Bellarom",
+    "pack": "144 g",
+    "price": 1.49,
+    "eans": "4842586056318,7684663144474"
+  },
+  {
+    "id": 1145,
+    "name": "KaffeepadsCaffeGold",
+    "brand": "Bellarom",
+    "pack": "144 g",
+    "price": 1.49,
+    "eans": "2247441184397,3765446461323"
+  },
+  {
+    "id": 1146,
+    "name": "Kaffeepadsentcoffeiniert",
+    "brand": "Bellarom",
+    "pack": "144 g",
+    "price": 1.49,
+    "eans": "6822991182954,9856487822830"
+  },
+  {
+    "id": 1147,
+    "name": "KaffeepadsNaturmild",
+    "brand": "Bellarom",
+    "pack": "144 g",
+    "price": 1.49,
+    "eans": "9900694510308,5975306565056"
+  },
+  {
+    "id": 1148,
+    "name": "CaffeClassico\"GanzeBohne",
+    "brand": "Bellarom",
+    "pack": "1000 g",
+    "price": 5.99,
+    "eans": "8229956233092,7425690803770"
+  },
+  {
+    "id": 1149,
+    "name": "CaffèCrema\"GanzeBohne",
+    "brand": "Bellarom",
+    "pack": "1000 g",
+    "price": 7.99,
+    "eans": "6129546116601,3112620064168"
+  },
+  {
+    "id": 1150,
+    "name": "CaffeEspresso\"GanzeBohne",
+    "brand": "Bellarom",
+    "pack": "1000 g",
+    "price": 7.99,
+    "eans": "1454488681142,2568549855317"
+  },
+  {
+    "id": 1151,
+    "name": "Espresso",
+    "brand": "Bellarom",
+    "pack": "200 g",
+    "price": 2.99,
+    "eans": "1413745447402,2686427517468"
+  },
+  {
+    "id": 1152,
+    "name": "FamilyCappuccinoCaramel-Krokant",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 2.59,
+    "eans": "3304854843064,3067319376865"
+  },
+  {
+    "id": 1153,
+    "name": "FamilyCappuccino\"White",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 2.79,
+    "eans": "2506318404878,5496152259079"
+  },
+  {
+    "id": 1154,
+    "name": "FamilyChocoCappuccino",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 2.39,
+    "eans": "9400486613342,1934489762328"
+  },
+  {
+    "id": 1155,
+    "name": "FamilyLatteMacchiatoClassico",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 2.39,
+    "eans": "4681282020274,7226461791667"
+  },
+  {
+    "id": 1156,
+    "name": "Instant-KaffeeGold",
+    "brand": "Bellarom",
+    "pack": "100 g",
+    "price": 2.19,
+    "eans": "1461763792479,3523623467465"
+  },
+  {
+    "id": 1157,
+    "name": "Instant-KaffeeGold,entkoffeiniert",
+    "brand": "Bellarom",
+    "pack": "100 g",
+    "price": 2.49,
+    "eans": "7327888502574,1844429501613"
+  },
+  {
+    "id": 1158,
+    "name": "Instant-Kaffeekräftig",
+    "brand": "Bellarom",
+    "pack": "200 g",
+    "price": 3.49,
+    "eans": "2535508915207,6281862752090"
+  },
+  {
+    "id": 1159,
+    "name": "Instant-Kaffeemild",
+    "brand": "Bellarom",
+    "pack": "200 g",
+    "price": 3.49,
+    "eans": "6700768088381,6296806288047"
+  },
+  {
+    "id": 1160,
+    "name": "KaffeeGold",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 2.99,
+    "eans": "4752224708137,3143389417971"
+  },
+  {
+    "id": 1161,
+    "name": "KaffeeKräftig",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 2.79,
+    "eans": "9790310090778,7333718291082"
+  },
+  {
+    "id": 1162,
+    "name": "Kaffee\"CafedelMundo",
+    "brand": "Fairglobe",
+    "pack": "500 g",
+    "price": 5.29,
+    "eans": "1095908794600,4428959279548"
+  },
+  {
+    "id": 1163,
+    "name": "Kaffee\"Mild",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 3.49,
+    "eans": "1841185415031,6416329079254"
+  },
+  {
+    "id": 1164,
+    "name": "Kaffee,Entkoffeiniert",
+    "brand": "Bellarom",
+    "pack": "500 g",
+    "price": 3.29,
+    "eans": "7771885329687,5127168692993"
+  },
+  {
+    "id": 1165,
+    "name": "KaffeegetränkCappuccino",
+    "brand": "Milbona",
+    "pack": "330 ml",
+    "price": 0.65,
+    "eans": "5939073660420,1545572150931"
+  },
+  {
+    "id": 1166,
+    "name": "KaffeegetränkEspressoMacchiato",
+    "brand": "Milbona",
+    "pack": "330 ml",
+    "price": 0.65,
+    "eans": "9485323124236,8464993206573"
+  },
+  {
+    "id": 1167,
+    "name": "KaffeegetränkLatteMacchiato",
+    "brand": "Milbona",
+    "pack": "330 ml",
+    "price": 0.65,
+    "eans": "4644512743688,1678378461540"
+  },
+  {
+    "id": 1168,
+    "name": "KaffeekapselnEspresso,sortiert",
+    "brand": "Bellarom",
+    "pack": "10 Stk.",
+    "price": 1.75,
+    "eans": "9180287003572,8348237459829"
+  },
+  {
+    "id": 1169,
+    "name": "KaffeekapselnLungo,sortiert",
+    "brand": "Bellarom",
+    "pack": "10 Stk.",
+    "price": 1.75,
+    "eans": "5302464111120,1154231672570"
+  },
+  {
+    "id": 1170,
+    "name": "KaffeepadsCaffeCrema",
+    "brand": "Bellarom",
+    "pack": "144 g",
+    "price": 1.49,
+    "eans": "5582495276917,2414334322710"
+  },
+  {
+    "id": 1171,
+    "name": "KaffeepadsCaffeGold",
+    "brand": "Bellarom",
+    "pack": "144 g",
+    "price": 1.49,
+    "eans": "1443267203545,3172335674502"
+  },
+  {
+    "id": 1172,
+    "name": "Kaffeepadsentcoffeiniert",
+    "brand": "Bellarom",
+    "pack": "144 g",
+    "price": 1.49,
+    "eans": "9473316338913,2673877142005"
+  },
+  {
+    "id": 1173,
+    "name": "KaffeepadsNaturmild",
+    "brand": "Bellarom",
+    "pack": "144 g",
+    "price": 1.49,
+    "eans": "6803834625517,5802099191745"
+  },
+  {
+    "id": 1174,
+    "name": "Bandnudeln",
+    "brand": "Combino",
+    "pack": "500 g",
+    "price": 0.69,
+    "eans": "7085761300074,4368341177147"
+  },
+  {
+    "id": 1175,
+    "name": "BasmatiReis",
+    "brand": "GOLDEN SUN",
+    "pack": "1000 g",
+    "price": 1.99,
+    "eans": "3767648126093,5246151368506"
+  },
+  {
+    "id": 1176,
+    "name": "BioFusilli",
+    "brand": "Combino",
+    "pack": "500 g",
+    "price": 0.75,
+    "eans": "6400266600909,1077987872738"
+  },
+  {
+    "id": 1177,
+    "name": "BioSpaghetti",
+    "brand": "Combino",
+    "pack": "500 g",
+    "price": 0.79,
+    "eans": "8840557177686,1635765750915"
+  },
+  {
+    "id": 1178,
+    "name": "Eierspätzle",
+    "brand": "chef select",
+    "pack": "500 g",
+    "price": 0.99,
+    "eans": "6717579365266,9895007648505"
+  },
+  {
+    "id": 1179,
+    "name": "Fusilli",
+    "brand": "Combino",
+    "pack": "500 g",
+    "price": 0.49,
+    "eans": "6329434807622,3105148622125"
+  },
+  {
+    "id": 1180,
+    "name": "Fusilli-glutenfrei",
+    "brand": "Combino",
+    "pack": "500 g",
+    "price": 1.29,
+    "eans": "9237066525395,5817001477817"
+  },
+  {
+    "id": 1181,
+    "name": "GewalzteBandnudeln,sortiert",
+    "brand": "DELUXE",
+    "pack": "500 g",
+    "price": 1.39,
+    "eans": "2925948104680,6687532223615"
+  },
+  {
+    "id": 1182,
+    "name": "Gnocchi",
+    "brand": "Combino",
+    "pack": "500 g",
+    "price": 0.69,
+    "eans": "9081891143374,5611226925692"
+  },
+  {
+    "id": 1183,
+    "name": "GourmetPasta,sortiert",
+    "brand": "chef select",
+    "pack": "250 g",
+    "price": 1.99,
+    "eans": "9526776384393,9759916597876"
+  },
+  {
+    "id": 1184,
+    "name": "Lasagneplatten",
+    "brand": "Combino",
+    "pack": "500 g",
+    "price": 0.99,
+    "eans": "3699536739507,2616627040879"
+  },
+  {
+    "id": 1185,
+    "name": "Milchreis-RundkornSpitzenreis",
+    "brand": "GOLDEN SUN",
+    "pack": "500 g",
+    "price": 0.49,
+    "eans": "5570425408125,9019068974568"
+  },
+  {
+    "id": 1186,
+    "name": "Penne-glutenfrei",
+    "brand": "Combino",
+    "pack": "500 g",
+    "price": 1.29,
+    "eans": "8725951766035,2199417820061"
+  },
+  {
+    "id": 1187,
+    "name": "PenneRigate",
+    "brand": "Combino",
+    "pack": "500 g",
+    "price": 0.48,
+    "eans": "6816115085412,4719757774404"
+  },
+  {
+    "id": 1188,
+    "name": "ReisimKochbeutel",
+    "brand": "ACME",
+    "pack": "1 kg",
+    "price": 1.3,
+    "eans": "4392608150055,2187225134494"
+  },
+  {
+    "id": 1189,
+    "name": "Reisparboiled",
+    "brand": "GOLDEN SUN",
+    "pack": "1000 g",
+    "price": 0.99,
+    "eans": "5247005378634,8761600959441"
+  },
+  {
+    "id": 1190,
+    "name": "Spaghetti",
+    "brand": "Combino",
+    "pack": "500 g",
+    "price": 0.48,
+    "eans": "8117490778394,8207275614280"
+  },
+  {
+    "id": 1191,
+    "name": "Spaghetti-glutenfrei",
+    "brand": "Combino",
+    "pack": "500 g",
+    "price": 1.29,
+    "eans": "2882108967939,2058367611498"
+  },
+  {
+    "id": 1192,
+    "name": "Suppennudeln",
+    "brand": "Combino",
+    "pack": "500 g",
+    "price": 0.85,
+    "eans": "9995036369591,2276852399700"
+  },
+  {
+    "id": 1193,
+    "name": "Tagliatelle",
+    "brand": "chef select",
+    "pack": "600 g",
+    "price": 1.79,
+    "eans": "6642240697257,8666761042226"
+  },
+  {
+    "id": 1194,
+    "name": "ThaiJasminReis",
+    "brand": "GOLDEN SUN",
+    "pack": "1000 g",
+    "price": 1.99,
+    "eans": "8788582461977,9815184402486"
+  },
+  {
+    "id": 1195,
+    "name": "Tortelloni",
+    "brand": "Combino",
+    "pack": "250 g",
+    "price": 0.79,
+    "eans": "6877805361537,6020476980051"
+  },
+  {
+    "id": 1196,
+    "name": "VollkornFarfalle",
+    "brand": "Combino",
+    "pack": "500 g",
+    "price": 0.75,
+    "eans": "7364787764900,9539475899891"
+  },
+  {
+    "id": 1197,
+    "name": "Aktivbrötchen",
+    "brand": "Grafschafter",
+    "pack": "9 Stk.",
+    "price": 0.99,
+    "eans": "9413919481197,7830005131927"
+  },
+  {
+    "id": 1198,
+    "name": "Baguettestiefgefroren,sortiert",
+    "brand": "Grafschafter",
+    "pack": "350 g",
+    "price": 1.19,
+    "eans": "6917497574829,6910983417600"
+  },
+  {
+    "id": 1199,
+    "name": "Sonntags-Brötchen",
+    "brand": "Grafschafter",
+    "pack": "540 g",
+    "price": 0.99,
+    "eans": "4010455771789,9233084810024"
+  },
+  {
+    "id": 1200,
+    "name": "AltdeutscherKäsekuchen",
+    "brand": "Confiserie Firenze",
+    "pack": "1250 g",
+    "price": 2.99,
+    "eans": "9366673660691,5851879600922"
+  },
+  {
+    "id": 1201,
+    "name": "MiniBerliner",
+    "brand": "Confiserie Firenze",
+    "pack": "324 g",
+    "price": 1.99,
+    "eans": "5605749762995,7765161711884"
+  },
+  {
+    "id": 1202,
+    "name": "MiniSahnewindbeutel",
+    "brand": "Confiserie Firenze",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "6554620695022,4766542412034"
+  },
+  {
+    "id": 1203,
+    "name": "PflaumenStreuselkuchen",
+    "brand": "Confiserie Firenze",
+    "pack": "1250 g",
+    "price": 2.99,
+    "eans": "3408959617589,5992962967048"
+  },
+  {
+    "id": 1204,
+    "name": "Profiteroles",
+    "brand": "DELUXE",
+    "pack": "450 g",
+    "price": 2.69,
+    "eans": "9525064035764,4991711087557"
+  },
+  {
+    "id": 1205,
+    "name": "Quarkbällchen",
+    "brand": "Confiserie Firenze",
+    "pack": "336 g",
+    "price": 1.99,
+    "eans": "2126184997009,9462300452025"
+  },
+  {
+    "id": 1206,
+    "name": "Sahne-Torte,sortiert",
+    "brand": "DELUXE",
+    "pack": "750 g",
+    "price": 4.99,
+    "eans": "7084779017325,3924430208089"
+  },
+  {
+    "id": 1207,
+    "name": "Torte,sortiert",
+    "brand": "Confiserie Firenze",
+    "pack": "750 g",
+    "price": 3.99,
+    "eans": "3157112996589,9936860991695"
+  },
+  {
+    "id": 1208,
+    "name": "Steinofenpizza,2xHawaii",
+    "brand": "Trattoria Alfredo",
+    "pack": "710 g",
+    "price": 2.59,
+    "eans": "3654411124878,9510307550036"
+  },
+  {
+    "id": 1209,
+    "name": "AmericanPizzaSupreme",
+    "brand": "Trattoria Alfredo",
+    "pack": "440 g",
+    "price": 1.99,
+    "eans": "9663393648245,2556387313021"
+  },
+  {
+    "id": 1210,
+    "name": "AmericanPizzaTexas",
+    "brand": "Trattoria Alfredo",
+    "pack": "400 g",
+    "price": 1.99,
+    "eans": "4871768069723,5236846195098"
+  },
+  {
+    "id": 1211,
+    "name": "AmericanStylePizzaPeperoni-Salami",
+    "brand": "MCENNEDY",
+    "pack": "440 g",
+    "price": 1.89,
+    "eans": "3778453802249,8626715600988"
+  },
+  {
+    "id": 1212,
+    "name": "Apfel-Flammkuchen",
+    "brand": "Duc De Coeur",
+    "pack": "300 g",
+    "price": 1.89,
+    "eans": "7334697337860,7625285598115"
+  },
+  {
+    "id": 1213,
+    "name": "Baguette,sortiert",
+    "brand": "Trattoria Alfredo",
+    "pack": "750 g",
+    "price": 1.89,
+    "eans": "8657503772631,9159843312298"
+  },
+  {
+    "id": 1214,
+    "name": "BamiGoreng",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 1.99,
+    "eans": "4469108717436,6633496848647"
+  },
+  {
+    "id": 1215,
+    "name": "Chili-CheeseNuggets",
+    "brand": "CULINEA",
+    "pack": "250 g",
+    "price": 1.89,
+    "eans": "5645840934198,9529378611485"
+  },
+  {
+    "id": 1216,
+    "name": "CornyDogs",
+    "brand": "CULINEA",
+    "pack": "250 g",
+    "price": 1.89,
+    "eans": "9259251199549,5313986939017"
+  },
+  {
+    "id": 1217,
+    "name": "Flammkuchen",
+    "brand": "Duc De Coeur",
+    "pack": "270 g",
+    "price": 1.89,
+    "eans": "3909010630191,5201864156642"
+  },
+  {
+    "id": 1218,
+    "name": "Frühlingsrollen,sortiert",
+    "brand": "CULINEA",
+    "pack": "400 g",
+    "price": 1.89,
+    "eans": "6904068029512,6699934496047"
+  },
+  {
+    "id": 1219,
+    "name": "GnocchiPomodoro",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 1.79,
+    "eans": "5651133503286,3773495045227"
+  },
+  {
+    "id": 1220,
+    "name": "Kartoffelgratin,sortiert",
+    "brand": "DELUXE",
+    "pack": "400 g",
+    "price": 1.99,
+    "eans": "8293709317698,1460003438306"
+  },
+  {
+    "id": 1221,
+    "name": "Kartoffelpuffer",
+    "brand": "Harvest Basket",
+    "pack": "600 g",
+    "price": 1.19,
+    "eans": "8280635015170,7579900512133"
+  },
+  {
+    "id": 1222,
+    "name": "Kartoffelspalten",
+    "brand": "Harvest Basket",
+    "pack": "750 g",
+    "price": 1.19,
+    "eans": "2559647514206,7959842893864"
+  },
+  {
+    "id": 1223,
+    "name": "Kroketten",
+    "brand": "Harvest Basket",
+    "pack": "750 g",
+    "price": 1.19,
+    "eans": "4336495895286,3905747835953"
+  },
+  {
+    "id": 1224,
+    "name": "Mini-FrühlingsrollenmitGemüse",
+    "brand": "CULINEA",
+    "pack": "400 g",
+    "price": 1.89,
+    "eans": "4685997461797,3839142608075"
+  },
+  {
+    "id": 1225,
+    "name": "MozzarellaSticks",
+    "brand": "CULINEA",
+    "pack": "250 g",
+    "price": 1.89,
+    "eans": "8777474150396,5621857780287"
+  },
+  {
+    "id": 1226,
+    "name": "NasiGoreng",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 2.12,
+    "eans": "4627864668526,7395680179577"
+  },
+  {
+    "id": 1227,
+    "name": "Paella",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 1.69,
+    "eans": "7786624854139,6431939069983"
+  },
+  {
+    "id": 1228,
+    "name": "PenneGorgonzola",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 1.89,
+    "eans": "9093566496319,1290478728929"
+  },
+  {
+    "id": 1229,
+    "name": "PiccoPizzi,sortiert",
+    "brand": "Trattoria Alfredo",
+    "pack": "360 g",
+    "price": 1.99,
+    "eans": "2252722156277,2327141590367"
+  },
+  {
+    "id": 1230,
+    "name": "PizzaDieKnusperfrische,QuattroFormaggi",
+    "brand": "Trattoria Alfredo",
+    "pack": "410 g",
+    "price": 1.79,
+    "eans": "1258203599893,4187669947078"
+  },
+  {
+    "id": 1231,
+    "name": "PizzaDieKnusperfrische,Speciale",
+    "brand": "Trattoria Alfredo",
+    "pack": "405 g",
+    "price": 1.79,
+    "eans": "2968215144019,1724368549283"
+  },
+  {
+    "id": 1232,
+    "name": "PizzaKnusperfrische,Peperoni-Salami",
+    "brand": "Trattoria Alfredo",
+    "pack": "400 g",
+    "price": 1.79,
+    "eans": "5786094993316,2185661951408"
+  },
+  {
+    "id": 1233,
+    "name": "PizzaSalami,glutenfrei",
+    "brand": "VEMONDO",
+    "pack": "325 g",
+    "price": 2.99,
+    "eans": "7859179580546,6377157981402"
+  },
+  {
+    "id": 1234,
+    "name": "PommesFrites",
+    "brand": "Harvest Basket",
+    "pack": "1000 g",
+    "price": 0.99,
+    "eans": "7393334878579,7230731687994"
+  },
+  {
+    "id": 1235,
+    "name": "PommesFrites-JumboFries",
+    "brand": "Harvest Basket",
+    "pack": "750 g",
+    "price": 1.69,
+    "eans": "1271184803452,2563217713869"
+  },
+  {
+    "id": 1236,
+    "name": "PommesFrites-WellenschnittFrites",
+    "brand": "Harvest Basket",
+    "pack": "1000 g",
+    "price": 1.19,
+    "eans": "1355062540780,6672292363367"
+  },
+  {
+    "id": 1237,
+    "name": "QuicheLorraine",
+    "brand": "Duc De Coeur",
+    "pack": "400 g",
+    "price": 1.99,
+    "eans": "9715490895432,1171060434544"
+  },
+  {
+    "id": 1238,
+    "name": "RustikaleHolzofenpizzaDiavola",
+    "brand": "Trattoria Alfredo",
+    "pack": "398 g",
+    "price": 1.99,
+    "eans": "7037400856473,7683782116928"
+  },
+  {
+    "id": 1239,
+    "name": "RustikaleKartoffelpfanne",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 1.99,
+    "eans": "7912427523280,5610332637147"
+  },
+  {
+    "id": 1240,
+    "name": "Steinofenpizza,2xVierKäse",
+    "brand": "Trattoria Alfredo",
+    "pack": "680 g",
+    "price": 2.59,
+    "eans": "3775767815064,8326144294597"
+  },
+  {
+    "id": 1241,
+    "name": "Steinofenpizza,2xMozzarella",
+    "brand": "Trattoria Alfredo",
+    "pack": "780 g",
+    "price": 2.59,
+    "eans": "8210925209743,2287241389981"
+  },
+  {
+    "id": 1242,
+    "name": "Steinofenpizza,2xSchinken",
+    "brand": "Trattoria Alfredo",
+    "pack": "700 g",
+    "price": 2.59,
+    "eans": "9298805680478,9494597885972"
+  },
+  {
+    "id": 1243,
+    "name": "Steinofenpizza,2xSpeciale",
+    "brand": "Trattoria Alfredo",
+    "pack": "660 g",
+    "price": 2.29,
+    "eans": "5736267539209,7078614518306"
+  },
+  {
+    "id": 1244,
+    "name": "Steinofenpizza,2xThunfisch",
+    "brand": "Trattoria Alfredo",
+    "pack": "710 g",
+    "price": 2.59,
+    "eans": "5906495601096,1517941037150"
+  },
+  {
+    "id": 1245,
+    "name": "Steinofenpizza,2xDiavolo",
+    "brand": "Trattoria Alfredo",
+    "pack": "700 g",
+    "price": 2.59,
+    "eans": "4074680022115,5575436948417"
+  },
+  {
+    "id": 1246,
+    "name": "Steinofenpizza,3xEdelsalami",
+    "brand": "Trattoria Alfredo",
+    "pack": "1050 g",
+    "price": 2.59,
+    "eans": "8608424711605,6838222768484"
+  },
+  {
+    "id": 1247,
+    "name": "Steinofenpizza,3xMargherita",
+    "brand": "Trattoria Alfredo",
+    "pack": "900 g",
+    "price": 1.99,
+    "eans": "2232258864587,4960599246479"
+  },
+  {
+    "id": 1248,
+    "name": "TagliatelleTomate-Spinat",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 1.89,
+    "eans": "2507160399688,5169610720380"
+  },
+  {
+    "id": 1249,
+    "name": "TortelloniKäse-Sahne",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 1.79,
+    "eans": "6449632527495,4280804671200"
+  },
+  {
+    "id": 1250,
+    "name": "AlaskaSeelachsfilet",
+    "brand": "OCEAN SEA",
+    "pack": "1000 g",
+    "price": 4.99,
+    "eans": "1172617969250,8237335910342"
+  },
+  {
+    "id": 1251,
+    "name": "AlaskaSeelachsfilet-paniert",
+    "brand": "OCEAN SEA",
+    "pack": "800 g",
+    "price": 3.79,
+    "eans": "2745297678478,3651832640963"
+  },
+  {
+    "id": 1252,
+    "name": "Fish&Chips",
+    "brand": "HATHERWOOD",
+    "pack": "1000 g",
+    "price": 3.79,
+    "eans": "5623838940598,9114079514151"
+  },
+  {
+    "id": 1253,
+    "name": "Garnelen",
+    "brand": "DELUXE",
+    "pack": "800 g",
+    "price": 9.69,
+    "eans": "9865913353336,3790263104122"
+  },
+  {
+    "id": 1254,
+    "name": "Garnelenring",
+    "brand": "DELUXE",
+    "pack": "300 g",
+    "price": 3.99,
+    "eans": "8692743219416,1500551808210"
+  },
+  {
+    "id": 1255,
+    "name": "Lachsfilet",
+    "brand": "OCEAN SEA",
+    "pack": "250 g",
+    "price": 4.29,
+    "eans": "3729318027239,3248012089997"
+  },
+  {
+    "id": 1256,
+    "name": "MSCFischstäbchen",
+    "brand": "OCEAN SEA",
+    "pack": "450 g",
+    "price": 1.99,
+    "eans": "8699096116508,5263670823774"
+  },
+  {
+    "id": 1257,
+    "name": "MSCKabeljaufilet-Portionen",
+    "brand": "Trawlic",
+    "pack": "540 g",
+    "price": 3.99,
+    "eans": "6135407585950,2801199909116"
+  },
+  {
+    "id": 1258,
+    "name": "MSCKap-Seehecht-Rosmarin&Olive",
+    "brand": "OCEAN SEA",
+    "pack": "250 g",
+    "price": 2.29,
+    "eans": "2894696133504,7852326126055"
+  },
+  {
+    "id": 1259,
+    "name": "MSCKap-Seehecht-Zitrone&Pfeffer",
+    "brand": "OCEAN SEA",
+    "pack": "250 g",
+    "price": 2.29,
+    "eans": "1814064717953,5721591223085"
+  },
+  {
+    "id": 1260,
+    "name": "MSCWildlachsfilet",
+    "brand": "OCEAN SEA",
+    "pack": "250 g",
+    "price": 2.79,
+    "eans": "9764832146992,8134984686782"
+  },
+  {
+    "id": 1261,
+    "name": "Schlemmer-Filet,sortiert",
+    "brand": "OCEAN SEA",
+    "pack": "400 g",
+    "price": 1.99,
+    "eans": "4589417301840,6042488834542"
+  },
+  {
+    "id": 1262,
+    "name": "Schollenfiletpaniert",
+    "brand": "OCEAN SEA",
+    "pack": "250 g",
+    "price": 2.29,
+    "eans": "6777565447963,4686108098925"
+  },
+  {
+    "id": 1263,
+    "name": "Wildlachsfilet,sortiert",
+    "brand": "DELUXE",
+    "pack": "700 g",
+    "price": 5.81,
+    "eans": "9047540153484,3275709856730"
+  },
+  {
+    "id": 1264,
+    "name": "ZanderfiletmitHaut",
+    "brand": "DELUXE",
+    "pack": "450 g",
+    "price": 4.35,
+    "eans": "5683545521855,1058073383628"
+  },
+  {
+    "id": 1265,
+    "name": "ChickenNuggets,sortiert",
+    "brand": "MCENNEDY",
+    "pack": "360 g",
+    "price": 2.39,
+    "eans": "6202374778606,3305057875562"
+  },
+  {
+    "id": 1266,
+    "name": "ChickenWings,sortiert",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 2.99,
+    "eans": "4235147616838,5625014942990"
+  },
+  {
+    "id": 1267,
+    "name": "Cordonbleu",
+    "brand": "GUTKNECHT",
+    "pack": "500 g",
+    "price": 2.89,
+    "eans": "4956188023996,6047890861087"
+  },
+  {
+    "id": 1268,
+    "name": "HähnchenNuggets",
+    "brand": "GUTKNECHT",
+    "pack": "500 g",
+    "price": 2.39,
+    "eans": "3175679488019,5135137119365"
+  },
+  {
+    "id": 1269,
+    "name": "Hähnchenbrust",
+    "brand": "CULINEA",
+    "pack": "500 g",
+    "price": 2.79,
+    "eans": "3400904043757,5229251320056"
+  },
+  {
+    "id": 1270,
+    "name": "Gyros-/Kebab-Pfanne",
+    "brand": "CULINEA",
+    "pack": "500 g",
+    "price": 2.69,
+    "eans": "9612167977357,1693755946618"
+  },
+  {
+    "id": 1271,
+    "name": "Lammfilets",
+    "brand": "DELUXE",
+    "pack": "400 g",
+    "price": 10.8,
+    "eans": "4967536366566,3695284252466"
+  },
+  {
+    "id": 1272,
+    "name": "BioKräuter-6Kräuter",
+    "brand": "FRESHONA",
+    "pack": "50 g",
+    "price": 0.69,
+    "eans": "8269973933285,8665817739905"
+  },
+  {
+    "id": 1273,
+    "name": "BioKräuter-Dill",
+    "brand": "FRESHONA",
+    "pack": "50 g",
+    "price": 0.69,
+    "eans": "5894145286819,7118491793554"
+  },
+  {
+    "id": 1274,
+    "name": "BioKräuter-italienischeKräuter",
+    "brand": "FRESHONA",
+    "pack": "50 g",
+    "price": 0.69,
+    "eans": "6546760135735,4654391409322"
+  },
+  {
+    "id": 1275,
+    "name": "BioKräuter-Petersilie",
+    "brand": "FRESHONA",
+    "pack": "50 g",
+    "price": 0.69,
+    "eans": "5425951288997,1249420198754"
+  },
+  {
+    "id": 1276,
+    "name": "BioKräuter-Schnittlauch",
+    "brand": "FRESHONA",
+    "pack": "50 g",
+    "price": 0.69,
+    "eans": "7569114410431,2615396061993"
+  },
+  {
+    "id": 1277,
+    "name": "EcorinoWaffeltütenminis,sortiert",
+    "brand": "Gelatelli",
+    "pack": "12 Stk.",
+    "price": 1.59,
+    "eans": "4431668859680,9058751123555"
+  },
+  {
+    "id": 1278,
+    "name": "Eispralinen",
+    "brand": "DELUXE",
+    "pack": "100 ml",
+    "price": 0.99,
+    "eans": "9905128052379,4059642123888"
+  },
+  {
+    "id": 1279,
+    "name": "GelatelliUp",
+    "brand": "Gelatelli",
+    "pack": "4 Stk.",
+    "price": 1.59,
+    "eans": "3332286295267,2193633760859"
+  },
+  {
+    "id": 1280,
+    "name": "Mini-Eisdessert,sortiert",
+    "brand": "DELUXE",
+    "pack": "140 ml",
+    "price": 0.99,
+    "eans": "4158562615180,3414348372717"
+  },
+  {
+    "id": 1281,
+    "name": "PremiumStieleis",
+    "brand": "Gelatelli",
+    "pack": "6 Stk.",
+    "price": 1.99,
+    "eans": "1272352358903,6000164367531"
+  },
+  {
+    "id": 1282,
+    "name": "Premium-Eiscreme,sortiert",
+    "brand": "Gelatelli",
+    "pack": "1000 ml",
+    "price": 1.59,
+    "eans": "2042735328217,4225155944207"
+  },
+  {
+    "id": 1283,
+    "name": "Quetschtüten,sortiert",
+    "brand": "Gelatelli",
+    "pack": "6 Stk.",
+    "price": 1.39,
+    "eans": "9397692627280,2726192683675"
+  },
+  {
+    "id": 1284,
+    "name": "SahneeisschnitteMoskauerArt",
+    "brand": "Gelatelli",
+    "pack": "900 ml",
+    "price": 1.99,
+    "eans": "5305137989491,7101403337823"
+  },
+  {
+    "id": 1285,
+    "name": "SandwichnachFürstPücklerArt",
+    "brand": "Gelatelli",
+    "pack": "8 Stk.",
+    "price": 1.39,
+    "eans": "6320716917718,4688955702062"
+  },
+  {
+    "id": 1286,
+    "name": "Sandwich-EisClassico",
+    "brand": "Gelatelli",
+    "pack": "8 Stk.",
+    "price": 1.29,
+    "eans": "6220256375293,6110826908450"
+  },
+  {
+    "id": 1287,
+    "name": "Sorbet,sortiert",
+    "brand": "Gelatelli",
+    "pack": "1000 ml",
+    "price": 1.59,
+    "eans": "8458562262930,4499688231169"
+  },
+  {
+    "id": 1288,
+    "name": "Spaghetti-Eis",
+    "brand": "Gelatelli",
+    "pack": "510 ml",
+    "price": 1.39,
+    "eans": "4740136216192,5134532935358"
+  },
+  {
+    "id": 1289,
+    "name": "Superb,Vanille-Schokoladeneis",
+    "brand": "Gelatelli",
+    "pack": "440 ml",
+    "price": 1.99,
+    "eans": "9566387445205,1739834302828"
+  },
+  {
+    "id": 1290,
+    "name": "Vanilleeis",
+    "brand": "Gelatelli",
+    "pack": "2500 ml",
+    "price": 2.49,
+    "eans": "7192224787461,7283313662582"
+  },
+  {
+    "id": 1291,
+    "name": "Waffeltüten,sortiert",
+    "brand": "Gelatelli",
+    "pack": "720 ml",
+    "price": 1.39,
+    "eans": "2908286309009,6832168192846"
+  },
+  {
+    "id": 1292,
+    "name": "Weihnachtseis,sortiert",
+    "brand": "DELUXE",
+    "pack": "1 Pkg",
+    "price": 1.44,
+    "eans": "5604764818779,5346904352728"
+  },
+  {
+    "id": 1293,
+    "name": "Blattspinat",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 1.89,
+    "eans": "2295934615743,4246612930762"
+  },
+  {
+    "id": 1294,
+    "name": "Blumenkohl",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.59,
+    "eans": "9715063359842,5542669281574"
+  },
+  {
+    "id": 1295,
+    "name": "Broccoli",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.59,
+    "eans": "6537980882189,7623910832085"
+  },
+  {
+    "id": 1296,
+    "name": "Buttergemüse",
+    "brand": "FRESHONA",
+    "pack": "300 g",
+    "price": 0.59,
+    "eans": "6753806450183,7851939712969"
+  },
+  {
+    "id": 1297,
+    "name": "Erbsen",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.69,
+    "eans": "5703079923403,2787584407804"
+  },
+  {
+    "id": 1298,
+    "name": "Gemüsemix",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.49,
+    "eans": "7572154065929,9845054830514"
+  },
+  {
+    "id": 1299,
+    "name": "Kaisergemüse",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.69,
+    "eans": "8087516906530,2860723607553"
+  },
+  {
+    "id": 1300,
+    "name": "Karottenscheiben",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.59,
+    "eans": "8887015142015,3203855135768"
+  },
+  {
+    "id": 1301,
+    "name": "Prinzessbohnen",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.59,
+    "eans": "9448690932057,5147353761785"
+  },
+  {
+    "id": 1302,
+    "name": "Rahmgemüse-Blumenkohl",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 1.59,
+    "eans": "1163849509116,9137244145240"
+  },
+  {
+    "id": 1303,
+    "name": "Rahmgemüse-ErbsenundKarotten",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 1.59,
+    "eans": "8620894522758,7789116167632"
+  },
+  {
+    "id": 1304,
+    "name": "Rahmgemüse-Kohlrabi",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 1.59,
+    "eans": "8939722528948,7343423178042"
+  },
+  {
+    "id": 1305,
+    "name": "Rahmgemüse-Königsgemüse",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 1.59,
+    "eans": "7559695279848,6159288058594"
+  },
+  {
+    "id": 1306,
+    "name": "Rahmspinat",
+    "brand": "FRESHONA",
+    "pack": "450 g",
+    "price": 0.59,
+    "eans": "3040040466722,9986935305575"
+  },
+  {
+    "id": 1307,
+    "name": "Rosenkohl",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.59,
+    "eans": "3585817287570,9213836862556"
+  },
+  {
+    "id": 1308,
+    "name": "Sommergemüse",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 1.89,
+    "eans": "1786175426140,4722011793363"
+  },
+  {
+    "id": 1309,
+    "name": "Suppengemüse",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 1.99,
+    "eans": "5486375901640,1621234411500"
+  },
+  {
+    "id": 1310,
+    "name": "Himbeeren",
+    "brand": "FRESHONA",
+    "pack": "500 g",
+    "price": 2.49,
+    "eans": "4920387201752,7715611542568"
+  },
+  {
+    "id": 1311,
+    "name": "Obst,sortiert",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 2.49,
+    "eans": "4915188477956,3119056596577"
+  },
+  {
+    "id": 1312,
+    "name": "AromatischerWaldhonigfeinwürzig",
+    "brand": "MARLENE",
+    "pack": "500 g",
+    "price": 3.29,
+    "eans": "8893239930642,6993255039816"
+  },
+  {
+    "id": 1313,
+    "name": "Blütenhonigfeincremig",
+    "brand": "MARLENE",
+    "pack": "500 g",
+    "price": 2.29,
+    "eans": "5530910301454,9229131025886"
+  },
+  {
+    "id": 1314,
+    "name": "Blütenhoniggoldklar",
+    "brand": "MARLENE",
+    "pack": "500 g",
+    "price": 2.49,
+    "eans": "6518201653931,7888438981343"
+  },
+  {
+    "id": 1315,
+    "name": "BrunchBrotaufstrich",
+    "brand": "ACME",
+    "pack": "200 g",
+    "price": 1.69,
+    "eans": "8702425461467,9912273156487"
+  },
+  {
+    "id": 1316,
+    "name": "DieFeineFruchtaufstrich,sortiert",
+    "brand": "Maribel",
+    "pack": "300 g",
+    "price": 1.19,
+    "eans": "4893036844382,8636454676731"
+  },
+  {
+    "id": 1317,
+    "name": "FlüssigerBlütenhonig",
+    "brand": "MARLENE",
+    "pack": "500 g",
+    "price": 2.99,
+    "eans": "7876897006837,8219411000833"
+  },
+  {
+    "id": 1318,
+    "name": "Fruchtaufstrich\"DieFeine\"Himbeer",
+    "brand": "Maribel",
+    "pack": "300 g",
+    "price": 1.19,
+    "eans": "4946067256775,8153236838168"
+  },
+  {
+    "id": 1319,
+    "name": "Heidelbeerkonfitüreextra",
+    "brand": "Maribel",
+    "pack": "450 g",
+    "price": 1.45,
+    "eans": "5823033167305,5420453400724"
+  },
+  {
+    "id": 1320,
+    "name": "KonfitüreAprikose",
+    "brand": "Maribel",
+    "pack": "450 g",
+    "price": 0.99,
+    "eans": "3386102086928,2753967276336"
+  },
+  {
+    "id": 1321,
+    "name": "KonfitüreExtraAprikose",
+    "brand": "Maribel",
+    "pack": "260 g",
+    "price": 1.19,
+    "eans": "5399237870803,4207650392974"
+  },
+  {
+    "id": 1322,
+    "name": "KonfitüreExtraErdbeer",
+    "brand": "Maribel",
+    "pack": "260 g",
+    "price": 1.19,
+    "eans": "7463515469640,1378466822986"
+  },
+  {
+    "id": 1323,
+    "name": "KonfitüreExtraErdbeer-Vanille",
+    "brand": "Maribel",
+    "pack": "450 g",
+    "price": 0.99,
+    "eans": "9265143821740,7250138283018"
+  },
+  {
+    "id": 1324,
+    "name": "KonfitüreExtraErdbeere",
+    "brand": "Maribel",
+    "pack": "450 g",
+    "price": 0.99,
+    "eans": "5509980873369,6828015681182"
+  },
+  {
+    "id": 1325,
+    "name": "KonfitüreExtraHimbeere",
+    "brand": "Maribel",
+    "pack": "450 g",
+    "price": 0.99,
+    "eans": "2185462346878,4910614603381"
+  },
+  {
+    "id": 1326,
+    "name": "KonfitüreExtraHimbeere",
+    "brand": "Maribel",
+    "pack": "260 g",
+    "price": 1.19,
+    "eans": "5488875266281,5833736453612"
+  },
+  {
+    "id": 1327,
+    "name": "KonfitüreExtraSauerkirsch",
+    "brand": "Maribel",
+    "pack": "450 g",
+    "price": 0.99,
+    "eans": "7186846201108,4407982474908"
+  },
+  {
+    "id": 1328,
+    "name": "KonfitüreExtraWaldfrucht",
+    "brand": "Maribel",
+    "pack": "450 g",
+    "price": 0.99,
+    "eans": "4819367280798,2499376748179"
+  },
+  {
+    "id": 1329,
+    "name": "Nuss-Nougat-Creme\"ChocoNussa",
+    "brand": "Mister Choc",
+    "pack": "400 g",
+    "price": 1.29,
+    "eans": "8388892354633,2914629838396"
+  },
+  {
+    "id": 1330,
+    "name": "Nutella",
+    "brand": "ACME",
+    "pack": "750 g",
+    "price": 3.99,
+    "eans": "8777137419853,5433093197732"
+  },
+  {
+    "id": 1331,
+    "name": "OrangenMarmelade",
+    "brand": "Maribel",
+    "pack": "450 g",
+    "price": 0.99,
+    "eans": "5114934783535,7588740010907"
+  },
+  {
+    "id": 1332,
+    "name": "Pflaumenmus",
+    "brand": "Maribel",
+    "pack": "450 g",
+    "price": 0.99,
+    "eans": "9835883548216,5898585184537"
+  },
+  {
+    "id": 1333,
+    "name": "SchokocremeChocoDuo",
+    "brand": "Mister Choc",
+    "pack": "750 g",
+    "price": 1.99,
+    "eans": "6951444692372,9016889193222"
+  },
+  {
+    "id": 1334,
+    "name": "Banane-SchokoPuffs",
+    "brand": "Crownfield",
+    "pack": "375 g",
+    "price": 1.99,
+    "eans": "8383543917502,1933461604601"
+  },
+  {
+    "id": 1335,
+    "name": "BranFlakes",
+    "brand": "Crownfield",
+    "pack": "500 g",
+    "price": 1.89,
+    "eans": "8669186868730,3370759397414"
+  },
+  {
+    "id": 1336,
+    "name": "ChocoMoons",
+    "brand": "Crownfield",
+    "pack": "750 g",
+    "price": 1.99,
+    "eans": "8873147120113,3897801080518"
+  },
+  {
+    "id": 1337,
+    "name": "ChocoRice",
+    "brand": "Crownfield",
+    "pack": "750 g",
+    "price": 1.99,
+    "eans": "9128483243965,1818049073423"
+  },
+  {
+    "id": 1338,
+    "name": "ChocoShells",
+    "brand": "Crownfield",
+    "pack": "750 g",
+    "price": 1.99,
+    "eans": "2627468905838,8606727828938"
+  },
+  {
+    "id": 1339,
+    "name": "Cornflakes",
+    "brand": "Crownfield",
+    "pack": "850 g",
+    "price": 1.69,
+    "eans": "1449386014789,1308165994653"
+  },
+  {
+    "id": 1340,
+    "name": "FrostedFlakes",
+    "brand": "Crownfield",
+    "pack": "750 g",
+    "price": 1.99,
+    "eans": "9833466519042,4575508802839"
+  },
+  {
+    "id": 1341,
+    "name": "Früchte-Müsli",
+    "brand": "Crownfield",
+    "pack": "750 g",
+    "price": 1.69,
+    "eans": "4642510723046,3943643322931"
+  },
+  {
+    "id": 1342,
+    "name": "GoldenPuffs",
+    "brand": "Crownfield",
+    "pack": "750 g",
+    "price": 1.99,
+    "eans": "1857727685473,1977482318475"
+  },
+  {
+    "id": 1343,
+    "name": "Haferflocken,zart",
+    "brand": "Crownfield",
+    "pack": "500 g",
+    "price": 0.95,
+    "eans": "5474130547493,5342992913162"
+  },
+  {
+    "id": 1344,
+    "name": "Haferflocken,zartoderkernig",
+    "brand": "Crownfield",
+    "pack": "500 g",
+    "price": 0.49,
+    "eans": "9545354960194,6831095387004"
+  },
+  {
+    "id": 1345,
+    "name": "KnusperMüsliKokos",
+    "brand": "Crownfield",
+    "pack": "750 g",
+    "price": 1.69,
+    "eans": "8962429784621,2463826348158"
+  },
+  {
+    "id": 1346,
+    "name": "Knusper-Müsli,Bio,sortiert",
+    "brand": "Crownfield",
+    "pack": "500 g",
+    "price": 2.45,
+    "eans": "6935571361547,1343239577202"
+  },
+  {
+    "id": 1347,
+    "name": "Müsli,Trauben&Nuss",
+    "brand": "Crownfield",
+    "pack": "1000 g",
+    "price": 1.59,
+    "eans": "2214982950217,7774426285756"
+  },
+  {
+    "id": 1348,
+    "name": "Müsli-Riegel,sortiert",
+    "brand": "Crownfield",
+    "pack": "100 g",
+    "price": 0.79,
+    "eans": "6323629608681,4042487979536"
+  },
+  {
+    "id": 1349,
+    "name": "Müsli-Riegel,Apfel",
+    "brand": "Crownfield",
+    "pack": "200 g",
+    "price": 0.99,
+    "eans": "9706495653264,4419149702854"
+  },
+  {
+    "id": 1350,
+    "name": "NougatKissen",
+    "brand": "Crownfield",
+    "pack": "750 g",
+    "price": 1.99,
+    "eans": "5667275297129,1289115613827"
+  },
+  {
+    "id": 1351,
+    "name": "RoteFrüchteFlakes",
+    "brand": "Crownfield",
+    "pack": "425 g",
+    "price": 1.79,
+    "eans": "6083476829652,8765410804793"
+  },
+  {
+    "id": 1352,
+    "name": "Schoko-Müsli",
+    "brand": "Crownfield",
+    "pack": "750 g",
+    "price": 1.69,
+    "eans": "7204049312633,1284479089844"
+  },
+  {
+    "id": 1353,
+    "name": "Schoko-Müsliwenigersüß",
+    "brand": "Crownfield",
+    "pack": "750 g",
+    "price": 1.69,
+    "eans": "5835962603915,4039471395045"
+  },
+  {
+    "id": 1354,
+    "name": "Zimtinos",
+    "brand": "Crownfield",
+    "pack": "750 g",
+    "price": 1.99,
+    "eans": "4181579463796,6134994329176"
+  },
+  {
+    "id": 1355,
+    "name": "Bio-Eier",
+    "brand": "ACME",
+    "pack": "6 Stk.",
+    "price": 1.99,
+    "eans": "1542866677266,2586451535097"
+  },
+  {
+    "id": 1356,
+    "name": "Bio-Eier",
+    "brand": "ACME",
+    "pack": "10 Stk.",
+    "price": 2.69,
+    "eans": "3715549694920,9169118963568"
+  },
+  {
+    "id": 1357,
+    "name": "EierausBodenhaltung",
+    "brand": "ACME",
+    "pack": "10 Stk.",
+    "price": 1.29,
+    "eans": "8558244985772,5391085041534"
+  },
+  {
+    "id": 1358,
+    "name": "Freilandeier",
+    "brand": "ACME",
+    "pack": "10 Stk.",
+    "price": 1.69,
+    "eans": "6427057483404,8912282626378"
+  },
+  {
+    "id": 1359,
+    "name": "2-KammerFruchtjoghurtErdbeere",
+    "brand": "Milbona",
+    "pack": "175 g",
+    "price": 0.29,
+    "eans": "1380748659746,3240057545582"
+  },
+  {
+    "id": 1360,
+    "name": "2-KammerFruchtjoghurtKirsche",
+    "brand": "Milbona",
+    "pack": "175 g",
+    "price": 0.29,
+    "eans": "3381788233185,8677886749310"
+  },
+  {
+    "id": 1361,
+    "name": "2-KammerFruchtjoghurtWaldbeere",
+    "brand": "Milbona",
+    "pack": "175 g",
+    "price": 0.29,
+    "eans": "7733666646468,1206433689747"
+  },
+  {
+    "id": 1362,
+    "name": "2-KammerKinderjoghurtBrummbär",
+    "brand": "Milbona",
+    "pack": "175 g",
+    "price": 0.35,
+    "eans": "7009375149959,8467590343412"
+  },
+  {
+    "id": 1363,
+    "name": "2-KammerKinderjoghurtBunterVogel",
+    "brand": "Milbona",
+    "pack": "175 g",
+    "price": 0.35,
+    "eans": "8086705007805,9609249622656"
+  },
+  {
+    "id": 1364,
+    "name": "2-KammerKnusperjoghurtBanane&Schokoflakes",
+    "brand": "Milbona",
+    "pack": "175 g",
+    "price": 0.29,
+    "eans": "3815809705394,9835142225674"
+  },
+  {
+    "id": 1365,
+    "name": "2-KammerKnusperjoghurtVanillemitSchokoballs",
+    "brand": "Milbona",
+    "pack": "175 g",
+    "price": 0.29,
+    "eans": "8549270089930,3680355053738"
+  },
+  {
+    "id": 1366,
+    "name": "2-KammerKnusperjoghurtWaffelcrunchies",
+    "brand": "Milbona",
+    "pack": "175 g",
+    "price": 0.29,
+    "eans": "3490258550087,5655222273432"
+  },
+  {
+    "id": 1367,
+    "name": "Ayran",
+    "brand": "Milbona",
+    "pack": "250 ml",
+    "price": 0.38,
+    "eans": "5814977974166,1378215253306"
+  },
+  {
+    "id": 1368,
+    "name": "BiofettarmerJoghurtmild,1,8%Fett",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 0.85,
+    "eans": "2504851503164,9432719082298"
+  },
+  {
+    "id": 1369,
+    "name": "Bio-Joghurtmild3,8%",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 0.89,
+    "eans": "5148625966556,9743018584384"
+  },
+  {
+    "id": 1370,
+    "name": "Cremejoghurt,sortiert",
+    "brand": "Milbona",
+    "pack": "1000 g",
+    "price": 1.69,
+    "eans": "7334558281523,2142170890147"
+  },
+  {
+    "id": 1371,
+    "name": "feineQuarkcreme",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 0.55,
+    "eans": "5885883565854,8154824337766"
+  },
+  {
+    "id": 1372,
+    "name": "fettarmerJoghurtmild1,5%Fett",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 0.49,
+    "eans": "8363471525628,3826831208456"
+  },
+  {
+    "id": 1373,
+    "name": "FettarmerJoghurt,1,8%Fett,sortiert",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 0.35,
+    "eans": "4928004110067,7253978669660"
+  },
+  {
+    "id": 1374,
+    "name": "FrischkäsezubereitungaufFruchtzubereitung,sortiert",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 0.55,
+    "eans": "4655662340603,3648035137482"
+  },
+  {
+    "id": 1375,
+    "name": "Fruchtjoghurt3,5%FettApfel-Birne",
+    "brand": "Milbona",
+    "pack": "150 g",
+    "price": 0.39,
+    "eans": "4087087834229,6319307915882"
+  },
+  {
+    "id": 1376,
+    "name": "Fruchtjoghurt3,8%FettErdbeer",
+    "brand": "Milbona",
+    "pack": "150 g",
+    "price": 0.39,
+    "eans": "7491039645776,3047131348707"
+  },
+  {
+    "id": 1377,
+    "name": "Fruchtjoghurt3,8%FettKirsche",
+    "brand": "Milbona",
+    "pack": "150 g",
+    "price": 0.39,
+    "eans": "4705868769163,3129196353381"
+  },
+  {
+    "id": 1378,
+    "name": "Fruchtjoghurt3,8%FettPfirsich-Maracuja",
+    "brand": "Milbona",
+    "pack": "150 g",
+    "price": 0.39,
+    "eans": "2003610313056,1898542319044"
+  },
+  {
+    "id": 1379,
+    "name": "Gyroscreme",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 1.19,
+    "eans": "7853402538977,1130897080393"
+  },
+  {
+    "id": 1380,
+    "name": "JoghurtCranberrymitSchokosplits",
+    "brand": "MCENNEDY",
+    "pack": "150 g",
+    "price": 0.49,
+    "eans": "6516045819278,7725386655578"
+  },
+  {
+    "id": 1381,
+    "name": "JoghurtDrink,sortiert",
+    "brand": "Milbona",
+    "pack": "750 ml",
+    "price": 0.99,
+    "eans": "1294755581986,3071669250522"
+  },
+  {
+    "id": 1382,
+    "name": "Joghurtmild,3,5%Fett",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 0.55,
+    "eans": "7811090150383,1211481427869"
+  },
+  {
+    "id": 1383,
+    "name": "Joghurtmild,3,8%Fett,laktosefrei",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 0.85,
+    "eans": "3931173095647,2032503799325"
+  },
+  {
+    "id": 1384,
+    "name": "Joghurt,pur,3,8%Fett",
+    "brand": "Biotrend",
+    "pack": "150 g",
+    "price": 0.35,
+    "eans": "2462325944441,9788243988125"
+  },
+  {
+    "id": 1385,
+    "name": "Kräuterquark40%Fett",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 0.55,
+    "eans": "3857431541599,2603752903889"
+  },
+  {
+    "id": 1386,
+    "name": "LaktosefreierJoghurt,sortiert",
+    "brand": "Milbona",
+    "pack": "150 g",
+    "price": 0.29,
+    "eans": "7299817705083,1420490953102"
+  },
+  {
+    "id": 1387,
+    "name": "MousseauChocolatVollmilch",
+    "brand": "Duc De Coeur",
+    "pack": "240 g",
+    "price": 0.99,
+    "eans": "1018802783518,6574906980062"
+  },
+  {
+    "id": 1388,
+    "name": "Naturjoghurt3,5%Fett",
+    "brand": "Milbona",
+    "pack": "600 g",
+    "price": 0.65,
+    "eans": "7957179168440,8879254453977"
+  },
+  {
+    "id": 1389,
+    "name": "Oma'sJoghurt,sortiert",
+    "brand": "Alpenfest",
+    "pack": "150 g",
+    "price": 0.39,
+    "eans": "7726775148916,8515837598320"
+  },
+  {
+    "id": 1390,
+    "name": "ProviactJoghurt,sortiert",
+    "brand": "Milbona",
+    "pack": "600 g",
+    "price": 0.99,
+    "eans": "7925914881183,7769317588559"
+  },
+  {
+    "id": 1391,
+    "name": "QuarkTraum,0,2%Fett,sortiert",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 0.97,
+    "eans": "5025169132503,3563388425355"
+  },
+  {
+    "id": 1392,
+    "name": "Skyrgerührt,sortiert",
+    "brand": "Milbona",
+    "pack": "150 g",
+    "price": 0.49,
+    "eans": "5730600004850,6833584229819"
+  },
+  {
+    "id": 1393,
+    "name": "Skyrgerührt-Erdbeere",
+    "brand": "Milbona",
+    "pack": "350 g",
+    "price": 1.19,
+    "eans": "7979527588755,8456949681398"
+  },
+  {
+    "id": 1394,
+    "name": "Skyrgerührt-Himbeere",
+    "brand": "Milbona",
+    "pack": "350 g",
+    "price": 0.85,
+    "eans": "3854673239260,8023419993260"
+  },
+  {
+    "id": 1395,
+    "name": "Skyrgerührt-Blaubeere",
+    "brand": "Milbona",
+    "pack": "350 g",
+    "price": 0.85,
+    "eans": "1649567142922,2461243672009"
+  },
+  {
+    "id": 1396,
+    "name": "Skyrgerührt-Vanille",
+    "brand": "Milbona",
+    "pack": "350 g",
+    "price": 1.09,
+    "eans": "7428496268064,6645912458972"
+  },
+  {
+    "id": 1397,
+    "name": "Skyrpur",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 0.99,
+    "eans": "3008981331332,8790595397716"
+  },
+  {
+    "id": 1398,
+    "name": "Speisequark20%Fett",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 0.49,
+    "eans": "3569103102525,9131345802323"
+  },
+  {
+    "id": 1399,
+    "name": "Speisequark40%Fett",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 0.49,
+    "eans": "6585592817501,4799297411939"
+  },
+  {
+    "id": 1400,
+    "name": "Speisequark,Magerstufe",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 0.75,
+    "eans": "7205061855979,1006019457193"
+  },
+  {
+    "id": 1401,
+    "name": "Zaziki",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 1.19,
+    "eans": "4542861228668,8030046023208"
+  },
+  {
+    "id": 1402,
+    "name": "BioFrischefettarmeMilch,1,5%Fett",
+    "brand": "Milbona",
+    "pack": "1 l",
+    "price": 0.99,
+    "eans": "8820533537840,1836114339977"
+  },
+  {
+    "id": 1403,
+    "name": "BioH-Milch1,5%Fett",
+    "brand": "Milbona",
+    "pack": "1 l",
+    "price": 0.99,
+    "eans": "5607957075096,7337465905292"
+  },
+  {
+    "id": 1404,
+    "name": "BioOrganicHaferdrink",
+    "brand": "Milbona",
+    "pack": "1 l",
+    "price": 1.19,
+    "eans": "8923492001664,5400096294362"
+  },
+  {
+    "id": 1405,
+    "name": "BioOrganicSoja-Drink",
+    "brand": "Milbona",
+    "pack": "1 l",
+    "price": 0.95,
+    "eans": "6884486860976,5668848654974"
+  },
+  {
+    "id": 1406,
+    "name": "Bio-Vollmilch,3,8%Fett",
+    "brand": "Milbona",
+    "pack": "1 l",
+    "price": 1.09,
+    "eans": "4207086642612,9583924319386"
+  },
+  {
+    "id": 1407,
+    "name": "CremeFraiche",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 0.67,
+    "eans": "7164393768763,7049168139422"
+  },
+  {
+    "id": 1408,
+    "name": "Cremosano15%Fett",
+    "brand": "Milbona",
+    "pack": "250 ml",
+    "price": 0.79,
+    "eans": "9600598372889,6680881402755"
+  },
+  {
+    "id": 1409,
+    "name": "Cremosano7%Fett",
+    "brand": "Milbona",
+    "pack": "250 ml",
+    "price": 0.79,
+    "eans": "2315260335754,8233818839667"
+  },
+  {
+    "id": 1410,
+    "name": "FrischefettarmeMilch,1,5%",
+    "brand": "Milbona",
+    "pack": "1 l",
+    "price": 0.72,
+    "eans": "2595510154070,9722688438487"
+  },
+  {
+    "id": 1411,
+    "name": "FrischeVollmilch3,5%Fett",
+    "brand": "Milbona",
+    "pack": "1 l",
+    "price": 0.79,
+    "eans": "3188641105203,7377481375730"
+  },
+  {
+    "id": 1412,
+    "name": "FrischeWeidevollmilch,3,8%Fett",
+    "brand": "Milbona",
+    "pack": "1 l",
+    "price": 1.05,
+    "eans": "1961705900769,4571225776293"
+  },
+  {
+    "id": 1413,
+    "name": "Frucht-Buttermilch,sortiert",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 0.29,
+    "eans": "4717261880987,9967380382960"
+  },
+  {
+    "id": 1414,
+    "name": "H-Milch3,5%",
+    "brand": "Milbona",
+    "pack": "1 l",
+    "price": 0.79,
+    "eans": "6268164789825,2862749784997"
+  },
+  {
+    "id": 1415,
+    "name": "H-Milch,1,5%Fett",
+    "brand": "Milbona",
+    "pack": "1 l",
+    "price": 0.71,
+    "eans": "8019327189208,2497308942435"
+  },
+  {
+    "id": 1416,
+    "name": "Kaffeesahne10%",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 0.55,
+    "eans": "4901202266354,9717460354260"
+  },
+  {
+    "id": 1417,
+    "name": "Kaffeesahne12%",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 0.39,
+    "eans": "3187201179814,6193362297998"
+  },
+  {
+    "id": 1418,
+    "name": "Kondensmilch4%",
+    "brand": "Milbona",
+    "pack": "340 g",
+    "price": 0.49,
+    "eans": "5653018921727,1769794737736"
+  },
+  {
+    "id": 1419,
+    "name": "Kondensmilch7,5%",
+    "brand": "Milbona",
+    "pack": "340 g",
+    "price": 0.55,
+    "eans": "2059627369364,3024369891847"
+  },
+  {
+    "id": 1420,
+    "name": "LaktosefreieHaltbarefettarmeMilch1,5%",
+    "brand": "Milbona",
+    "pack": "1 l",
+    "price": 0.96,
+    "eans": "1970798972690,4105456478260"
+  },
+  {
+    "id": 1421,
+    "name": "LaktosefreieSchlagsahneHaltbar30%Fett",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 0.85,
+    "eans": "8670572764901,6836362713722"
+  },
+  {
+    "id": 1422,
+    "name": "MilchdrinkSchoko",
+    "brand": "Milbona",
+    "pack": "500 ml",
+    "price": 0.55,
+    "eans": "7931848026729,3093307772890"
+  },
+  {
+    "id": 1423,
+    "name": "ReineButtermilch",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 0.39,
+    "eans": "1844779684745,3035368105835"
+  },
+  {
+    "id": 1424,
+    "name": "SaureSahne,10%Fett",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 0.39,
+    "eans": "3944886257851,1059108880891"
+  },
+  {
+    "id": 1425,
+    "name": "SchlagsahneHaltbar30%Fett",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 0.61,
+    "eans": "4968610307987,5020900550943"
+  },
+  {
+    "id": 1426,
+    "name": "Schlagsahne,30%Fett",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 0.63,
+    "eans": "6959525239683,1181916455029"
+  },
+  {
+    "id": 1427,
+    "name": "Schmand",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 0.55,
+    "eans": "8325879638010,8533407438463"
+  },
+  {
+    "id": 1428,
+    "name": "Sprühsahne",
+    "brand": "Milbona",
+    "pack": "250 ml",
+    "price": 1.19,
+    "eans": "8493087952508,8438490626493"
+  },
+  {
+    "id": 1429,
+    "name": "CrèmeBrûlée",
+    "brand": "DELUXE",
+    "pack": "200 g",
+    "price": 1.29,
+    "eans": "5524504841822,5860266466133"
+  },
+  {
+    "id": 1430,
+    "name": "Dessert,sortiert",
+    "brand": "DELUXE",
+    "pack": "60 g",
+    "price": 0.99,
+    "eans": "9391348831991,4976381297673"
+  },
+  {
+    "id": 1431,
+    "name": "DessertimGlas,sortiert",
+    "brand": "DELUXE",
+    "pack": "60 g",
+    "price": 0.99,
+    "eans": "6317039837007,4141944284982"
+  },
+  {
+    "id": 1432,
+    "name": "Milchreis,sortiert",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 0.29,
+    "eans": "7400112353262,5831210064033"
+  },
+  {
+    "id": 1433,
+    "name": "Moussed’Amour,sortiert",
+    "brand": "DELUXE",
+    "pack": "176 g",
+    "price": 0.99,
+    "eans": "7740688694902,4686576999397"
+  },
+  {
+    "id": 1434,
+    "name": "SahnePuddingBourbon-Vanille",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 1.39,
+    "eans": "6591533163743,5144979147979"
+  },
+  {
+    "id": 1435,
+    "name": "SahnePuddingVollmilch-Schokolade",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 1.39,
+    "eans": "5724617797492,6026240759502"
+  },
+  {
+    "id": 1436,
+    "name": "Tiramisù",
+    "brand": "DELUXE",
+    "pack": "500 g",
+    "price": 2.79,
+    "eans": "4234368366812,4273138430957"
+  },
+  {
+    "id": 1437,
+    "name": "EcorinoWaffeltütenminis,sortiert",
+    "brand": "Gelatelli",
+    "pack": "12 Stk.",
+    "price": 1.59,
+    "eans": "7618350343642,2502269726663"
+  },
+  {
+    "id": 1438,
+    "name": "Eispralinen",
+    "brand": "DELUXE",
+    "pack": "100 ml",
+    "price": 0.99,
+    "eans": "8068833050762,1623043999576"
+  },
+  {
+    "id": 1439,
+    "name": "GelatelliUp",
+    "brand": "Gelatelli",
+    "pack": "4 Stk.",
+    "price": 1.59,
+    "eans": "9001633521079,7332046699928"
+  },
+  {
+    "id": 1440,
+    "name": "MiniMixMandelStieleis",
+    "brand": "Gelatelli",
+    "pack": "12 Stk.",
+    "price": 1.79,
+    "eans": "8477833319142,4895318447052"
+  },
+  {
+    "id": 1441,
+    "name": "Mini-Eisdessert,sortiert",
+    "brand": "DELUXE",
+    "pack": "140 ml",
+    "price": 0.99,
+    "eans": "4756514415545,4786208825879"
+  },
+  {
+    "id": 1442,
+    "name": "PremiumStieleis",
+    "brand": "Gelatelli",
+    "pack": "6 Stk.",
+    "price": 1.99,
+    "eans": "8786815465327,3307512253205"
+  },
+  {
+    "id": 1443,
+    "name": "Premium-Eiscreme,sortiert",
+    "brand": "Gelatelli",
+    "pack": "1000 ml",
+    "price": 1.59,
+    "eans": "3853799778523,4645835249291"
+  },
+  {
+    "id": 1444,
+    "name": "Quetschtüten,sortiert",
+    "brand": "Gelatelli",
+    "pack": "6 Stk.",
+    "price": 1.39,
+    "eans": "9534249031392,3886943430077"
+  },
+  {
+    "id": 1445,
+    "name": "SahneeisschnitteMoskauerArt",
+    "brand": "Gelatelli",
+    "pack": "900 ml",
+    "price": 1.99,
+    "eans": "3843160674967,7030219421948"
+  },
+  {
+    "id": 1446,
+    "name": "SandwichnachFürstPücklerArt",
+    "brand": "Gelatelli",
+    "pack": "8 Stk.",
+    "price": 1.39,
+    "eans": "6488271830511,3616265258031"
+  },
+  {
+    "id": 1447,
+    "name": "Sandwich-EisClassico",
+    "brand": "Gelatelli",
+    "pack": "8 Stk.",
+    "price": 1.29,
+    "eans": "9552203661492,6877892434848"
+  },
+  {
+    "id": 1448,
+    "name": "Sorbet,sortiert",
+    "brand": "Gelatelli",
+    "pack": "1000 ml",
+    "price": 1.59,
+    "eans": "4251044449041,8362948157225"
+  },
+  {
+    "id": 1449,
+    "name": "Spaghetti-Eis",
+    "brand": "Gelatelli",
+    "pack": "510 ml",
+    "price": 1.39,
+    "eans": "5337718520151,7705849662763"
+  },
+  {
+    "id": 1450,
+    "name": "Superb,Vanille-Schokoladeneis",
+    "brand": "Gelatelli",
+    "pack": "440 ml",
+    "price": 1.99,
+    "eans": "8714632142541,9107819693513"
+  },
+  {
+    "id": 1451,
+    "name": "Vanilleeis",
+    "brand": "Gelatelli",
+    "pack": "2500 ml",
+    "price": 2.49,
+    "eans": "4243512798935,6844931011346"
+  },
+  {
+    "id": 1452,
+    "name": "Waffeltüten,sortiert",
+    "brand": "Gelatelli",
+    "pack": "720 ml",
+    "price": 1.39,
+    "eans": "4200621652176,1023435142502"
+  },
+  {
+    "id": 1453,
+    "name": "Weihnachtseis,sortiert",
+    "brand": "DELUXE",
+    "pack": "1 Pkg",
+    "price": 1.44,
+    "eans": "2660166988567,8637944305018"
+  },
+  {
+    "id": 1454,
+    "name": "Steinofenpizza,2xHawaii",
+    "brand": "Trattoria Alfredo",
+    "pack": "710 g",
+    "price": 2.59,
+    "eans": "3639347123379,4200777650545"
+  },
+  {
+    "id": 1455,
+    "name": "ABCSuppe",
+    "brand": "Kania",
+    "pack": "82 g",
+    "price": 0.35,
+    "eans": "6721657836029,4553677917882"
+  },
+  {
+    "id": 1456,
+    "name": "AmericanPizzaSupreme",
+    "brand": "Trattoria Alfredo",
+    "pack": "440 g",
+    "price": 1.99,
+    "eans": "9000497542220,8373997619015"
+  },
+  {
+    "id": 1457,
+    "name": "AmericanPizzaTexas",
+    "brand": "Trattoria Alfredo",
+    "pack": "400 g",
+    "price": 1.99,
+    "eans": "5590090733483,7335204255646"
+  },
+  {
+    "id": 1458,
+    "name": "AmericanStylePizzaPeperoni-Salami",
+    "brand": "MCENNEDY",
+    "pack": "440 g",
+    "price": 1.89,
+    "eans": "7626390861088,6501114925448"
+  },
+  {
+    "id": 1459,
+    "name": "Apfel-Flammkuchen",
+    "brand": "Duc De Coeur",
+    "pack": "300 g",
+    "price": 1.89,
+    "eans": "8657368373066,2907458541438"
+  },
+  {
+    "id": 1460,
+    "name": "Baguette,sortiert",
+    "brand": "Trattoria Alfredo",
+    "pack": "750 g",
+    "price": 1.89,
+    "eans": "5805118571511,8866773942556"
+  },
+  {
+    "id": 1461,
+    "name": "BamiGoreng",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 1.99,
+    "eans": "3716782388645,7273480650949"
+  },
+  {
+    "id": 1462,
+    "name": "Bauerntopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.49,
+    "eans": "7785880657805,6879364311206"
+  },
+  {
+    "id": 1463,
+    "name": "Bihun-Suppe",
+    "brand": "COQUETTE",
+    "pack": "400 ml",
+    "price": 0.79,
+    "eans": "8820263133329,1564699704445"
+  },
+  {
+    "id": 1464,
+    "name": "Brokkoli-Gratin",
+    "brand": "chef select",
+    "pack": "400 g",
+    "price": 1.79,
+    "eans": "8513040626779,8194784192661"
+  },
+  {
+    "id": 1465,
+    "name": "Burgundertopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.99,
+    "eans": "6957064605860,2468023806081"
+  },
+  {
+    "id": 1466,
+    "name": "Champignoncremesuppe",
+    "brand": "Kania",
+    "pack": "70 g",
+    "price": 0.35,
+    "eans": "1378202102204,7548839885328"
+  },
+  {
+    "id": 1467,
+    "name": "ChiliconCarne",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.69,
+    "eans": "4500302804741,3690689743991"
+  },
+  {
+    "id": 1468,
+    "name": "ChiliRibHacksteak",
+    "brand": "MCENNEDY",
+    "pack": "190 g",
+    "price": 1.11,
+    "eans": "5731879730266,2157244692268"
+  },
+  {
+    "id": 1469,
+    "name": "Chili-CheeseNuggets",
+    "brand": "CULINEA",
+    "pack": "250 g",
+    "price": 1.89,
+    "eans": "5111155467978,1366125478995"
+  },
+  {
+    "id": 1470,
+    "name": "ChopSuey",
+    "brand": "COQUETTE",
+    "pack": "400 g",
+    "price": 1.59,
+    "eans": "8161328983573,6477219522267"
+  },
+  {
+    "id": 1471,
+    "name": "CornyDogs",
+    "brand": "CULINEA",
+    "pack": "250 g",
+    "price": 1.89,
+    "eans": "9347152603460,7864542789372"
+  },
+  {
+    "id": 1472,
+    "name": "CurrySnacker,sortiert",
+    "brand": "chef select",
+    "pack": "220 g",
+    "price": 1.39,
+    "eans": "9400638910336,6315013823350"
+  },
+  {
+    "id": 1473,
+    "name": "DeftigeErbsensuppe",
+    "brand": "FEINES AUS DER METZGERKÜCHE",
+    "pack": "900 g",
+    "price": 2.39,
+    "eans": "5519474041570,4929807297115"
+  },
+  {
+    "id": 1474,
+    "name": "Erbseneintopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.19,
+    "eans": "2734834611467,3304538267124"
+  },
+  {
+    "id": 1475,
+    "name": "Festtagsknödel",
+    "brand": "DELUXE",
+    "pack": "500 g",
+    "price": 1.29,
+    "eans": "8375827937696,3584107334932"
+  },
+  {
+    "id": 1476,
+    "name": "Festtagssuppe",
+    "brand": "COQUETTE",
+    "pack": "400 ml",
+    "price": 0.79,
+    "eans": "3389191729851,7099808961050"
+  },
+  {
+    "id": 1477,
+    "name": "Flammkuchen",
+    "brand": "Duc De Coeur",
+    "pack": "270 g",
+    "price": 1.89,
+    "eans": "2313436083560,2890683655318"
+  },
+  {
+    "id": 1478,
+    "name": "Frikadellen,5Stück",
+    "brand": "Dulano",
+    "pack": "500 g",
+    "price": 1.99,
+    "eans": "6515106887799,5215191951962"
+  },
+  {
+    "id": 1479,
+    "name": "Frühlingsrollen,sortiert",
+    "brand": "CULINEA",
+    "pack": "400 g",
+    "price": 1.89,
+    "eans": "5804778360985,6778823975815"
+  },
+  {
+    "id": 1480,
+    "name": "FrühlingssuppemitNudeln",
+    "brand": "Kania",
+    "pack": "82 g",
+    "price": 0.35,
+    "eans": "5413802703263,8865757611495"
+  },
+  {
+    "id": 1481,
+    "name": "Geflügel-Frikadellen,5Stück",
+    "brand": "Dulano",
+    "pack": "500 g",
+    "price": 1.99,
+    "eans": "4072164120302,4032670341219"
+  },
+  {
+    "id": 1482,
+    "name": "GefülltePasta,sortiert",
+    "brand": "DELUXE",
+    "pack": "250 g",
+    "price": 1.59,
+    "eans": "7270333864515,1988944727254"
+  },
+  {
+    "id": 1483,
+    "name": "GenießerCremeVanille",
+    "brand": "Belbake",
+    "pack": "60 g",
+    "price": 0.49,
+    "eans": "7078087652002,6223278335146"
+  },
+  {
+    "id": 1484,
+    "name": "GenießercremeSchokolade",
+    "brand": "Belbake",
+    "pack": "74 g",
+    "price": 0.49,
+    "eans": "7051735006655,4737284362277"
+  },
+  {
+    "id": 1485,
+    "name": "GnocchiPomodoro",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 1.79,
+    "eans": "7765123365216,6907934995768"
+  },
+  {
+    "id": 1486,
+    "name": "GrünerBohnentopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 0.99,
+    "eans": "3793033191407,6406048352899"
+  },
+  {
+    "id": 1487,
+    "name": "HuhnChina",
+    "brand": "chef select",
+    "pack": "400 g",
+    "price": 1.79,
+    "eans": "5659087844509,9170742741460"
+  },
+  {
+    "id": 1488,
+    "name": "Hühner-Nudeltopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 0.99,
+    "eans": "3492959887134,4564800981281"
+  },
+  {
+    "id": 1489,
+    "name": "Hühner-Reistopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 0.99,
+    "eans": "3370934325058,3158228077346"
+  },
+  {
+    "id": 1490,
+    "name": "Hühnerfrikassee",
+    "brand": "CULINEA",
+    "pack": "450 g",
+    "price": 1.54,
+    "eans": "5376567530102,6594968272240"
+  },
+  {
+    "id": 1491,
+    "name": "Hühnersuppe",
+    "brand": "Kania",
+    "pack": "82 g",
+    "price": 0.35,
+    "eans": "9351751705210,7236051382038"
+  },
+  {
+    "id": 1492,
+    "name": "Kartoffelgratin,sortiert",
+    "brand": "DELUXE",
+    "pack": "400 g",
+    "price": 1.99,
+    "eans": "1837806594032,1409651131139"
+  },
+  {
+    "id": 1493,
+    "name": "Kartoffelpuffer",
+    "brand": "Harvest Basket",
+    "pack": "600 g",
+    "price": 1.19,
+    "eans": "3683313736377,9525073918478"
+  },
+  {
+    "id": 1494,
+    "name": "Kartoffelpüree",
+    "brand": "Harvest Basket",
+    "pack": "330 g",
+    "price": 1.09,
+    "eans": "1846905106558,5315039872609"
+  },
+  {
+    "id": 1495,
+    "name": "Kartoffelspalten",
+    "brand": "Harvest Basket",
+    "pack": "750 g",
+    "price": 1.19,
+    "eans": "6282404524984,5084346796549"
+  },
+  {
+    "id": 1496,
+    "name": "Kartoffeltopf",
+    "brand": "COQUETTE",
+    "pack": "800 ml",
+    "price": 0.89,
+    "eans": "3951904030167,3829235358093"
+  },
+  {
+    "id": 1497,
+    "name": "Kroketten",
+    "brand": "Harvest Basket",
+    "pack": "750 g",
+    "price": 1.19,
+    "eans": "6902063306263,2019851937265"
+  },
+  {
+    "id": 1498,
+    "name": "LasagneBolognese",
+    "brand": "chef select",
+    "pack": "400 g",
+    "price": 1.79,
+    "eans": "5676986216497,7632468113973"
+  },
+  {
+    "id": 1499,
+    "name": "LasagneBolognese",
+    "brand": "chef select",
+    "pack": "1000 g",
+    "price": 2.99,
+    "eans": "9872931150229,2759927940842"
+  },
+  {
+    "id": 1500,
+    "name": "Linsen-SuppemitCocktailwürstchen",
+    "brand": "COQUETTE",
+    "pack": "680 g",
+    "price": 0.99,
+    "eans": "5408396342721,9276087829150"
+  },
+  {
+    "id": 1501,
+    "name": "LinsensuppemitgeräuchertemSchweinefleisch",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.19,
+    "eans": "7557788020032,3021923180843"
+  },
+  {
+    "id": 1502,
+    "name": "MiniFrikadellenbällchen/-Taler,sortiert",
+    "brand": "chef select",
+    "pack": "800 g",
+    "price": 3.29,
+    "eans": "4839642495389,5851181627938"
+  },
+  {
+    "id": 1503,
+    "name": "Mini-FrühlingsrollenmitGemüse",
+    "brand": "CULINEA",
+    "pack": "400 g",
+    "price": 1.89,
+    "eans": "7763548201751,5829507141826"
+  },
+  {
+    "id": 1504,
+    "name": "MozzarellaSticks",
+    "brand": "CULINEA",
+    "pack": "250 g",
+    "price": 1.89,
+    "eans": "7080063516444,5085593122976"
+  },
+  {
+    "id": 1505,
+    "name": "NasiGoreng",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 2.12,
+    "eans": "5687355733408,3195643833775"
+  },
+  {
+    "id": 1506,
+    "name": "Paella",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 1.69,
+    "eans": "4931280753781,1508826318242"
+  },
+  {
+    "id": 1507,
+    "name": "PenneGorgonzola",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 1.89,
+    "eans": "1282821511395,3625693542988"
+  },
+  {
+    "id": 1508,
+    "name": "PiccoPizzi,sortiert",
+    "brand": "Trattoria Alfredo",
+    "pack": "360 g",
+    "price": 1.99,
+    "eans": "6605690895291,9079602881639"
+  },
+  {
+    "id": 1509,
+    "name": "PilzcremeSuppe",
+    "brand": "Kania",
+    "pack": "53 g",
+    "price": 0.39,
+    "eans": "5600407806042,7984621366840"
+  },
+  {
+    "id": 1510,
+    "name": "PizzaDieKnusperfrische,QuattroFormaggi",
+    "brand": "Trattoria Alfredo",
+    "pack": "410 g",
+    "price": 1.79,
+    "eans": "9253465646721,2122397998918"
+  },
+  {
+    "id": 1511,
+    "name": "PizzaDieKnusperfrische,Speciale",
+    "brand": "Trattoria Alfredo",
+    "pack": "405 g",
+    "price": 1.79,
+    "eans": "5085044621027,1509719078533"
+  },
+  {
+    "id": 1512,
+    "name": "PizzaKnusperfrische,Peperoni-Salami",
+    "brand": "Trattoria Alfredo",
+    "pack": "400 g",
+    "price": 1.79,
+    "eans": "7101537918134,8456583738878"
+  },
+  {
+    "id": 1513,
+    "name": "PizzaSalami,glutenfrei",
+    "brand": "VEMONDO",
+    "pack": "325 g",
+    "price": 2.99,
+    "eans": "8206833083049,7649893890904"
+  },
+  {
+    "id": 1514,
+    "name": "PizzaVegan,2x",
+    "brand": "Trattoria Alfredo",
+    "pack": "780 g",
+    "price": 2.29,
+    "eans": "3685085625101,7104984889613"
+  },
+  {
+    "id": 1515,
+    "name": "Pizzakombi,TeigmitTomatensauce",
+    "brand": "chef select",
+    "pack": "600 g",
+    "price": 1.59,
+    "eans": "5790512286478,8737679944831"
+  },
+  {
+    "id": 1516,
+    "name": "PommesFrites",
+    "brand": "Harvest Basket",
+    "pack": "1000 g",
+    "price": 0.99,
+    "eans": "4939508099116,2328769192773"
+  },
+  {
+    "id": 1517,
+    "name": "PommesFrites-JumboFries",
+    "brand": "Harvest Basket",
+    "pack": "750 g",
+    "price": 1.69,
+    "eans": "6743700873201,9596780062358"
+  },
+  {
+    "id": 1518,
+    "name": "PommesFrites-WellenschnittFrites",
+    "brand": "Harvest Basket",
+    "pack": "1000 g",
+    "price": 1.19,
+    "eans": "9146281047721,6590439775562"
+  },
+  {
+    "id": 1519,
+    "name": "PuddingpulverSchokolade",
+    "brand": "Belbake",
+    "pack": "3 Btl",
+    "price": 0.29,
+    "eans": "6106534381609,3359204083133"
+  },
+  {
+    "id": 1520,
+    "name": "PuddingpulverVanillegeschmack",
+    "brand": "Belbake",
+    "pack": "5 Pkg",
+    "price": 0.29,
+    "eans": "6516957897579,1645359016259"
+  },
+  {
+    "id": 1521,
+    "name": "PulledChicken",
+    "brand": "Landjunker",
+    "pack": "550 g",
+    "price": 3.99,
+    "eans": "5256570985482,2640882737359"
+  },
+  {
+    "id": 1522,
+    "name": "PulledPork",
+    "brand": "Landjunker",
+    "pack": "550 g",
+    "price": 4.49,
+    "eans": "3758803224211,4445290239741"
+  },
+  {
+    "id": 1523,
+    "name": "QuicheLorraine",
+    "brand": "Duc De Coeur",
+    "pack": "400 g",
+    "price": 1.99,
+    "eans": "7436485907535,2891039403812"
+  },
+  {
+    "id": 1524,
+    "name": "Räubertopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.99,
+    "eans": "8712697836603,8683105903456"
+  },
+  {
+    "id": 1525,
+    "name": "RaviolimitGemüse",
+    "brand": "Combino",
+    "pack": "800 g",
+    "price": 1.19,
+    "eans": "9069131079805,6139613686142"
+  },
+  {
+    "id": 1526,
+    "name": "Rhabarber-Erdbeer-Grütze",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 1.39,
+    "eans": "3255952802401,9182454716438"
+  },
+  {
+    "id": 1527,
+    "name": "RoteGrütze",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 0.99,
+    "eans": "1677558584932,9899644747805"
+  },
+  {
+    "id": 1528,
+    "name": "RustikaleHolzofenpizzaDiavola",
+    "brand": "Trattoria Alfredo",
+    "pack": "398 g",
+    "price": 1.99,
+    "eans": "5530685181787,8201864551840"
+  },
+  {
+    "id": 1529,
+    "name": "RustikaleKartoffelpfanne",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 1.99,
+    "eans": "1201780779363,3265105305918"
+  },
+  {
+    "id": 1530,
+    "name": "Sauerkrauttopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.49,
+    "eans": "4169442847133,2834415343739"
+  },
+  {
+    "id": 1531,
+    "name": "SchweineGeschnetzeltes,sortiert",
+    "brand": "COQUETTE",
+    "pack": "400 g",
+    "price": 1.49,
+    "eans": "2937489939140,3660452325037"
+  },
+  {
+    "id": 1532,
+    "name": "Schweinegulaschtopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.99,
+    "eans": "8238315000626,2608387354013"
+  },
+  {
+    "id": 1533,
+    "name": "Semmelknödel\"KLASSISCH",
+    "brand": "Harvest Basket",
+    "pack": "200 g",
+    "price": 0.69,
+    "eans": "9668463718682,1527403495107"
+  },
+  {
+    "id": 1534,
+    "name": "SnackWienertogo",
+    "brand": "chef select",
+    "pack": "200 g",
+    "price": 1.89,
+    "eans": "6063355930112,7671795574248"
+  },
+  {
+    "id": 1535,
+    "name": "SpaghettiallaNapoli",
+    "brand": "Combino",
+    "pack": "397 g",
+    "price": 0.89,
+    "eans": "6337203542865,6148668723412"
+  },
+  {
+    "id": 1536,
+    "name": "SpaghettiQuattroFormaggi",
+    "brand": "Combino",
+    "pack": "315 g",
+    "price": 0.75,
+    "eans": "2889555537883,8246797411045"
+  },
+  {
+    "id": 1537,
+    "name": "Spargelcremesuppe",
+    "brand": "Kania",
+    "pack": "65 g",
+    "price": 0.39,
+    "eans": "7035609766487,1130790646658"
+  },
+  {
+    "id": 1538,
+    "name": "Spirli-Nudeltopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.49,
+    "eans": "3370531544388,8574810039199"
+  },
+  {
+    "id": 1539,
+    "name": "Steinofenpizza,2xVierKäse",
+    "brand": "Trattoria Alfredo",
+    "pack": "680 g",
+    "price": 2.59,
+    "eans": "4275478299249,1491184988052"
+  },
+  {
+    "id": 1540,
+    "name": "Steinofenpizza,2xMozzarella",
+    "brand": "Trattoria Alfredo",
+    "pack": "780 g",
+    "price": 2.59,
+    "eans": "9872896609695,2455012036574"
+  },
+  {
+    "id": 1541,
+    "name": "Steinofenpizza,2xSchinken",
+    "brand": "Trattoria Alfredo",
+    "pack": "700 g",
+    "price": 2.59,
+    "eans": "5657893056376,7553268779339"
+  },
+  {
+    "id": 1542,
+    "name": "Steinofenpizza,2xSpeciale",
+    "brand": "Trattoria Alfredo",
+    "pack": "660 g",
+    "price": 2.29,
+    "eans": "9829016059359,8182231992834"
+  },
+  {
+    "id": 1543,
+    "name": "Steinofenpizza,2xThunfisch",
+    "brand": "Trattoria Alfredo",
+    "pack": "710 g",
+    "price": 2.59,
+    "eans": "6481313502803,3883676769344"
+  },
+  {
+    "id": 1544,
+    "name": "Steinofenpizza,2xDiavolo",
+    "brand": "Trattoria Alfredo",
+    "pack": "700 g",
+    "price": 2.59,
+    "eans": "7569371752275,8445676615110"
+  },
+  {
+    "id": 1545,
+    "name": "Steinofenpizza,3xEdelsalami",
+    "brand": "Trattoria Alfredo",
+    "pack": "1050 g",
+    "price": 2.59,
+    "eans": "3145328738109,2567224072131"
+  },
+  {
+    "id": 1546,
+    "name": "Steinofenpizza,3xMargherita",
+    "brand": "Trattoria Alfredo",
+    "pack": "900 g",
+    "price": 1.99,
+    "eans": "7094675785136,8608969735333"
+  },
+  {
+    "id": 1547,
+    "name": "TagliatelleTomate-Spinat",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 1.89,
+    "eans": "7898888951995,5630665870677"
+  },
+  {
+    "id": 1548,
+    "name": "ThaiInstantNudeln,sortiert",
+    "brand": "VITASIA",
+    "pack": "340 g",
+    "price": 0.99,
+    "eans": "5507287426691,4869035196807"
+  },
+  {
+    "id": 1549,
+    "name": "Thai-Suppe",
+    "brand": "COQUETTE",
+    "pack": "400 ml",
+    "price": 0.79,
+    "eans": "4344774611540,7258183479813"
+  },
+  {
+    "id": 1550,
+    "name": "Tomaten-Reis-Suppe",
+    "brand": "Kania",
+    "pack": "70 g",
+    "price": 0.35,
+    "eans": "8601757452290,1814650491960"
+  },
+  {
+    "id": 1551,
+    "name": "Tomatencremesuppe",
+    "brand": "COQUETTE",
+    "pack": "400 ml",
+    "price": 0.69,
+    "eans": "6514175578652,9625910117351"
+  },
+  {
+    "id": 1552,
+    "name": "TortelloniKäse-Sahne",
+    "brand": "CULINEA",
+    "pack": "750 g",
+    "price": 1.79,
+    "eans": "7304932451453,2637441895889"
+  },
+  {
+    "id": 1553,
+    "name": "UngarischeGulaschsuppe",
+    "brand": "COQUETTE",
+    "pack": "400 ml",
+    "price": 0.89,
+    "eans": "4492071473313,4484926157103"
+  },
+  {
+    "id": 1554,
+    "name": "Zwiebelsuppe",
+    "brand": "Kania",
+    "pack": "42 g",
+    "price": 0.35,
+    "eans": "5048794175165,9499010426299"
+  },
+  {
+    "id": 1555,
+    "name": "Apfelrotkohl",
+    "brand": "FRESHONA",
+    "pack": "400 g",
+    "price": 0.49,
+    "eans": "4684158794095,2897898456334"
+  },
+  {
+    "id": 1556,
+    "name": "Blattspinat",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 1.89,
+    "eans": "7675994308857,7138119675703"
+  },
+  {
+    "id": 1557,
+    "name": "Blumenkohl",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.59,
+    "eans": "8705379775697,6282127014106"
+  },
+  {
+    "id": 1558,
+    "name": "Broccoli",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.59,
+    "eans": "1742178801711,4877592923811"
+  },
+  {
+    "id": 1559,
+    "name": "Buttergemüse",
+    "brand": "FRESHONA",
+    "pack": "300 g",
+    "price": 0.59,
+    "eans": "6946752193833,5257538016736"
+  },
+  {
+    "id": 1560,
+    "name": "ChampignonsIWahl,ganzeKöpfe",
+    "brand": "FRESHONA",
+    "pack": "400 g",
+    "price": 0.95,
+    "eans": "4540319486868,2852955368807"
+  },
+  {
+    "id": 1561,
+    "name": "Champignons,IWahl,geschnitten",
+    "brand": "FRESHONA",
+    "pack": "280 g",
+    "price": 0.89,
+    "eans": "5688599232528,5558292161718"
+  },
+  {
+    "id": 1562,
+    "name": "Champignons,IIIWahl,geschnitten",
+    "brand": "FRESHONA",
+    "pack": "280 g",
+    "price": 0.59,
+    "eans": "5943110623460,2087155453545"
+  },
+  {
+    "id": 1563,
+    "name": "Cornichons",
+    "brand": "FRESHONA",
+    "pack": "670 g",
+    "price": 1.19,
+    "eans": "3122654520998,2598452252774"
+  },
+  {
+    "id": 1564,
+    "name": "DelikatessRotkohl",
+    "brand": "FRESHONA",
+    "pack": "680 g",
+    "price": 0.55,
+    "eans": "5053097477977,4694718044249"
+  },
+  {
+    "id": 1565,
+    "name": "Erbsen",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.69,
+    "eans": "3607720207275,4429719845768"
+  },
+  {
+    "id": 1566,
+    "name": "ErbsenmitMöhren",
+    "brand": "FRESHONA",
+    "pack": "800 g",
+    "price": 0.99,
+    "eans": "4985763450391,1028697186158"
+  },
+  {
+    "id": 1567,
+    "name": "FeinejungeBrechbohnen",
+    "brand": "FRESHONA",
+    "pack": "660 g",
+    "price": 0.85,
+    "eans": "6968763014099,5700301438643"
+  },
+  {
+    "id": 1568,
+    "name": "GehackteTomaten",
+    "brand": "FRESHONA",
+    "pack": "400 g",
+    "price": 0.39,
+    "eans": "7888322208013,9349382510617"
+  },
+  {
+    "id": 1569,
+    "name": "Gemüsemaissupersweet",
+    "brand": "FRESHONA",
+    "pack": "300 g",
+    "price": 0.49,
+    "eans": "7223442981260,6029678915687"
+  },
+  {
+    "id": 1570,
+    "name": "Gemüsemix",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.49,
+    "eans": "1478570316002,1059514437627"
+  },
+  {
+    "id": 1571,
+    "name": "GeschälteTomaten",
+    "brand": "FRESHONA",
+    "pack": "400 g",
+    "price": 0.35,
+    "eans": "8258749490770,6046247356085"
+  },
+  {
+    "id": 1572,
+    "name": "Gewürzgurken",
+    "brand": "FRESHONA",
+    "pack": "670 g",
+    "price": 0.89,
+    "eans": "9463818731688,6866326532588"
+  },
+  {
+    "id": 1573,
+    "name": "Gurkensticks",
+    "brand": "FRESHONA",
+    "pack": "670 g",
+    "price": 0.89,
+    "eans": "3053314341595,1894222195168"
+  },
+  {
+    "id": 1574,
+    "name": "Gurkentopf",
+    "brand": "FRESHONA",
+    "pack": "1550 g",
+    "price": 1.59,
+    "eans": "8999207998284,8537828697676"
+  },
+  {
+    "id": 1575,
+    "name": "JungeBrechbohnen",
+    "brand": "FRESHONA",
+    "pack": "800 g",
+    "price": 0.69,
+    "eans": "8032236410799,1780218373583"
+  },
+  {
+    "id": 1576,
+    "name": "JungeErbsen,sehrfein",
+    "brand": "FRESHONA",
+    "pack": "400 g",
+    "price": 0.65,
+    "eans": "1870907905185,4232931123329"
+  },
+  {
+    "id": 1577,
+    "name": "Kaisergemüse",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.69,
+    "eans": "9164440672997,4499479801878"
+  },
+  {
+    "id": 1578,
+    "name": "Karottenscheiben",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.59,
+    "eans": "6405784932419,3900273206697"
+  },
+  {
+    "id": 1579,
+    "name": "Kartoffeln",
+    "brand": "FRESHONA",
+    "pack": "660 g",
+    "price": 0.79,
+    "eans": "2061685975395,2449098449946"
+  },
+  {
+    "id": 1580,
+    "name": "Paprikaschoten",
+    "brand": "FRESHONA",
+    "pack": "650 g",
+    "price": 1.99,
+    "eans": "9960040362807,7997705729585"
+  },
+  {
+    "id": 1581,
+    "name": "PassierteTomaten",
+    "brand": "FRESHONA",
+    "pack": "500 g",
+    "price": 0.45,
+    "eans": "4066859548625,4519380521105"
+  },
+  {
+    "id": 1582,
+    "name": "PilzeimGlas,sortiert",
+    "brand": "DELUXE",
+    "pack": "280 g",
+    "price": 1.29,
+    "eans": "3940378651930,3524825286786"
+  },
+  {
+    "id": 1583,
+    "name": "PremiumCornichonsClassic",
+    "brand": "FRESHONA",
+    "pack": "330 g",
+    "price": 0.95,
+    "eans": "6560676636834,9609218917417"
+  },
+  {
+    "id": 1584,
+    "name": "PremiumCornichonsHonig-süß",
+    "brand": "FRESHONA",
+    "pack": "330 g",
+    "price": 0.99,
+    "eans": "4867252585459,2898982427469"
+  },
+  {
+    "id": 1585,
+    "name": "PremiumCornichonsscharf-würzig",
+    "brand": "FRESHONA",
+    "pack": "330 g",
+    "price": 0.99,
+    "eans": "6478377875479,3774609714855"
+  },
+  {
+    "id": 1586,
+    "name": "Prinzessbohnen",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.59,
+    "eans": "6982147274497,3150066853359"
+  },
+  {
+    "id": 1587,
+    "name": "Prinzessbohnen,fein",
+    "brand": "FRESHONA",
+    "pack": "400 g",
+    "price": 0.59,
+    "eans": "9426448080564,7712551277932"
+  },
+  {
+    "id": 1588,
+    "name": "Rahmgemüse-Blumenkohl",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 1.59,
+    "eans": "4633819889830,7111744625688"
+  },
+  {
+    "id": 1589,
+    "name": "Rahmgemüse-ErbsenundKarotten",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 1.59,
+    "eans": "2381628290928,2279482015361"
+  },
+  {
+    "id": 1590,
+    "name": "Rahmgemüse-Kohlrabi",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 1.59,
+    "eans": "6009651056729,1750484831742"
+  },
+  {
+    "id": 1591,
+    "name": "Rahmgemüse-Königsgemüse",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 1.59,
+    "eans": "6565422674146,5685745819527"
+  },
+  {
+    "id": 1592,
+    "name": "Rahmspinat",
+    "brand": "FRESHONA",
+    "pack": "450 g",
+    "price": 0.59,
+    "eans": "9847569729529,9588870001064"
+  },
+  {
+    "id": 1593,
+    "name": "Rosenkohl",
+    "brand": "FRESHONA",
+    "pack": "1000 g",
+    "price": 1.59,
+    "eans": "9209738174378,6482084682701"
+  },
+  {
+    "id": 1594,
+    "name": "RoteBeteinScheiben",
+    "brand": "FRESHONA",
+    "pack": "670 g",
+    "price": 0.99,
+    "eans": "5029699524722,3957619006107"
+  },
+  {
+    "id": 1595,
+    "name": "RoteKidney-Bohnen",
+    "brand": "FRESHONA",
+    "pack": "410 g",
+    "price": 0.55,
+    "eans": "7051935176561,7247748766994"
+  },
+  {
+    "id": 1596,
+    "name": "Sommergemüse",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 1.89,
+    "eans": "1207500927830,3289328250282"
+  },
+  {
+    "id": 1597,
+    "name": "Stangenspargel",
+    "brand": "FRESHONA",
+    "pack": "330 g",
+    "price": 0.99,
+    "eans": "9693969854671,8872659819744"
+  },
+  {
+    "id": 1598,
+    "name": "Suppengemüse",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 1.99,
+    "eans": "8714485940424,1174202823480"
+  },
+  {
+    "id": 1599,
+    "name": "Tomatenmark",
+    "brand": "FRESHONA",
+    "pack": "200 g",
+    "price": 0.49,
+    "eans": "4311987507366,1150965255461"
+  },
+  {
+    "id": 1600,
+    "name": "Wachsbrechbohnen",
+    "brand": "FRESHONA",
+    "pack": "660 g",
+    "price": 0.85,
+    "eans": "4906822113293,2536235458913"
+  },
+  {
+    "id": 1601,
+    "name": "Weinsauerkraut",
+    "brand": "FRESHONA",
+    "pack": "810 g",
+    "price": 0.59,
+    "eans": "2503429045495,7574309442401"
+  },
+  {
+    "id": 1602,
+    "name": "Cashew-Erdnuss-Mix",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 2.29,
+    "eans": "1316178303454,3471992372982"
+  },
+  {
+    "id": 1603,
+    "name": "Cashewkerne",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 2.19,
+    "eans": "1178133457387,6374272692114"
+  },
+  {
+    "id": 1604,
+    "name": "KalifornischeWalnüsse",
+    "brand": "ALESTO",
+    "pack": "500 g",
+    "price": 2.79,
+    "eans": "2984305498534,6795481522328"
+  },
+  {
+    "id": 1605,
+    "name": "Mandeln,geröstet&gesalzen,sortiert",
+    "brand": "ALESTO",
+    "pack": "150 g",
+    "price": 1.99,
+    "eans": "3944454501270,9509643520810"
+  },
+  {
+    "id": 1606,
+    "name": "NutsRoyal",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 2.39,
+    "eans": "3874458062906,5893754431917"
+  },
+  {
+    "id": 1607,
+    "name": "Paranusskerne",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 2.99,
+    "eans": "3459549301104,9062675962565"
+  },
+  {
+    "id": 1608,
+    "name": "Pecannusskerne,naturbelassen",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 3.99,
+    "eans": "5472297049188,8827491489839"
+  },
+  {
+    "id": 1609,
+    "name": "Walnusskerne",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 2.49,
+    "eans": "4730688673932,2455756558998"
+  },
+  {
+    "id": 1610,
+    "name": "AnanasScheiben",
+    "brand": "FRESHONA",
+    "pack": "825 g",
+    "price": 1.29,
+    "eans": "3153736264899,9019301207835"
+  },
+  {
+    "id": 1611,
+    "name": "AnanasStücke",
+    "brand": "FRESHONA",
+    "pack": "565 g",
+    "price": 0.79,
+    "eans": "6795812691365,2983191774920"
+  },
+  {
+    "id": 1612,
+    "name": "Apfelmus",
+    "brand": "FRESHONA",
+    "pack": "720 g",
+    "price": 0.59,
+    "eans": "1141626019522,1261065733299"
+  },
+  {
+    "id": 1613,
+    "name": "Apfelmus,Bio",
+    "brand": "FRESHONA",
+    "pack": "355 g",
+    "price": 0.99,
+    "eans": "5846150351242,6670313484992"
+  },
+  {
+    "id": 1614,
+    "name": "Fruchtcocktail",
+    "brand": "FRESHONA",
+    "pack": "820 g",
+    "price": 1.69,
+    "eans": "6394362729032,9757320377282"
+  },
+  {
+    "id": 1615,
+    "name": "Himbeeren",
+    "brand": "FRESHONA",
+    "pack": "500 g",
+    "price": 2.49,
+    "eans": "1022646565834,2270454037459"
+  },
+  {
+    "id": 1616,
+    "name": "Mandarin-Orangen",
+    "brand": "FRESHONA",
+    "pack": "312 g",
+    "price": 0.95,
+    "eans": "1423086458227,4205116615261"
+  },
+  {
+    "id": 1617,
+    "name": "Obst,sortiert",
+    "brand": "FRESHONA",
+    "pack": "750 g",
+    "price": 2.49,
+    "eans": "3746152046790,5565864464641"
+  },
+  {
+    "id": 1618,
+    "name": "Pfirsich-Hälften",
+    "brand": "FRESHONA",
+    "pack": "820 g",
+    "price": 0.99,
+    "eans": "9501719267933,9968729954718"
+  },
+  {
+    "id": 1619,
+    "name": "Sauerkirschen,entsteintundgezuckert",
+    "brand": "FRESHONA",
+    "pack": "680 g",
+    "price": 1.49,
+    "eans": "6512442502973,3300805592975"
+  },
+  {
+    "id": 1620,
+    "name": "Wildpreiselbeeren",
+    "brand": "FRESHONA",
+    "pack": "400 g",
+    "price": 1.29,
+    "eans": "4978463133176,5017070467690"
+  },
+  {
+    "id": 1621,
+    "name": "WilliamsChristBirnen",
+    "brand": "FRESHONA",
+    "pack": "820 g",
+    "price": 1.49,
+    "eans": "8482806699114,5087349347718"
+  },
+  {
+    "id": 1622,
+    "name": "Color-Rado",
+    "brand": "ACME",
+    "pack": "360 g",
+    "price": 1.19,
+    "eans": "8940538805369,7695898839790"
+  },
+  {
+    "id": 1623,
+    "name": "CrazyGrapes/HappyMagica/TropicalFruits,sortiert",
+    "brand": "SUGARLAND",
+    "pack": "300 g",
+    "price": 0.99,
+    "eans": "6337349437438,3242116479333"
+  },
+  {
+    "id": 1624,
+    "name": "Frucht-Kaubonbons",
+    "brand": "SUGARLAND",
+    "pack": "500 g",
+    "price": 1.69,
+    "eans": "3725109635874,1709844464182"
+  },
+  {
+    "id": 1625,
+    "name": "Fruchtgummi-Bärchen,sortiert",
+    "brand": "SUGARLAND",
+    "pack": "300 g",
+    "price": 0.99,
+    "eans": "1238036699953,4378700106244"
+  },
+  {
+    "id": 1626,
+    "name": "FruityFarm",
+    "brand": "ACME",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "6888533828339,4325114862990"
+  },
+  {
+    "id": 1627,
+    "name": "Goldbären",
+    "brand": "ACME",
+    "pack": "360 g",
+    "price": 1.29,
+    "eans": "6875691643492,9411663892115"
+  },
+  {
+    "id": 1628,
+    "name": "Halsbonbons",
+    "brand": "ICE STORM",
+    "pack": "250 g",
+    "price": 0.69,
+    "eans": "8012170806995,2490650045434"
+  },
+  {
+    "id": 1629,
+    "name": "Juicys",
+    "brand": "SUGARLAND",
+    "pack": "300 g",
+    "price": 0.94,
+    "eans": "1470586021901,8319527305959"
+  },
+  {
+    "id": 1630,
+    "name": "SaureFrüchte",
+    "brand": "SUGARLAND",
+    "pack": "300 g",
+    "price": 0.94,
+    "eans": "4250448674905,8774420811448"
+  },
+  {
+    "id": 1631,
+    "name": "SaureWürmer",
+    "brand": "SUGARLAND",
+    "pack": "400 g",
+    "price": 1.04,
+    "eans": "4485109448353,4483611348710"
+  },
+  {
+    "id": 1632,
+    "name": "Schaumfrüchte",
+    "brand": "SUGARLAND",
+    "pack": "300 g",
+    "price": 0.89,
+    "eans": "6400233376745,5231919104854"
+  },
+  {
+    "id": 1633,
+    "name": "Tropifrutti",
+    "brand": "ACME",
+    "pack": "360 g",
+    "price": 1.19,
+    "eans": "9361714455670,1751526250729"
+  },
+  {
+    "id": 1634,
+    "name": "14Gebäck-Variationen",
+    "brand": "Sondey",
+    "pack": "500 g",
+    "price": 2.59,
+    "eans": "1605056739646,5891820464920"
+  },
+  {
+    "id": 1635,
+    "name": "BioMotivkekse,sortiert",
+    "brand": "Lupilu",
+    "pack": "125 g",
+    "price": 1.05,
+    "eans": "8762492748663,7243464221069"
+  },
+  {
+    "id": 1636,
+    "name": "BioVitalgebäck,sortiert",
+    "brand": "Sondey",
+    "pack": "200 g",
+    "price": 1.99,
+    "eans": "5950658028541,6734372181138"
+  },
+  {
+    "id": 1637,
+    "name": "BiscinoSchoko-Butterkeks,sortiert",
+    "brand": "Sondey",
+    "pack": "125 g",
+    "price": 0.69,
+    "eans": "8031643677047,7307877480434"
+  },
+  {
+    "id": 1638,
+    "name": "Butter-Spritzgebäck",
+    "brand": "Sondey",
+    "pack": "400 g",
+    "price": 1.49,
+    "eans": "9185323821318,9144529335029"
+  },
+  {
+    "id": 1639,
+    "name": "Butterkeks,sortiert",
+    "brand": "Sondey",
+    "pack": "400 g",
+    "price": 1.19,
+    "eans": "6085526532093,4890124883322"
+  },
+  {
+    "id": 1640,
+    "name": "CaptainRondoDoppelkekse",
+    "brand": "Sondey",
+    "pack": "500 g",
+    "price": 0.99,
+    "eans": "2250626701616,4088826050689"
+  },
+  {
+    "id": 1641,
+    "name": "Envitas-Getreidekekse,sortiert",
+    "brand": "Sondey",
+    "pack": "253 g",
+    "price": 1.99,
+    "eans": "1701850091864,5618934109727"
+  },
+  {
+    "id": 1642,
+    "name": "Gebäckmischung",
+    "brand": "Sondey",
+    "pack": "500 g",
+    "price": 0.99,
+    "eans": "3545917230418,5264475266162"
+  },
+  {
+    "id": 1643,
+    "name": "GrandinoChocolateCookies",
+    "brand": "Sondey",
+    "pack": "225 g",
+    "price": 0.79,
+    "eans": "8780224955318,2365334014863"
+  },
+  {
+    "id": 1644,
+    "name": "GrandinoCookies,sortiert",
+    "brand": "Sondey",
+    "pack": "200 g",
+    "price": 1.19,
+    "eans": "9795646607775,5095910901566"
+  },
+  {
+    "id": 1645,
+    "name": "Macarons",
+    "brand": "DELUXE",
+    "pack": "132 g",
+    "price": 3.09,
+    "eans": "9909873717712,6133889972633"
+  },
+  {
+    "id": 1646,
+    "name": "Neapolitaner-Schnitten,sortiert",
+    "brand": "Sondey",
+    "pack": "260 g",
+    "price": 0.99,
+    "eans": "5301889105943,2234356930461"
+  },
+  {
+    "id": 1647,
+    "name": "NeoKakaokeksemitKakaocremefüllung",
+    "brand": "Sondey",
+    "pack": "225 g",
+    "price": 0.99,
+    "eans": "7207153390450,1522490359189"
+  },
+  {
+    "id": 1648,
+    "name": "NeoKakaokeksemitVanillecremefüllung",
+    "brand": "Sondey",
+    "pack": "225 g",
+    "price": 0.99,
+    "eans": "2281550306769,5077932251157"
+  },
+  {
+    "id": 1649,
+    "name": "RussischBrot",
+    "brand": "Sondey",
+    "pack": "125 g",
+    "price": 0.79,
+    "eans": "9584321685937,5066248397260"
+  },
+  {
+    "id": 1650,
+    "name": "SoftBiscuit,sortiert",
+    "brand": "Sondey",
+    "pack": "300 g",
+    "price": 0.99,
+    "eans": "1447286505109,7482371168238"
+  },
+  {
+    "id": 1651,
+    "name": "Takeit",
+    "brand": "Sondey",
+    "pack": "104 g",
+    "price": 0.79,
+    "eans": "1158785575387,9262059982725"
+  },
+  {
+    "id": 1652,
+    "name": "Waffelmischung",
+    "brand": "Sondey",
+    "pack": "400 g",
+    "price": 0.99,
+    "eans": "4149670990214,4212644248007"
+  },
+  {
+    "id": 1653,
+    "name": "BaconSnacks",
+    "brand": "Crusti Croc",
+    "pack": "130 g",
+    "price": 0.99,
+    "eans": "4231769065283,9593913085802"
+  },
+  {
+    "id": 1654,
+    "name": "Cashew-Cranberry-Mix",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 1.99,
+    "eans": "8802832830853,1755756722551"
+  },
+  {
+    "id": 1655,
+    "name": "Cashewkerne,sortiert",
+    "brand": "ALESTO",
+    "pack": "150 g",
+    "price": 1.99,
+    "eans": "7901133597012,9034292714919"
+  },
+  {
+    "id": 1656,
+    "name": "Cashewkernenaturbelassen",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 2.59,
+    "eans": "6731035431203,1901079534269"
+  },
+  {
+    "id": 1657,
+    "name": "Erdnüsse",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 0.89,
+    "eans": "6863501321449,4539869512141"
+  },
+  {
+    "id": 1658,
+    "name": "ErdnüsseimTeigmantelmitPaprika",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 0.78,
+    "eans": "5071343146682,4705020520748"
+  },
+  {
+    "id": 1659,
+    "name": "Erdnüssepikantgewürzt",
+    "brand": "ALESTO",
+    "pack": "150 g",
+    "price": 0.69,
+    "eans": "3587715189505,3141866022557"
+  },
+  {
+    "id": 1660,
+    "name": "Erdnussflips",
+    "brand": "SNACK DAY",
+    "pack": "200 g",
+    "price": 0.69,
+    "eans": "6081811892095,3199903231974"
+  },
+  {
+    "id": 1661,
+    "name": "ErdnussflipsKäse",
+    "brand": "Crusti Croc",
+    "pack": "125 g",
+    "price": 0.59,
+    "eans": "3875830994129,8241081800796"
+  },
+  {
+    "id": 1662,
+    "name": "Gemüsechips-Bio",
+    "brand": "Crusti Croc",
+    "pack": "100 g",
+    "price": 1.99,
+    "eans": "3920352923178,5996321796324"
+  },
+  {
+    "id": 1663,
+    "name": "KalifornischeWalnusskerne",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 1.99,
+    "eans": "5529351421098,6819221976728"
+  },
+  {
+    "id": 1664,
+    "name": "Kartoffelchips-Oriental",
+    "brand": "SNACK DAY",
+    "pack": "200 g",
+    "price": 0.99,
+    "eans": "7847583703965,7284841999492"
+  },
+  {
+    "id": 1665,
+    "name": "Kartoffelchips-Paprika",
+    "brand": "SNACK DAY",
+    "pack": "200 g",
+    "price": 0.89,
+    "eans": "8205999436713,1826806281981"
+  },
+  {
+    "id": 1666,
+    "name": "Kartoffelchips-Salz",
+    "brand": "Crusti Croc",
+    "pack": "200 g",
+    "price": 0.89,
+    "eans": "4231411363293,2240207138078"
+  },
+  {
+    "id": 1667,
+    "name": "Kartoffelsticks,Paprika",
+    "brand": "SNACK DAY",
+    "pack": "125 g",
+    "price": 0.79,
+    "eans": "7334215112504,2918481339190"
+  },
+  {
+    "id": 1668,
+    "name": "Kesselchips,sortiert",
+    "brand": "SNACK DAY",
+    "pack": "150 g",
+    "price": 0.99,
+    "eans": "2632874746500,8536216333318"
+  },
+  {
+    "id": 1669,
+    "name": "Macadamiageröstetundgesalzen",
+    "brand": "ALESTO",
+    "pack": "125 g",
+    "price": 2.99,
+    "eans": "8617194321266,5532327401901"
+  },
+  {
+    "id": 1670,
+    "name": "MiniBrotchips,sortiert",
+    "brand": "Crusti Croc",
+    "pack": "375 g",
+    "price": 2.99,
+    "eans": "8244684660750,6374588415940"
+  },
+  {
+    "id": 1671,
+    "name": "Nuss-Frucht-Mix",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 1.99,
+    "eans": "2724012687285,7816303961428"
+  },
+  {
+    "id": 1672,
+    "name": "Pecannusskernenaturbelassen",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 3.99,
+    "eans": "7713189576251,8315744715854"
+  },
+  {
+    "id": 1673,
+    "name": "Pistazien,sortiert",
+    "brand": "ALESTO",
+    "pack": "250 g",
+    "price": 3.29,
+    "eans": "1655121110627,5466184928335"
+  },
+  {
+    "id": 1674,
+    "name": "Popcorn,sortiert",
+    "brand": "MCENNEDY",
+    "pack": "300 g",
+    "price": 0.99,
+    "eans": "9959746217405,1854016630572"
+  },
+  {
+    "id": 1675,
+    "name": "Popcorn,sortiert",
+    "brand": "Crusti Croc",
+    "pack": "120 g",
+    "price": 0.69,
+    "eans": "4832637584440,8704136462924"
+  },
+  {
+    "id": 1676,
+    "name": "Salz-/Käse-Stängli",
+    "brand": "Crusti Croc",
+    "pack": "150 g",
+    "price": 1.19,
+    "eans": "7496111222913,1485902508127"
+  },
+  {
+    "id": 1677,
+    "name": "Salzbrezeln",
+    "brand": "Crusti Croc",
+    "pack": "250 g",
+    "price": 0.59,
+    "eans": "1764617961428,8635895492757"
+  },
+  {
+    "id": 1678,
+    "name": "Salzstangen",
+    "brand": "SNACK DAY",
+    "pack": "250 g",
+    "price": 0.39,
+    "eans": "9163664081578,8906906683434"
+  },
+  {
+    "id": 1679,
+    "name": "Sesamstangen",
+    "brand": "Crusti Croc",
+    "pack": "175 g",
+    "price": 0.39,
+    "eans": "1638118731975,7901615444124"
+  },
+  {
+    "id": 1680,
+    "name": "Snackmix",
+    "brand": "Crusti Croc",
+    "pack": "300 g",
+    "price": 0.99,
+    "eans": "9118807333823,6757140066598"
+  },
+  {
+    "id": 1681,
+    "name": "Splashys/RingelKringel",
+    "brand": "Crusti Croc",
+    "pack": "100 g",
+    "price": 0.99,
+    "eans": "8688664434816,3144561746223"
+  },
+  {
+    "id": 1682,
+    "name": "Stapelchips,sortiert",
+    "brand": "SNACK DAY",
+    "pack": "175 g",
+    "price": 1.19,
+    "eans": "4286761758886,9493440771424"
+  },
+  {
+    "id": 1683,
+    "name": "Teddy'sHitKetchupStyle",
+    "brand": "Crusti Croc",
+    "pack": "100 g",
+    "price": 0.75,
+    "eans": "1999086248781,6634561824740"
+  },
+  {
+    "id": 1684,
+    "name": "Teddy'sHitOriginal",
+    "brand": "Crusti Croc",
+    "pack": "125 g",
+    "price": 0.75,
+    "eans": "5913480149914,8374010654532"
+  },
+  {
+    "id": 1685,
+    "name": "TortillaChipsChili",
+    "brand": "Crusti Croc",
+    "pack": "300 g",
+    "price": 0.99,
+    "eans": "9458360702835,4136283646843"
+  },
+  {
+    "id": 1686,
+    "name": "TortillaChipsClassic",
+    "brand": "Crusti Croc",
+    "pack": "300 g",
+    "price": 0.99,
+    "eans": "9030943475352,3155310544083"
+  },
+  {
+    "id": 1687,
+    "name": "TortillaChipsNachoCheese",
+    "brand": "Crusti Croc",
+    "pack": "300 g",
+    "price": 0.99,
+    "eans": "6453007039773,7449100848601"
+  },
+  {
+    "id": 1688,
+    "name": "Blätterkrokant",
+    "brand": "FAVORINA",
+    "pack": "150 g",
+    "price": 0.89,
+    "eans": "4600067421693,2222755164839"
+  },
+  {
+    "id": 1689,
+    "name": "Confiserie-Hase,sortiert",
+    "brand": "FAVORINA",
+    "pack": "200 g",
+    "price": 1.79,
+    "eans": "5260446520875,4846950779254"
+  },
+  {
+    "id": 1690,
+    "name": "Dip-Eier,sortiert",
+    "brand": "FAVORINA",
+    "pack": "144 g",
+    "price": 1.49,
+    "eans": "8037801450736,4695811572943"
+  },
+  {
+    "id": 1691,
+    "name": "Edelmarzipan-BaumstammmitNougat",
+    "brand": "FAVORINA",
+    "pack": "100 g",
+    "price": 0.69,
+    "eans": "3758067689047,5489014569232"
+  },
+  {
+    "id": 1692,
+    "name": "FeineOsterfiguren,sortiert",
+    "brand": "FAVORINA",
+    "pack": "125 g",
+    "price": 0.99,
+    "eans": "5566113729054,6761344945122"
+  },
+  {
+    "id": 1693,
+    "name": "FondantEier",
+    "brand": "FAVORINA",
+    "pack": "225 g",
+    "price": 0.89,
+    "eans": "7831968947587,7066214954105"
+  },
+  {
+    "id": 1694,
+    "name": "FondantHasen",
+    "brand": "FAVORINA",
+    "pack": "225 g",
+    "price": 0.89,
+    "eans": "5523344413091,8011375523300"
+  },
+  {
+    "id": 1695,
+    "name": "FruchtcremegefüllteEier,sortiert",
+    "brand": "FAVORINA",
+    "pack": "180 g",
+    "price": 1.49,
+    "eans": "9551152160223,8126535589604"
+  },
+  {
+    "id": 1696,
+    "name": "GefüllteSchokoladeneier,sortiert",
+    "brand": "FAVORINA",
+    "pack": "100 g",
+    "price": 0.99,
+    "eans": "2390370066378,4222715791394"
+  },
+  {
+    "id": 1697,
+    "name": "GroßesMarzipanei",
+    "brand": "FAVORINA",
+    "pack": "175 g",
+    "price": 1.19,
+    "eans": "9169455991620,7271731755269"
+  },
+  {
+    "id": 1698,
+    "name": "JamaikaRumkugeln",
+    "brand": "FAVORINA",
+    "pack": "200 g",
+    "price": 0.79,
+    "eans": "4753996548631,7609647348563"
+  },
+  {
+    "id": 1699,
+    "name": "KleinesHerzgeschenk",
+    "brand": "ACME",
+    "pack": "50 g",
+    "price": 0.99,
+    "eans": "6866958015176,5660830688301"
+  },
+  {
+    "id": 1700,
+    "name": "LikörgefüllteEier,sortiert",
+    "brand": "FAVORINA",
+    "pack": "150 g",
+    "price": 0.99,
+    "eans": "6742680906510,6234121396436"
+  },
+  {
+    "id": 1701,
+    "name": "LübeckerEdelmarzipan-Eier,sortiert",
+    "brand": "FAVORINA",
+    "pack": "125 g",
+    "price": 1.19,
+    "eans": "6905786823987,2702091267017"
+  },
+  {
+    "id": 1702,
+    "name": "LübeckerMarzipanMiniEier",
+    "brand": "FAVORINA",
+    "pack": "120 g",
+    "price": 1.69,
+    "eans": "1647364828209,2459125874160"
+  },
+  {
+    "id": 1703,
+    "name": "Mandeln,sortiert",
+    "brand": "FAVORINA",
+    "pack": "200 g",
+    "price": 1.59,
+    "eans": "5089703312349,7329289348454"
+  },
+  {
+    "id": 1704,
+    "name": "Marzipaneier",
+    "brand": "FAVORINA",
+    "pack": "125 g",
+    "price": 0.99,
+    "eans": "9199100796836,9825666012874"
+  },
+  {
+    "id": 1705,
+    "name": "MiniOsterküken",
+    "brand": "FAVORINA",
+    "pack": "125 g",
+    "price": 1.69,
+    "eans": "6920407858476,6189794358345"
+  },
+  {
+    "id": 1706,
+    "name": "Nougateier,sortiert",
+    "brand": "FAVORINA",
+    "pack": "150 g",
+    "price": 1.29,
+    "eans": "7472451221533,1094242089502"
+  },
+  {
+    "id": 1707,
+    "name": "Oster-Geleemischung",
+    "brand": "FAVORINA",
+    "pack": "250 g",
+    "price": 0.69,
+    "eans": "5111121778374,2679736754037"
+  },
+  {
+    "id": 1708,
+    "name": "Oster-Küsse",
+    "brand": "FAVORINA",
+    "pack": "240 g",
+    "price": 1.49,
+    "eans": "4995611881635,2813263367166"
+  },
+  {
+    "id": 1709,
+    "name": "Ostereiersuche",
+    "brand": "FAVORINA",
+    "pack": "500 g",
+    "price": 3.99,
+    "eans": "7245777970238,5155558993146"
+  },
+  {
+    "id": 1710,
+    "name": "Osterhäschen",
+    "brand": "FAVORINA",
+    "pack": "62.5 g",
+    "price": 1.29,
+    "eans": "1657447401373,3472889221925"
+  },
+  {
+    "id": 1711,
+    "name": "Osterlämmer,sortiert",
+    "brand": "FAVORINA",
+    "pack": "150 g",
+    "price": 1.69,
+    "eans": "3189966478997,1666313908281"
+  },
+  {
+    "id": 1712,
+    "name": "Ostermischbeutel",
+    "brand": "FAVORINA",
+    "pack": "250 g",
+    "price": 1.49,
+    "eans": "7219083729897,8830191804123"
+  },
+  {
+    "id": 1713,
+    "name": "Schoko-Creme-NestermitDekor",
+    "brand": "FAVORINA",
+    "pack": "225 g",
+    "price": 0.89,
+    "eans": "4295572214863,8483001457264"
+  },
+  {
+    "id": 1714,
+    "name": "Schokoladeneier",
+    "brand": "FAVORINA",
+    "pack": "200 g",
+    "price": 1.29,
+    "eans": "5297754256899,4953051806557"
+  },
+  {
+    "id": 1715,
+    "name": "Schokolollys,sortiert",
+    "brand": "FAVORINA",
+    "pack": "150 g",
+    "price": 0.99,
+    "eans": "4725696908169,2198992193447"
+  },
+  {
+    "id": 1716,
+    "name": "Sitzhase",
+    "brand": "FAVORINA",
+    "pack": "130 g",
+    "price": 0.99,
+    "eans": "4735225993061,9410930520072"
+  },
+  {
+    "id": 1717,
+    "name": "Sitzhase,sortiert",
+    "brand": "FAVORINA",
+    "pack": "150 g",
+    "price": 1.29,
+    "eans": "7698272602850,2622629657663"
+  },
+  {
+    "id": 1718,
+    "name": "Trüffeleier,sortiert",
+    "brand": "FAVORINA",
+    "pack": "150 g",
+    "price": 1.29,
+    "eans": "5466735635637,7905569280579"
+  },
+  {
+    "id": 1719,
+    "name": "Waffeleier",
+    "brand": "FAVORINA",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "3844135841964,7994241390514"
+  },
+  {
+    "id": 1720,
+    "name": "Alpen-VollmilchmitgehacktenMandeln",
+    "brand": "Fin Carré",
+    "pack": "100 g",
+    "price": 0.59,
+    "eans": "6713738216301,7408780537977"
+  },
+  {
+    "id": 1721,
+    "name": "Alpen-VollmilchHaselnuss",
+    "brand": "Fin Carré",
+    "pack": "100 g",
+    "price": 0.49,
+    "eans": "7858913127948,6158536357465"
+  },
+  {
+    "id": 1722,
+    "name": "Alpen-VollmilchSchokolade",
+    "brand": "Fin Carré",
+    "pack": "100 g",
+    "price": 0.55,
+    "eans": "5651988992327,9929606444692"
+  },
+  {
+    "id": 1723,
+    "name": "Alpen-VollmilchTraube-Nuss",
+    "brand": "Fin Carré",
+    "pack": "100 g",
+    "price": 0.59,
+    "eans": "5849605771435,6872582958796"
+  },
+  {
+    "id": 1724,
+    "name": "AMIDALA",
+    "brand": "J.D. Gross",
+    "pack": "150 g",
+    "price": 1.99,
+    "eans": "2039269204759,9163756059188"
+  },
+  {
+    "id": 1725,
+    "name": "BelgischeMeeresfrüchte",
+    "brand": "J.D. Gross",
+    "pack": "250 g",
+    "price": 1.99,
+    "eans": "6464542783731,4411161535670"
+  },
+  {
+    "id": 1726,
+    "name": "Bellona,sortiert",
+    "brand": "Mister Choc",
+    "pack": "150 g",
+    "price": 1.19,
+    "eans": "7004440204472,6962235915471"
+  },
+  {
+    "id": 1727,
+    "name": "BigHit",
+    "brand": "Mister Choc",
+    "pack": "400 g",
+    "price": 1.69,
+    "eans": "9809353576207,1160952435349"
+  },
+  {
+    "id": 1728,
+    "name": "Bitterschokolade",
+    "brand": "Fairglobe",
+    "pack": "100 g",
+    "price": 1.29,
+    "eans": "5614832246304,3358527590526"
+  },
+  {
+    "id": 1729,
+    "name": "ButterFudge-Karamell-Konfekt,sortiert",
+    "brand": "DELUXE",
+    "pack": "150 g",
+    "price": 1.79,
+    "eans": "5907612393856,2044179137349"
+  },
+  {
+    "id": 1730,
+    "name": "Caramel&Biscuit",
+    "brand": "Mister Choc",
+    "pack": "290 g",
+    "price": 1.15,
+    "eans": "5933866515737,5586053054016"
+  },
+  {
+    "id": 1731,
+    "name": "Caramel&BiscuitMinis",
+    "brand": "Mister Choc",
+    "pack": "350 g",
+    "price": 1.49,
+    "eans": "6856819678039,7457815031904"
+  },
+  {
+    "id": 1732,
+    "name": "Carré",
+    "brand": "Sondey",
+    "pack": "250 g",
+    "price": 1.79,
+    "eans": "5394142097949,3424074082729"
+  },
+  {
+    "id": 1733,
+    "name": "Choco&CaramelRiegel",
+    "brand": "Mister Choc",
+    "pack": "270 g",
+    "price": 1.15,
+    "eans": "7753524009532,7922289134197"
+  },
+  {
+    "id": 1734,
+    "name": "Cocos&ChocoMinis",
+    "brand": "Mister Choc",
+    "pack": "400 g",
+    "price": 1.49,
+    "eans": "2029179984506,7692626852984"
+  },
+  {
+    "id": 1735,
+    "name": "CoolSnack",
+    "brand": "Milbona",
+    "pack": "180 g",
+    "price": 0.95,
+    "eans": "1039153273664,1333402418005"
+  },
+  {
+    "id": 1736,
+    "name": "Edel-Herb-SahneSchokolade",
+    "brand": "Bellarom",
+    "pack": "200 g",
+    "price": 1.39,
+    "eans": "5738719979939,3327561641617"
+  },
+  {
+    "id": 1737,
+    "name": "Edel-Herbe-Sahne",
+    "brand": "Fin Carré",
+    "pack": "200 g",
+    "price": 1.39,
+    "eans": "4246665815726,5375176091875"
+  },
+  {
+    "id": 1738,
+    "name": "Edel-Kaffee-Sahne",
+    "brand": "Fin Carré",
+    "pack": "200 g",
+    "price": 1.39,
+    "eans": "4882638455553,8090751064606"
+  },
+  {
+    "id": 1739,
+    "name": "Edelschokolade,sortiert",
+    "brand": "J.D. Gross",
+    "pack": "125 g",
+    "price": 0.99,
+    "eans": "3564337501625,5997863707649"
+  },
+  {
+    "id": 1740,
+    "name": "EdelzartbittermitganzenNüssen",
+    "brand": "Fin Carré",
+    "pack": "100 g",
+    "price": 0.69,
+    "eans": "3187475911967,8400184133211"
+  },
+  {
+    "id": 1741,
+    "name": "Erfrischungsstäbchen",
+    "brand": "Mister Choc",
+    "pack": "150 g",
+    "price": 0.89,
+    "eans": "1408733982812,7984995532797"
+  },
+  {
+    "id": 1742,
+    "name": "FeineBrände",
+    "brand": "BASINI",
+    "pack": "250 g",
+    "price": 2.49,
+    "eans": "8770155384677,2218782018863"
+  },
+  {
+    "id": 1743,
+    "name": "FerreroKüsschen,sortiert",
+    "brand": "ACME",
+    "pack": "178 g",
+    "price": 2.79,
+    "eans": "4965625559455,3206535844714"
+  },
+  {
+    "id": 1744,
+    "name": "FerreroMonChérie",
+    "brand": "ACME",
+    "pack": "157 g",
+    "price": 2.99,
+    "eans": "6377376752685,5159630252992"
+  },
+  {
+    "id": 1745,
+    "name": "FerreroRocher",
+    "brand": "ACME",
+    "pack": "200 g",
+    "price": 3.29,
+    "eans": "4676776045741,2194148681431"
+  },
+  {
+    "id": 1746,
+    "name": "GanzeNussSchokolade",
+    "brand": "Fin Carré",
+    "pack": "100 g",
+    "price": 0.69,
+    "eans": "1643139564334,1977001112867"
+  },
+  {
+    "id": 1747,
+    "name": "KinderBueno",
+    "brand": "Kinder",
+    "pack": "129 g",
+    "price": 1.99,
+    "eans": "6687293016242,8836699173327"
+  },
+  {
+    "id": 1748,
+    "name": "KinderCountry",
+    "brand": "Kinder",
+    "pack": "212 g",
+    "price": 1.99,
+    "eans": "3685266277877,3190345515219"
+  },
+  {
+    "id": 1749,
+    "name": "KinderMaxiKing",
+    "brand": "Kinder",
+    "pack": "105 g",
+    "price": 1.29,
+    "eans": "5925851231043,2022466776150"
+  },
+  {
+    "id": 1750,
+    "name": "KinderMilchschnitte,10Stück",
+    "brand": "Kinder",
+    "pack": "280 g",
+    "price": 2.29,
+    "eans": "3808148375175,9393985976073"
+  },
+  {
+    "id": 1751,
+    "name": "KinderPingui,8x30g",
+    "brand": "Kinder",
+    "pack": "240 g",
+    "price": 2.25,
+    "eans": "5313430885310,2397113184016"
+  },
+  {
+    "id": 1752,
+    "name": "KinderRiegel,10x21g",
+    "brand": "Kinder",
+    "pack": "210 g",
+    "price": 1.99,
+    "eans": "6247118111622,3158809891149"
+  },
+  {
+    "id": 1753,
+    "name": "KinderSchokoBons",
+    "brand": "Kinder",
+    "pack": "200 g",
+    "price": 2.89,
+    "eans": "5945493482504,7715221108567"
+  },
+  {
+    "id": 1754,
+    "name": "KinderÜberraschungsei",
+    "brand": "Kinder",
+    "pack": "20 g",
+    "price": 0.79,
+    "eans": "4073531494613,7662962554446"
+  },
+  {
+    "id": 1755,
+    "name": "KnusprigeFrüchte,sortiert",
+    "brand": "Mister Choc",
+    "pack": "100 g",
+    "price": 1.99,
+    "eans": "3513924795374,6529520024692"
+  },
+  {
+    "id": 1756,
+    "name": "Konfekt-Selection,sortiert",
+    "brand": "DELUXE",
+    "pack": "135 g",
+    "price": 1.99,
+    "eans": "9730946426466,7947794793813"
+  },
+  {
+    "id": 1757,
+    "name": "Likörkirschpralinen",
+    "brand": "La Cerise",
+    "pack": "165 g",
+    "price": 1.19,
+    "eans": "9616042735254,2561485049222"
+  },
+  {
+    "id": 1758,
+    "name": "Milch-Freunde,sortiert",
+    "brand": "Mister Choc",
+    "pack": "210 g",
+    "price": 1.59,
+    "eans": "2660611364533,8946609211930"
+  },
+  {
+    "id": 1759,
+    "name": "MiniPralinés",
+    "brand": "J.D. Gross",
+    "pack": "100 g",
+    "price": 1.99,
+    "eans": "2027177072492,2815908681231"
+  },
+  {
+    "id": 1760,
+    "name": "MiniSchaumzuckerküsse,sortiert",
+    "brand": "Mister Choc",
+    "pack": "1 Pkg",
+    "price": 1.29,
+    "eans": "6419872515033,3105420877069"
+  },
+  {
+    "id": 1761,
+    "name": "MousseauChocolat",
+    "brand": "J.D. Gross",
+    "pack": "182.5 g",
+    "price": 1.79,
+    "eans": "8948081241948,3620085692777"
+  },
+  {
+    "id": 1762,
+    "name": "Noisette",
+    "brand": "Fin Carré",
+    "pack": "100 g",
+    "price": 0.59,
+    "eans": "5805413343646,5023834118470"
+  },
+  {
+    "id": 1763,
+    "name": "PartySelectionMinis",
+    "brand": "Mister Choc",
+    "pack": "500 g",
+    "price": 2.39,
+    "eans": "1124640340155,5872701641715"
+  },
+  {
+    "id": 1764,
+    "name": "Peanut&Chocominis",
+    "brand": "Mister Choc",
+    "pack": "350 g",
+    "price": 1.49,
+    "eans": "3433414844354,5101236014412"
+  },
+  {
+    "id": 1765,
+    "name": "PetitChocolat,sortiert",
+    "brand": "J.D. Gross",
+    "pack": "200 g",
+    "price": 2.79,
+    "eans": "9618443578799,8743621683895"
+  },
+  {
+    "id": 1766,
+    "name": "PralinésSelection",
+    "brand": "J.D. Gross",
+    "pack": "300 g",
+    "price": 3.99,
+    "eans": "7066926713359,2280752066112"
+  },
+  {
+    "id": 1767,
+    "name": "Schaumzuckerküsse",
+    "brand": "Mister Choc",
+    "pack": "300 g",
+    "price": 1.29,
+    "eans": "5149817307102,9187040225424"
+  },
+  {
+    "id": 1768,
+    "name": "SchokoBananen",
+    "brand": "Mister Choc",
+    "pack": "300 g",
+    "price": 1.69,
+    "eans": "9832754971135,2248587525907"
+  },
+  {
+    "id": 1769,
+    "name": "Schokoladen-Stäbchen,sortiert",
+    "brand": "Mister Choc",
+    "pack": "200 g",
+    "price": 0.99,
+    "eans": "9303817458646,5152976377282"
+  },
+  {
+    "id": 1770,
+    "name": "Schokoladen-StäbchenPetitAmour,sortiert",
+    "brand": "J.D. Gross",
+    "pack": "200 g",
+    "price": 1.99,
+    "eans": "5338943599653,3748528961782"
+  },
+  {
+    "id": 1771,
+    "name": "SchokoladenstäbchenMilch&Schokolade",
+    "brand": "Mister Choc",
+    "pack": "200 g",
+    "price": 0.65,
+    "eans": "7540688675600,7416105372912"
+  },
+  {
+    "id": 1772,
+    "name": "SchokolierteFrüchte,sortiert",
+    "brand": "DELUXE",
+    "pack": "200 g",
+    "price": 1.99,
+    "eans": "1495038765738,6175090645937"
+  },
+  {
+    "id": 1773,
+    "name": "Snikbizz",
+    "brand": "Mister Choc",
+    "pack": "250 g",
+    "price": 1.15,
+    "eans": "4997458328144,5889102015830"
+  },
+  {
+    "id": 1774,
+    "name": "Torrone-Riegel,sortiert",
+    "brand": "DELUXE",
+    "pack": "100 g",
+    "price": 1.79,
+    "eans": "9568523617002,6818125360626"
+  },
+  {
+    "id": 1775,
+    "name": "TrüffelPralinés,sortiert",
+    "brand": "J.D. Gross",
+    "pack": "200 g",
+    "price": 2.59,
+    "eans": "1515762168145,8656096530116"
+  },
+  {
+    "id": 1776,
+    "name": "WeißeSchokolade",
+    "brand": "Fin Carré",
+    "pack": "100 g",
+    "price": 0.54,
+    "eans": "4864649360248,4627586427999"
+  },
+  {
+    "id": 1777,
+    "name": "WeißerNougat",
+    "brand": "Duc De Coeur",
+    "pack": "250 g",
+    "price": 2.49,
+    "eans": "3354261772730,8652585752106"
+  },
+  {
+    "id": 1778,
+    "name": "WeisseSchokolade",
+    "brand": "Bellarom",
+    "pack": "200 g",
+    "price": 1.39,
+    "eans": "4835155250859,2268271493770"
+  },
+  {
+    "id": 1779,
+    "name": "ZartbitterSchokolade",
+    "brand": "Fin Carré",
+    "pack": "100 g",
+    "price": 0.59,
+    "eans": "8471229420511,2230919347288"
+  },
+  {
+    "id": 1780,
+    "name": "Adventskalender",
+    "brand": "FAVORINA",
+    "pack": "75 g",
+    "price": 0.79,
+    "eans": "5313928535123,8763997141348"
+  },
+  {
+    "id": 1781,
+    "name": "Baumkuchen,sortiert",
+    "brand": "FAVORINA",
+    "pack": "300 g",
+    "price": 2.7,
+    "eans": "1880762690928,6384406340200"
+  },
+  {
+    "id": 1782,
+    "name": "Baumkuchenspitzen,sortiert",
+    "brand": "FAVORINA",
+    "pack": "150 g",
+    "price": 1.69,
+    "eans": "5640819990991,6021472133779"
+  },
+  {
+    "id": 1783,
+    "name": "Blätterkrokant",
+    "brand": "FAVORINA",
+    "pack": "150 g",
+    "price": 0.96,
+    "eans": "9995677368236,9444984079460"
+  },
+  {
+    "id": 1784,
+    "name": "Butter-Mandel-Stollen",
+    "brand": "FAVORINA",
+    "pack": "750 g",
+    "price": 3.09,
+    "eans": "5164267260975,2425373417633"
+  },
+  {
+    "id": 1785,
+    "name": "Butterspekulatius",
+    "brand": "FAVORINA",
+    "pack": "250 g",
+    "price": 0.96,
+    "eans": "8661721491670,8805888624674"
+  },
+  {
+    "id": 1786,
+    "name": "Dominosteine,sortiert",
+    "brand": "FAVORINA",
+    "pack": "250 g",
+    "price": 1.54,
+    "eans": "9696534218588,8355967124392"
+  },
+  {
+    "id": 1787,
+    "name": "Edel-Nougat-Zapfen,sortiert",
+    "brand": "FAVORINA",
+    "pack": "100 g",
+    "price": 1.29,
+    "eans": "5874520826809,7427030689730"
+  },
+  {
+    "id": 1788,
+    "name": "Edelmarzipan-Baumstamm",
+    "brand": "FAVORINA",
+    "pack": "100 g",
+    "price": 0.69,
+    "eans": "8694590195103,3527958429372"
+  },
+  {
+    "id": 1789,
+    "name": "Edelmarzipanbrot,sortiert",
+    "brand": "FAVORINA",
+    "pack": "125 g",
+    "price": 0.89,
+    "eans": "6091299456030,1569291934955"
+  },
+  {
+    "id": 1790,
+    "name": "EdelnougatBaumstamm,sortiert",
+    "brand": "FAVORINA",
+    "pack": "100 g",
+    "price": 0.89,
+    "eans": "2005758283383,9021820772497"
+  },
+  {
+    "id": 1791,
+    "name": "EdleNüsse,sortiert",
+    "brand": "FAVORINA",
+    "pack": "200 g",
+    "price": 1.69,
+    "eans": "3222363210330,2121370641254"
+  },
+  {
+    "id": 1792,
+    "name": "FeineKugeln,sortiert",
+    "brand": "FAVORINA",
+    "pack": "100 g",
+    "price": 0.99,
+    "eans": "5607775080654,6108834567868"
+  },
+  {
+    "id": 1793,
+    "name": "GefüllteLebkuchenherzen,sortiert",
+    "brand": "FAVORINA",
+    "pack": "300 g",
+    "price": 1.15,
+    "eans": "3992646066052,3201119296859"
+  },
+  {
+    "id": 1794,
+    "name": "Gewürzspekulatius",
+    "brand": "FAVORINA",
+    "pack": "600 g",
+    "price": 0.96,
+    "eans": "3255526012076,5800537329729"
+  },
+  {
+    "id": 1795,
+    "name": "LebkuchenAllerlei",
+    "brand": "FAVORINA",
+    "pack": "600 g",
+    "price": 1.69,
+    "eans": "4941001773776,3374458573827"
+  },
+  {
+    "id": 1796,
+    "name": "Marzipanbrot",
+    "brand": "FAVORINA",
+    "pack": "175 g",
+    "price": 0.99,
+    "eans": "9749132770597,1041374563332"
+  },
+  {
+    "id": 1797,
+    "name": "Marzipankartoffeln",
+    "brand": "FAVORINA",
+    "pack": "125 g",
+    "price": 0.89,
+    "eans": "2681091114289,1761504892520"
+  },
+  {
+    "id": 1798,
+    "name": "MiniNussecken",
+    "brand": "FAVORINA",
+    "pack": "200 g",
+    "price": 1.99,
+    "eans": "5151840682804,6739620822054"
+  },
+  {
+    "id": 1799,
+    "name": "Mini-Figuren",
+    "brand": "FAVORINA",
+    "pack": "125 g",
+    "price": 1.69,
+    "eans": "1791197037267,6823135490157"
+  },
+  {
+    "id": 1800,
+    "name": "Mini-Marzipan-Butter-Stollen",
+    "brand": "FAVORINA",
+    "pack": "350 g",
+    "price": 2.31,
+    "eans": "7082476608273,1405881585612"
+  },
+  {
+    "id": 1801,
+    "name": "Nougat-Happen,sortiert",
+    "brand": "FAVORINA",
+    "pack": "125 g",
+    "price": 1.19,
+    "eans": "9083645041837,2647711600846"
+  },
+  {
+    "id": 1802,
+    "name": "Oblaten-Lebkuchen",
+    "brand": "FAVORINA",
+    "pack": "300 g",
+    "price": 1.89,
+    "eans": "5509801100049,7001198093242"
+  },
+  {
+    "id": 1803,
+    "name": "Pfeffernüsse",
+    "brand": "FAVORINA",
+    "pack": "600 g",
+    "price": 1.79,
+    "eans": "4758348829529,9996372619180"
+  },
+  {
+    "id": 1804,
+    "name": "Runde,brauneLebkuchen",
+    "brand": "FAVORINA",
+    "pack": "200 g",
+    "price": 0.75,
+    "eans": "2520163718546,8055808226208"
+  },
+  {
+    "id": 1805,
+    "name": "SchokoLolly",
+    "brand": "FAVORINA",
+    "pack": "150 g",
+    "price": 0.99,
+    "eans": "6687149873135,4196609788510"
+  },
+  {
+    "id": 1806,
+    "name": "Schokoladenkränze",
+    "brand": "FAVORINA",
+    "pack": "200 g",
+    "price": 0.89,
+    "eans": "6379016448613,3062819712076"
+  },
+  {
+    "id": 1807,
+    "name": "Sterne-Herzen-Brezeln",
+    "brand": "FAVORINA",
+    "pack": "500 g",
+    "price": 1.73,
+    "eans": "3631143065259,2100371051392"
+  },
+  {
+    "id": 1808,
+    "name": "Stollen,sortiert",
+    "brand": "FAVORINA",
+    "pack": "200 g",
+    "price": 0.99,
+    "eans": "9342153609404,6910980790751"
+  },
+  {
+    "id": 1809,
+    "name": "Vanillekipferl",
+    "brand": "FAVORINA",
+    "pack": "150 g",
+    "price": 1.44,
+    "eans": "1137955396397,2625489523086"
+  },
+  {
+    "id": 1810,
+    "name": "Weihnachtsfiguren",
+    "brand": "FAVORINA",
+    "pack": "100 g",
+    "price": 0.79,
+    "eans": "4344023419354,1076039111481"
+  },
+  {
+    "id": 1811,
+    "name": "Weihnachtsmann",
+    "brand": "FAVORINA",
+    "pack": "200 g",
+    "price": 0.99,
+    "eans": "7791430008324,9384849288494"
+  },
+  {
+    "id": 1812,
+    "name": "Weihnachtsmischbeutel",
+    "brand": "FAVORINA",
+    "pack": "250 g",
+    "price": 1.39,
+    "eans": "5705485708353,6791016102706"
+  },
+  {
+    "id": 1813,
+    "name": "Bauerntopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.49,
+    "eans": "7741350361818,7288725748022"
+  },
+  {
+    "id": 1814,
+    "name": "Bihun-Suppe",
+    "brand": "COQUETTE",
+    "pack": "400 ml",
+    "price": 0.79,
+    "eans": "1045055992923,6205582666932"
+  },
+  {
+    "id": 1815,
+    "name": "Burgundertopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.99,
+    "eans": "6451206289777,9494622201487"
+  },
+  {
+    "id": 1816,
+    "name": "ChiliconCarne",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.69,
+    "eans": "7993431240547,7907417446830"
+  },
+  {
+    "id": 1817,
+    "name": "Erbseneintopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.19,
+    "eans": "8645856282037,8767711228193"
+  },
+  {
+    "id": 1818,
+    "name": "Festtagssuppe",
+    "brand": "COQUETTE",
+    "pack": "400 ml",
+    "price": 0.79,
+    "eans": "8042422133128,7514050908702"
+  },
+  {
+    "id": 1819,
+    "name": "GrünerBohnentopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 0.99,
+    "eans": "4882190419154,7820072533694"
+  },
+  {
+    "id": 1820,
+    "name": "Hühner-Nudeltopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 0.99,
+    "eans": "9129411361799,2002763485542"
+  },
+  {
+    "id": 1821,
+    "name": "Hühner-Reistopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 0.99,
+    "eans": "1631341128239,7576864984617"
+  },
+  {
+    "id": 1822,
+    "name": "Kartoffeltopf",
+    "brand": "COQUETTE",
+    "pack": "800 ml",
+    "price": 0.89,
+    "eans": "6435473250333,7140778144605"
+  },
+  {
+    "id": 1823,
+    "name": "Linsen-SuppemitCocktailwürstchen",
+    "brand": "COQUETTE",
+    "pack": "680 g",
+    "price": 0.99,
+    "eans": "6215227148730,9316385221123"
+  },
+  {
+    "id": 1824,
+    "name": "LinsensuppemitgeräuchertemSchweinefleisch",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.19,
+    "eans": "8485045573269,7596311616670"
+  },
+  {
+    "id": 1825,
+    "name": "Räubertopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.99,
+    "eans": "1287024763442,2425866533437"
+  },
+  {
+    "id": 1826,
+    "name": "RaviolimitGemüse",
+    "brand": "Combino",
+    "pack": "800 g",
+    "price": 1.19,
+    "eans": "5025138772297,2735714801060"
+  },
+  {
+    "id": 1827,
+    "name": "Sauerkrauttopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.49,
+    "eans": "7251067657154,3140106193064"
+  },
+  {
+    "id": 1828,
+    "name": "Schweinegulaschtopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.99,
+    "eans": "4752776434041,3223364198696"
+  },
+  {
+    "id": 1829,
+    "name": "Spirli-Nudeltopf",
+    "brand": "COQUETTE",
+    "pack": "800 g",
+    "price": 1.49,
+    "eans": "5953310834948,5967468782747"
+  },
+  {
+    "id": 1830,
+    "name": "Thai-Suppe",
+    "brand": "COQUETTE",
+    "pack": "400 ml",
+    "price": 0.79,
+    "eans": "7163163294860,7364433539913"
+  },
+  {
+    "id": 1831,
+    "name": "Tomatencremesuppe",
+    "brand": "COQUETTE",
+    "pack": "400 ml",
+    "price": 0.69,
+    "eans": "1283012107335,1120586075908"
+  },
+  {
+    "id": 1832,
+    "name": "UngarischeGulaschsuppe",
+    "brand": "COQUETTE",
+    "pack": "400 ml",
+    "price": 0.89,
+    "eans": "5161860526279,3336348451141"
+  },
+  {
+    "id": 1833,
+    "name": "Bismarckhering",
+    "brand": "OCEAN SEA",
+    "pack": "500 g",
+    "price": 1.89,
+    "eans": "2607733996532,6868970053280"
+  },
+  {
+    "id": 1834,
+    "name": "HeringsfiletsgeteiltinTomatensauce",
+    "brand": "NIXE",
+    "pack": "200 g",
+    "price": 0.89,
+    "eans": "1494765693697,3641138183790"
+  },
+  {
+    "id": 1835,
+    "name": "Rollmops",
+    "brand": "OCEAN SEA",
+    "pack": "500 g",
+    "price": 1.89,
+    "eans": "6876558376249,5705801197267"
+  },
+  {
+    "id": 1836,
+    "name": "SardineninTomatensauce",
+    "brand": "NIXE",
+    "pack": "125 g",
+    "price": 0.75,
+    "eans": "4305942167016,4238234103501"
+  },
+  {
+    "id": 1837,
+    "name": "ThunfischfiletsimeigenenSaft",
+    "brand": "NIXE",
+    "pack": "195 g",
+    "price": 1.19,
+    "eans": "8600673585419,8288166455168"
+  },
+  {
+    "id": 1838,
+    "name": "ThunfischfiletsinSonnenblumenöl",
+    "brand": "NIXE",
+    "pack": "185 g",
+    "price": 1.19,
+    "eans": "6295930872719,6082409209929"
+  },
+  {
+    "id": 1839,
+    "name": "ZarteBratheringfilets",
+    "brand": "NIXE",
+    "pack": "325 g",
+    "price": 1.19,
+    "eans": "1850688188717,2947732268583"
+  },
+  {
+    "id": 1840,
+    "name": "ZarteHeringsfilets,sortiert",
+    "brand": "NIXE",
+    "pack": "200 g",
+    "price": 0.89,
+    "eans": "5549469480534,6115568464899"
+  },
+  {
+    "id": 1841,
+    "name": "Bockwurst",
+    "brand": "Dulano",
+    "pack": "550 g",
+    "price": 1.55,
+    "eans": "4365147121282,1371365666514"
+  },
+  {
+    "id": 1842,
+    "name": "DelikatessSchinken-Würstchen",
+    "brand": "Dulano",
+    "pack": "380 g",
+    "price": 1.39,
+    "eans": "8857259350224,4406581525110"
+  },
+  {
+    "id": 1843,
+    "name": "Leberwurst",
+    "brand": "Biotrend",
+    "pack": "160 g",
+    "price": 1.19,
+    "eans": "7420584906414,2654916509188"
+  },
+  {
+    "id": 1844,
+    "name": "Mettwurst",
+    "brand": "Biotrend",
+    "pack": "160 g",
+    "price": 1.19,
+    "eans": "6774049866722,5864327682425"
+  },
+  {
+    "id": 1845,
+    "name": "Zwiebelmettwurst",
+    "brand": "Biotrend",
+    "pack": "160 g",
+    "price": 1.19,
+    "eans": "1271287216692,5766240691655"
+  },
+  {
+    "id": 1846,
+    "name": "Apfelrotkohl",
+    "brand": "FRESHONA",
+    "pack": "400 g",
+    "price": 0.49,
+    "eans": "4749523461320,6978125826543"
+  },
+  {
+    "id": 1847,
+    "name": "ChampignonsIWahl,ganzeKöpfe",
+    "brand": "FRESHONA",
+    "pack": "400 g",
+    "price": 0.95,
+    "eans": "6507638123124,4602822244882"
+  },
+  {
+    "id": 1848,
+    "name": "Champignons,IWahl,geschnitten",
+    "brand": "FRESHONA",
+    "pack": "280 g",
+    "price": 0.89,
+    "eans": "4318967455044,2617812043071"
+  },
+  {
+    "id": 1849,
+    "name": "Champignons,IIIWahl,geschnitten",
+    "brand": "FRESHONA",
+    "pack": "280 g",
+    "price": 0.59,
+    "eans": "9489911382565,5598624753730"
+  },
+  {
+    "id": 1850,
+    "name": "Cornichons",
+    "brand": "FRESHONA",
+    "pack": "670 g",
+    "price": 1.19,
+    "eans": "2096393265315,8834541996117"
+  },
+  {
+    "id": 1851,
+    "name": "DelikatessRotkohl",
+    "brand": "FRESHONA",
+    "pack": "680 g",
+    "price": 0.55,
+    "eans": "4200606080215,3622788920355"
+  },
+  {
+    "id": 1852,
+    "name": "ErbsenmitMöhren",
+    "brand": "FRESHONA",
+    "pack": "800 g",
+    "price": 0.99,
+    "eans": "8639092569502,1524453055121"
+  },
+  {
+    "id": 1853,
+    "name": "FeinejungeBrechbohnen",
+    "brand": "FRESHONA",
+    "pack": "660 g",
+    "price": 0.85,
+    "eans": "6119478965255,5781788739355"
+  },
+  {
+    "id": 1854,
+    "name": "GehackteTomaten",
+    "brand": "FRESHONA",
+    "pack": "400 g",
+    "price": 0.39,
+    "eans": "3190824772805,5407496689927"
+  },
+  {
+    "id": 1855,
+    "name": "Gemüsemaissupersweet",
+    "brand": "FRESHONA",
+    "pack": "300 g",
+    "price": 0.49,
+    "eans": "8881289166128,7825924990243"
+  },
+  {
+    "id": 1856,
+    "name": "GeschälteTomaten",
+    "brand": "FRESHONA",
+    "pack": "400 g",
+    "price": 0.35,
+    "eans": "8131090874607,7798343804272"
+  },
+  {
+    "id": 1857,
+    "name": "Gewürzgurken",
+    "brand": "FRESHONA",
+    "pack": "670 g",
+    "price": 0.89,
+    "eans": "3818595792289,1500400584999"
+  },
+  {
+    "id": 1858,
+    "name": "Gurkensticks",
+    "brand": "FRESHONA",
+    "pack": "670 g",
+    "price": 0.89,
+    "eans": "5356284025990,3769223342003"
+  },
+  {
+    "id": 1859,
+    "name": "Gurkentopf",
+    "brand": "FRESHONA",
+    "pack": "1550 g",
+    "price": 1.59,
+    "eans": "1101532229958,7240815733400"
+  },
+  {
+    "id": 1860,
+    "name": "JungeBrechbohnen",
+    "brand": "FRESHONA",
+    "pack": "800 g",
+    "price": 0.69,
+    "eans": "5637297701249,9794267278388"
+  },
+  {
+    "id": 1861,
+    "name": "JungeErbsen,sehrfein",
+    "brand": "FRESHONA",
+    "pack": "400 g",
+    "price": 0.65,
+    "eans": "1349291087925,9638754717397"
+  },
+  {
+    "id": 1862,
+    "name": "Kartoffeln",
+    "brand": "FRESHONA",
+    "pack": "660 g",
+    "price": 0.79,
+    "eans": "9394196068199,6351616934932"
+  },
+  {
+    "id": 1863,
+    "name": "Paprikaschoten",
+    "brand": "FRESHONA",
+    "pack": "650 g",
+    "price": 1.99,
+    "eans": "8857527163815,2412352209563"
+  },
+  {
+    "id": 1864,
+    "name": "PassierteTomaten",
+    "brand": "FRESHONA",
+    "pack": "500 g",
+    "price": 0.45,
+    "eans": "6604454963214,4725934621515"
+  },
+  {
+    "id": 1865,
+    "name": "PilzeimGlas,sortiert",
+    "brand": "DELUXE",
+    "pack": "280 g",
+    "price": 1.29,
+    "eans": "1027957465606,1288853660940"
+  },
+  {
+    "id": 1866,
+    "name": "PremiumCornichonsClassic",
+    "brand": "FRESHONA",
+    "pack": "330 g",
+    "price": 0.95,
+    "eans": "4612812920078,5560441825037"
+  },
+  {
+    "id": 1867,
+    "name": "PremiumCornichonsHonig-süß",
+    "brand": "FRESHONA",
+    "pack": "330 g",
+    "price": 0.99,
+    "eans": "5153635998770,1492222922274"
+  },
+  {
+    "id": 1868,
+    "name": "PremiumCornichonsscharf-würzig",
+    "brand": "FRESHONA",
+    "pack": "330 g",
+    "price": 0.99,
+    "eans": "5583642753114,3607248073505"
+  },
+  {
+    "id": 1869,
+    "name": "Prinzessbohnen,fein",
+    "brand": "FRESHONA",
+    "pack": "400 g",
+    "price": 0.59,
+    "eans": "9671586916965,8519130419375"
+  },
+  {
+    "id": 1870,
+    "name": "RoteBeteinScheiben",
+    "brand": "FRESHONA",
+    "pack": "670 g",
+    "price": 0.99,
+    "eans": "5493381325292,3753282488499"
+  },
+  {
+    "id": 1871,
+    "name": "RoteKidney-Bohnen",
+    "brand": "FRESHONA",
+    "pack": "410 g",
+    "price": 0.55,
+    "eans": "4002813558781,9558087218999"
+  },
+  {
+    "id": 1872,
+    "name": "Stangenspargel",
+    "brand": "FRESHONA",
+    "pack": "330 g",
+    "price": 0.99,
+    "eans": "4472775247656,2153507516388"
+  },
+  {
+    "id": 1873,
+    "name": "Tomatenmark",
+    "brand": "FRESHONA",
+    "pack": "200 g",
+    "price": 0.49,
+    "eans": "1421756096434,5950524872391"
+  },
+  {
+    "id": 1874,
+    "name": "Wachsbrechbohnen",
+    "brand": "FRESHONA",
+    "pack": "660 g",
+    "price": 0.85,
+    "eans": "6621076185947,8391493574478"
+  },
+  {
+    "id": 1875,
+    "name": "Weinsauerkraut",
+    "brand": "FRESHONA",
+    "pack": "810 g",
+    "price": 0.59,
+    "eans": "9967620464616,5996288585795"
+  },
+  {
+    "id": 1876,
+    "name": "AnanasScheiben",
+    "brand": "FRESHONA",
+    "pack": "825 g",
+    "price": 1.29,
+    "eans": "2520623397120,5615153453532"
+  },
+  {
+    "id": 1877,
+    "name": "AnanasStücke",
+    "brand": "FRESHONA",
+    "pack": "565 g",
+    "price": 0.79,
+    "eans": "8082228870148,7116796206441"
+  },
+  {
+    "id": 1878,
+    "name": "Apfelmus",
+    "brand": "FRESHONA",
+    "pack": "720 g",
+    "price": 0.59,
+    "eans": "6999170725094,4846182912719"
+  },
+  {
+    "id": 1879,
+    "name": "Apfelmus,Bio",
+    "brand": "FRESHONA",
+    "pack": "355 g",
+    "price": 0.99,
+    "eans": "6058382086734,6597462461493"
+  },
+  {
+    "id": 1880,
+    "name": "Fruchtcocktail",
+    "brand": "FRESHONA",
+    "pack": "820 g",
+    "price": 1.69,
+    "eans": "2842339008276,5703439868542"
+  },
+  {
+    "id": 1881,
+    "name": "Mandarin-Orangen",
+    "brand": "FRESHONA",
+    "pack": "312 g",
+    "price": 0.95,
+    "eans": "1484203988645,4465300614924"
+  },
+  {
+    "id": 1882,
+    "name": "Pfirsich-Hälften",
+    "brand": "FRESHONA",
+    "pack": "820 g",
+    "price": 0.99,
+    "eans": "9319132719430,8180530395462"
+  },
+  {
+    "id": 1883,
+    "name": "Sauerkirschen,entsteintundgezuckert",
+    "brand": "FRESHONA",
+    "pack": "680 g",
+    "price": 1.49,
+    "eans": "5670531436026,1227022852380"
+  },
+  {
+    "id": 1884,
+    "name": "Wildpreiselbeeren",
+    "brand": "FRESHONA",
+    "pack": "400 g",
+    "price": 1.29,
+    "eans": "1131414732542,1026513159621"
+  },
+  {
+    "id": 1885,
+    "name": "WilliamsChristBirnen",
+    "brand": "FRESHONA",
+    "pack": "820 g",
+    "price": 1.49,
+    "eans": "7505731673699,8062558681720"
+  },
+  {
+    "id": 1886,
+    "name": "Fond,sortiert",
+    "brand": "DELUXE",
+    "pack": "400 ml",
+    "price": 0.99,
+    "eans": "1755977383661,6689517445326"
+  },
+  {
+    "id": 1887,
+    "name": "Batterien,1,5V,Micro,AAA",
+    "brand": "Aerocell",
+    "pack": "8 Stk.",
+    "price": 1.59,
+    "eans": "4558805794632,4223056902630"
+  },
+  {
+    "id": 1888,
+    "name": "Batterien,1,5V,Mignon,AA",
+    "brand": "Aerocell",
+    "pack": "8 Stk.",
+    "price": 1.54,
+    "eans": "7489315317394,8586949642577"
+  },
+  {
+    "id": 1889,
+    "name": "Batterien,9V,E-Block",
+    "brand": "Aerocell",
+    "pack": "2 Stk.",
+    "price": 1.59,
+    "eans": "3059257766303,4006663555228"
+  },
+  {
+    "id": 1890,
+    "name": "BaumwolltascheFairtrade",
+    "brand": "ACME",
+    "pack": "1 Stk.",
+    "price": 1.99,
+    "eans": "2586014693547,7253180536545"
+  },
+  {
+    "id": 1891,
+    "name": "Duftkerzen,sortiert",
+    "brand": "ACME",
+    "pack": "18 Stk.",
+    "price": 1.49,
+    "eans": "4682330462480,5204763706543"
+  },
+  {
+    "id": 1892,
+    "name": "Elektronikfeuerzeug",
+    "brand": "ACME",
+    "pack": "3 Stk.",
+    "price": 0.89,
+    "eans": "3057433269440,8033219895473"
+  },
+  {
+    "id": 1893,
+    "name": "Kohleanzünder32erParaffin",
+    "brand": "ACME",
+    "pack": "1 Pkg",
+    "price": 0.65,
+    "eans": "3254740000258,9207748513538"
+  },
+  {
+    "id": 1894,
+    "name": "KompositionsÖllichtNr3",
+    "brand": "ACME",
+    "pack": "1 Stk.",
+    "price": 0.45,
+    "eans": "8309704957088,6567799049756"
+  },
+  {
+    "id": 1895,
+    "name": "Permanenttragetasche",
+    "brand": "ACME",
+    "pack": "1 Stk.",
+    "price": 0.76,
+    "eans": "2527358696641,6206682062433"
+  },
+  {
+    "id": 1896,
+    "name": "Tiefkühltragetasche",
+    "brand": "ACME",
+    "pack": "1 Stk.",
+    "price": 0.49,
+    "eans": "9295282537257,7881505351407"
+  },
+  {
+    "id": 1897,
+    "name": "Butterkäse",
+    "brand": "Milbona",
+    "pack": "400 g",
+    "price": 1.99,
+    "eans": "8417147924410,5276127948968"
+  },
+  {
+    "id": 1898,
+    "name": "Camembert",
+    "brand": "DELUXE",
+    "pack": "250 g",
+    "price": 1.93,
+    "eans": "3024855218066,9669844449072"
+  },
+  {
+    "id": 1899,
+    "name": "Camembert",
+    "brand": "CHÊNE d'ARGENT",
+    "pack": "250 g",
+    "price": 1.59,
+    "eans": "2368150934216,7449597675001"
+  },
+  {
+    "id": 1900,
+    "name": "DänischerBelcavo",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 1.65,
+    "eans": "3946609857492,7074869655599"
+  },
+  {
+    "id": 1901,
+    "name": "DänischerHavarti",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 1.65,
+    "eans": "7921321245396,5186268462363"
+  },
+  {
+    "id": 1902,
+    "name": "Edamer,inScheiben",
+    "brand": "Milbona",
+    "pack": "400 g",
+    "price": 1.99,
+    "eans": "1984331097238,4010761015362"
+  },
+  {
+    "id": 1903,
+    "name": "Emmentaler,amStück",
+    "brand": "Milbona",
+    "pack": "400 g",
+    "price": 2.69,
+    "eans": "4073354787770,2444465050992"
+  },
+  {
+    "id": 1904,
+    "name": "Emmentaler,gerieben",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 1.45,
+    "eans": "9029907640332,5053777412922"
+  },
+  {
+    "id": 1905,
+    "name": "Emmentaler,Scheiben",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 2.09,
+    "eans": "2062777056176,9614298740176"
+  },
+  {
+    "id": 1906,
+    "name": "EsromSchnittkäse",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 1.65,
+    "eans": "7138393192811,3520228427528"
+  },
+  {
+    "id": 1907,
+    "name": "Feta",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 1.54,
+    "eans": "6920293321412,5946695501512"
+  },
+  {
+    "id": 1908,
+    "name": "FrischkäseDerSahnige",
+    "brand": "Milbona",
+    "pack": "300 g",
+    "price": 0.89,
+    "eans": "1681669970003,3128206963893"
+  },
+  {
+    "id": 1909,
+    "name": "FrischkäseFeineKräuter",
+    "brand": "Milbona",
+    "pack": "300 g",
+    "price": 0.89,
+    "eans": "2082394054041,3003618880184"
+  },
+  {
+    "id": 1910,
+    "name": "GefüllterWeichkäse,sortiert",
+    "brand": "DELUXE",
+    "pack": "1 Pkg",
+    "price": 2.29,
+    "eans": "6074942911971,7003751846197"
+  },
+  {
+    "id": 1911,
+    "name": "GoudajunginScheiben",
+    "brand": "Milbona",
+    "pack": "400 g",
+    "price": 1.99,
+    "eans": "4443998752722,6935369704587"
+  },
+  {
+    "id": 1912,
+    "name": "Goudajunggerieben",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 1.75,
+    "eans": "5609928083796,4417441154210"
+  },
+  {
+    "id": 1913,
+    "name": "Goudajung,imStück",
+    "brand": "Milbona",
+    "pack": "450 g",
+    "price": 2.69,
+    "eans": "1993259206028,8483917408527"
+  },
+  {
+    "id": 1914,
+    "name": "Goudamittelalt,imStück",
+    "brand": "Milbona",
+    "pack": "450 g",
+    "price": 2.89,
+    "eans": "7527912190917,5848016644673"
+  },
+  {
+    "id": 1915,
+    "name": "Goudamittelalt,inScheiben",
+    "brand": "Milbona",
+    "pack": "300 g",
+    "price": 2.49,
+    "eans": "6386946963307,8264541817073"
+  },
+  {
+    "id": 1916,
+    "name": "GranaPadanogerieben",
+    "brand": "LOVILIO",
+    "pack": "150 g",
+    "price": 1.99,
+    "eans": "5300072891779,4847574117552"
+  },
+  {
+    "id": 1917,
+    "name": "GratinKäse",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 1.39,
+    "eans": "4172740467446,7943778696477"
+  },
+  {
+    "id": 1918,
+    "name": "Grilltaler,sortiert",
+    "brand": "Grillmeister",
+    "pack": "280 g",
+    "price": 1.99,
+    "eans": "6241290348883,9596279768570"
+  },
+  {
+    "id": 1919,
+    "name": "Handkäse,sortiert",
+    "brand": "ACME",
+    "pack": "200 g",
+    "price": 1.29,
+    "eans": "5449703562319,8628149241799"
+  },
+  {
+    "id": 1920,
+    "name": "HarzerKäse,klassisch",
+    "brand": "ACME",
+    "pack": "200 g",
+    "price": 1.39,
+    "eans": "2576422427377,7066426934056"
+  },
+  {
+    "id": 1921,
+    "name": "Hirtenkäse",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 1.19,
+    "eans": "9943800277146,3034642478528"
+  },
+  {
+    "id": 1922,
+    "name": "Käseaufschnitt",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 1.49,
+    "eans": "7951684139605,2901037001320"
+  },
+  {
+    "id": 1923,
+    "name": "Käseaufschnittlight",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 1.39,
+    "eans": "3235534192878,5546991299030"
+  },
+  {
+    "id": 1924,
+    "name": "KörnigerFrischkäse",
+    "brand": "Milbona",
+    "pack": "300 g",
+    "price": 1.03,
+    "eans": "2411610947056,4891074622658"
+  },
+  {
+    "id": 1925,
+    "name": "lightKäseaufschnittinScheiben",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 1.49,
+    "eans": "7728404996509,8212613385975"
+  },
+  {
+    "id": 1926,
+    "name": "MaasdamerinScheiben",
+    "brand": "Milbona",
+    "pack": "300 g",
+    "price": 1.99,
+    "eans": "7055633353347,2828649077003"
+  },
+  {
+    "id": 1927,
+    "name": "MaasdamerinScheiben",
+    "brand": "MEINE KÄSEREI",
+    "pack": "200 g",
+    "price": 1.69,
+    "eans": "8387467966370,7706870902996"
+  },
+  {
+    "id": 1928,
+    "name": "Maasdammer\"Caractère“",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 1.79,
+    "eans": "2000587625151,8707630978588"
+  },
+  {
+    "id": 1929,
+    "name": "Maasdammer\"LaCrème“",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 1.99,
+    "eans": "3650308713378,9952528223717"
+  },
+  {
+    "id": 1930,
+    "name": "Mini-Mozzarella",
+    "brand": "LOVILIO",
+    "pack": "125 g",
+    "price": 0.89,
+    "eans": "8121309927231,3098675682345"
+  },
+  {
+    "id": 1931,
+    "name": "Mozzarella",
+    "brand": "LOVILIO",
+    "pack": "220 g",
+    "price": 0.65,
+    "eans": "9498465022773,1434943974026"
+  },
+  {
+    "id": 1932,
+    "name": "MozzarelladiBufalaCampanaDOP–OriginalitalienischerBüffel-Mozzarella",
+    "brand": "DELUXE",
+    "pack": "400 g",
+    "price": 2.9,
+    "eans": "9445473957245,2552492757668"
+  },
+  {
+    "id": 1933,
+    "name": "Mozzarellalight",
+    "brand": "LOVILIO",
+    "pack": "220 g",
+    "price": 0.69,
+    "eans": "9612922661699,1839842070280"
+  },
+  {
+    "id": 1934,
+    "name": "Mozzarella,gerieben",
+    "brand": "LOVILIO",
+    "pack": "200 g",
+    "price": 1.39,
+    "eans": "3511796928531,8127792779708"
+  },
+  {
+    "id": 1935,
+    "name": "OriginalfranzösischerWeichkäse",
+    "brand": "CHÊNE d'ARGENT",
+    "pack": "200 g",
+    "price": 1.19,
+    "eans": "1349256061700,7432869340509"
+  },
+  {
+    "id": 1936,
+    "name": "OriginalFranzösischerWeichkäse-DouxetCrémeux",
+    "brand": "CHÊNE d'ARGENT",
+    "pack": "200 g",
+    "price": 1.19,
+    "eans": "4205402674217,8673405888294"
+  },
+  {
+    "id": 1937,
+    "name": "Pastakäse,gerieben",
+    "brand": "LOVILIO",
+    "pack": "150 g",
+    "price": 1.35,
+    "eans": "5609930619211,6247467316327"
+  },
+  {
+    "id": 1938,
+    "name": "RaclettekäseinScheiben",
+    "brand": "ETOILE DÓR",
+    "pack": "400 g",
+    "price": 2.49,
+    "eans": "7480873650091,8168206555556"
+  },
+  {
+    "id": 1939,
+    "name": "Räucherkäse,Scheiben,sortiert",
+    "brand": "MEINE KÄSEREI",
+    "pack": "150 g",
+    "price": 1.69,
+    "eans": "1193343242653,5075056921772"
+  },
+  {
+    "id": 1940,
+    "name": "SandwichScheiben,sortiert",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 1.79,
+    "eans": "7113894433571,5575897399964"
+  },
+  {
+    "id": 1941,
+    "name": "Schmelzkäse",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 1.69,
+    "eans": "9617116267374,8408363992703"
+  },
+  {
+    "id": 1942,
+    "name": "Schmelzkäsescheiben,Allgäuer",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "1665170469003,7818147797720"
+  },
+  {
+    "id": 1943,
+    "name": "Schmelzkäsescheiben,Cheddary",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "9480079223974,6352524147049"
+  },
+  {
+    "id": 1944,
+    "name": "Schmelzkäsescheiben,Toast",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 1.15,
+    "eans": "6014596630248,6245765418019"
+  },
+  {
+    "id": 1945,
+    "name": "Schmelzkäsescheiben,Toastlight",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "2226537327511,1988859717784"
+  },
+  {
+    "id": 1946,
+    "name": "Schmelzkäsezubereitung,sortiert",
+    "brand": "Milbona",
+    "pack": "200 g",
+    "price": 0.96,
+    "eans": "8954441669154,7057804100729"
+  },
+  {
+    "id": 1947,
+    "name": "TilsiterinScheibenwürzig-pikant",
+    "brand": "Milbona",
+    "pack": "150 g",
+    "price": 0.99,
+    "eans": "3839632742395,5795362326053"
+  },
+  {
+    "id": 1948,
+    "name": "Tilsiter,inScheiben",
+    "brand": "Milbona",
+    "pack": "400 g",
+    "price": 1.99,
+    "eans": "2182227694977,2259640840233"
+  },
+  {
+    "id": 1949,
+    "name": "Trüffelkäse",
+    "brand": "DELUXE",
+    "pack": "150 g",
+    "price": 2.79,
+    "eans": "9619285694494,1678731029424"
+  },
+  {
+    "id": 1950,
+    "name": "WiesenländerNatur",
+    "brand": "Milbona",
+    "pack": "175 g",
+    "price": 1.59,
+    "eans": "7278953423068,8971004141575"
+  },
+  {
+    "id": 1951,
+    "name": "Wiesentaler,Scheiben,sortiert",
+    "brand": "Biotrend",
+    "pack": "200 g",
+    "price": 1.79,
+    "eans": "7111444645993,8539006449640"
+  },
+  {
+    "id": 1952,
+    "name": "Backaromen,sortiert",
+    "brand": "Belbake",
+    "pack": "1 Pkg",
+    "price": 1.39,
+    "eans": "6612933555768,8332412644346"
+  },
+  {
+    "id": 1953,
+    "name": "Backhefe,frisch",
+    "brand": "ACME",
+    "pack": "42 g",
+    "price": 0.09,
+    "eans": "2808877731601,9629368498260"
+  },
+  {
+    "id": 1954,
+    "name": "Backkakao",
+    "brand": "Belbake",
+    "pack": "250 g",
+    "price": 1.59,
+    "eans": "9566377099005,2427618283430"
+  },
+  {
+    "id": 1955,
+    "name": "BackmischungBratapfelkuchen",
+    "brand": "Belbake",
+    "pack": "435 g",
+    "price": 1.59,
+    "eans": "7306309125622,1156874492799"
+  },
+  {
+    "id": 1956,
+    "name": "BackmischunghellesBrot,glutenfrei",
+    "brand": "Belbake",
+    "pack": "450 g",
+    "price": 1.49,
+    "eans": "1550036173739,9547994775695"
+  },
+  {
+    "id": 1957,
+    "name": "BackmischungimGlas,sortiert",
+    "brand": "Belbake",
+    "pack": "1 Glas",
+    "price": 4.49,
+    "eans": "7419377687685,1117382457038"
+  },
+  {
+    "id": 1958,
+    "name": "BackmischungMarmorkuchen",
+    "brand": "Belbake",
+    "pack": "1 Pkg",
+    "price": 1.59,
+    "eans": "5469106458187,7451775834223"
+  },
+  {
+    "id": 1959,
+    "name": "BackmischungMohnkuchen",
+    "brand": "Belbake",
+    "pack": "465 g",
+    "price": 1.59,
+    "eans": "7313268600480,4520842898635"
+  },
+  {
+    "id": 1960,
+    "name": "BackmischungSchokoflockenkuchen",
+    "brand": "Belbake",
+    "pack": "1 Pkg",
+    "price": 1.59,
+    "eans": "4067433770012,5800845268895"
+  },
+  {
+    "id": 1961,
+    "name": "BackmischungSchokokuchen",
+    "brand": "Belbake",
+    "pack": "1 Pkg",
+    "price": 1.59,
+    "eans": "8551182163318,4143270191637"
+  },
+  {
+    "id": 1962,
+    "name": "BackmischungWeihnachtsgebäck,sortiert",
+    "brand": "Belbake",
+    "pack": "1 Pkg",
+    "price": 1.59,
+    "eans": "4992321440497,1945479363319"
+  },
+  {
+    "id": 1963,
+    "name": "BackmischungZitronenkuchen",
+    "brand": "Belbake",
+    "pack": "1 Pkg",
+    "price": 1.59,
+    "eans": "6574557467080,2728512126800"
+  },
+  {
+    "id": 1964,
+    "name": "Backoblaten,sortiert",
+    "brand": "Belbake",
+    "pack": "1 Pkg",
+    "price": 0.39,
+    "eans": "5202217377165,2160160965873"
+  },
+  {
+    "id": 1965,
+    "name": "Backpulver",
+    "brand": "Belbake",
+    "pack": "10 Btl",
+    "price": 0.29,
+    "eans": "3917327797568,1583922821742"
+  },
+  {
+    "id": 1966,
+    "name": "Blattgelatine",
+    "brand": "Belbake",
+    "pack": "20 g",
+    "price": 0.89,
+    "eans": "2766499568428,6304144166368"
+  },
+  {
+    "id": 1967,
+    "name": "Cranberries",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 1.79,
+    "eans": "5624668961869,6889987935765"
+  },
+  {
+    "id": 1968,
+    "name": "FrischerBlätterteig",
+    "brand": "chef select",
+    "pack": "275 g",
+    "price": 0.59,
+    "eans": "9941638673253,2626449902880"
+  },
+  {
+    "id": 1969,
+    "name": "Früchtemixgewürfelt",
+    "brand": "Belbake",
+    "pack": "100 g",
+    "price": 0.39,
+    "eans": "7574098840044,9815355968483"
+  },
+  {
+    "id": 1970,
+    "name": "GlutenFREIMehlMixUniversal",
+    "brand": "Belbake",
+    "pack": "1000 g",
+    "price": 2.49,
+    "eans": "5818600165648,3717323149664"
+  },
+  {
+    "id": 1971,
+    "name": "Haselnusskerneganz",
+    "brand": "Belbake",
+    "pack": "200 g",
+    "price": 1.99,
+    "eans": "2699223618604,4871049204249"
+  },
+  {
+    "id": 1972,
+    "name": "Haselnusskernegemahlen",
+    "brand": "Belbake",
+    "pack": "200 g",
+    "price": 1.92,
+    "eans": "5929160315579,7315426115621"
+  },
+  {
+    "id": 1973,
+    "name": "Kokosraspeln",
+    "brand": "Belbake",
+    "pack": "200 g",
+    "price": 0.79,
+    "eans": "5328273152734,9172524643399"
+  },
+  {
+    "id": 1974,
+    "name": "KuchenglasurKakao",
+    "brand": "Belbake",
+    "pack": "200 g",
+    "price": 0.69,
+    "eans": "2324316475177,1802194250396"
+  },
+  {
+    "id": 1975,
+    "name": "KuchenglasurVollmilch",
+    "brand": "Belbake",
+    "pack": "200 g",
+    "price": 0.69,
+    "eans": "7249470781177,8946732591350"
+  },
+  {
+    "id": 1976,
+    "name": "Mandelkerne,ganz",
+    "brand": "ALESTO",
+    "pack": "200 g",
+    "price": 2.41,
+    "eans": "4975555904249,6719589937044"
+  },
+  {
+    "id": 1977,
+    "name": "Mandeln-Naturbelassen",
+    "brand": "Belbake",
+    "pack": "200 g",
+    "price": 2.19,
+    "eans": "3611482742905,7396036050885"
+  },
+  {
+    "id": 1978,
+    "name": "Mandelnblanchiert&gehackt",
+    "brand": "Belbake",
+    "pack": "100 g",
+    "price": 0.89,
+    "eans": "7946017858766,5064354094097"
+  },
+  {
+    "id": 1979,
+    "name": "Mandelnblanchiert&gestiftet",
+    "brand": "Belbake",
+    "pack": "100 g",
+    "price": 0.89,
+    "eans": "3964131318816,1637573581354"
+  },
+  {
+    "id": 1980,
+    "name": "Marzipan-Rohmasse",
+    "brand": "Belbake",
+    "pack": "200 g",
+    "price": 1.44,
+    "eans": "3731506664621,6497369594655"
+  },
+  {
+    "id": 1981,
+    "name": "Milchschokoladenstreusel",
+    "brand": "Belbake",
+    "pack": "400 g",
+    "price": 1.29,
+    "eans": "1786814352762,1998510510470"
+  },
+  {
+    "id": 1982,
+    "name": "Orangeatgewürfelt",
+    "brand": "Belbake",
+    "pack": "100 g",
+    "price": 0.39,
+    "eans": "6585991223934,5228885451747"
+  },
+  {
+    "id": 1983,
+    "name": "Paniermehl",
+    "brand": "Belbake",
+    "pack": "1000 g",
+    "price": 0.79,
+    "eans": "4323328123784,1350556216400"
+  },
+  {
+    "id": 1984,
+    "name": "Sahnesteif",
+    "brand": "Belbake",
+    "pack": "40 g",
+    "price": 0.35,
+    "eans": "4252501192654,8894363268144"
+  },
+  {
+    "id": 1985,
+    "name": "Schoko-Tropfen",
+    "brand": "Belbake",
+    "pack": "100 g",
+    "price": 0.79,
+    "eans": "6886503286820,3414939555635"
+  },
+  {
+    "id": 1986,
+    "name": "SchokoladenKuvertüre,sortiert",
+    "brand": "Belbake",
+    "pack": "200 g",
+    "price": 0.89,
+    "eans": "5674386045853,9128390080646"
+  },
+  {
+    "id": 1987,
+    "name": "Schokoladenstreusel-zartbitter",
+    "brand": "Belbake",
+    "pack": "400 g",
+    "price": 1.29,
+    "eans": "2502003983987,1971697072733"
+  },
+  {
+    "id": 1988,
+    "name": "StreudekorBunteZuckerstreusel",
+    "brand": "Belbake",
+    "pack": "200 g",
+    "price": 0.65,
+    "eans": "9824043934914,5025747941466"
+  },
+  {
+    "id": 1989,
+    "name": "StreudekorSternenglanz",
+    "brand": "Belbake",
+    "pack": "160 g",
+    "price": 1.89,
+    "eans": "8060636059744,6780566315308"
+  },
+  {
+    "id": 1990,
+    "name": "Sultaninen",
+    "brand": "Belbake",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "3439862864852,6703815970349"
+  },
+  {
+    "id": 1991,
+    "name": "TarteauChocolatBackmischung",
+    "brand": "Duc De Coeur",
+    "pack": "490 g",
+    "price": 1.99,
+    "eans": "9551239862620,8251879046268"
+  },
+  {
+    "id": 1992,
+    "name": "TarteauCitronBackmischung",
+    "brand": "Duc De Coeur",
+    "pack": "535 g",
+    "price": 1.99,
+    "eans": "8773478985118,7535285074727"
+  },
+  {
+    "id": 1993,
+    "name": "Tortenguss,sortiert",
+    "brand": "Belbake",
+    "pack": "72 g",
+    "price": 0.35,
+    "eans": "8925521548379,5449729388283"
+  },
+  {
+    "id": 1994,
+    "name": "Trockenbackhefe",
+    "brand": "Belbake",
+    "pack": "42 g",
+    "price": 0.49,
+    "eans": "6919797804866,6058711075538"
+  },
+  {
+    "id": 1995,
+    "name": "Trockenpflaumen",
+    "brand": "ALESTO",
+    "pack": "500 g",
+    "price": 2.79,
+    "eans": "4415355003716,9964357982819"
+  },
+  {
+    "id": 1996,
+    "name": "Vanilleschoten",
+    "brand": "Belbake",
+    "pack": "2 Stk.",
+    "price": 3.49,
+    "eans": "8827741268795,4525371504408"
+  },
+  {
+    "id": 1997,
+    "name": "Vanillinzucker",
+    "brand": "Belbake",
+    "pack": "15 Btl",
+    "price": 0.25,
+    "eans": "1225473962405,8404586952333"
+  },
+  {
+    "id": 1998,
+    "name": "Zitronatgewürfelt",
+    "brand": "Belbake",
+    "pack": "100 g",
+    "price": 0.39,
+    "eans": "8459562178160,5318136898886"
+  },
+  {
+    "id": 1999,
+    "name": "Zitronensaft",
+    "brand": "Solevita",
+    "pack": "200 ml",
+    "price": 0.49,
+    "eans": "2742289529374,8396707220523"
+  },
+  {
+    "id": 2000,
+    "name": "Basilikum",
+    "brand": "Kania",
+    "pack": "15 g",
+    "price": 0.59,
+    "eans": "9630713232897,2272273142031"
+  },
+  {
+    "id": 2001,
+    "name": "BioKräuter-6Kräuter",
+    "brand": "FRESHONA",
+    "pack": "50 g",
+    "price": 0.69,
+    "eans": "9924025016314,1075099192973"
+  },
+  {
+    "id": 2002,
+    "name": "BioKräuter-Dill",
+    "brand": "FRESHONA",
+    "pack": "50 g",
+    "price": 0.69,
+    "eans": "7218569296076,2245516527773"
+  },
+  {
+    "id": 2003,
+    "name": "BioKräuter-italienischeKräuter",
+    "brand": "FRESHONA",
+    "pack": "50 g",
+    "price": 0.69,
+    "eans": "9417534185201,5626235381612"
+  },
+  {
+    "id": 2004,
+    "name": "BioKräuter-Petersilie",
+    "brand": "FRESHONA",
+    "pack": "50 g",
+    "price": 0.69,
+    "eans": "9686064902446,6939926915973"
+  },
+  {
+    "id": 2005,
+    "name": "BioKräuter-Schnittlauch",
+    "brand": "FRESHONA",
+    "pack": "50 g",
+    "price": 0.69,
+    "eans": "8225442368149,2621378730290"
+  },
+  {
+    "id": 2006,
+    "name": "Cayenne-Pfeffer",
+    "brand": "Kania",
+    "pack": "50 g",
+    "price": 0.69,
+    "eans": "3713853188616,4424378549521"
+  },
+  {
+    "id": 2007,
+    "name": "Ceylon-Zimt",
+    "brand": "Kania",
+    "pack": "40 g",
+    "price": 0.59,
+    "eans": "7321664731301,7504220569789"
+  },
+  {
+    "id": 2008,
+    "name": "Curry",
+    "brand": "Kania",
+    "pack": "45 g",
+    "price": 0.59,
+    "eans": "9397116610744,4865519018719"
+  },
+  {
+    "id": 2009,
+    "name": "GewürzmühlePfefferBunt",
+    "brand": "Kania",
+    "pack": "50 g",
+    "price": 1.49,
+    "eans": "9588732080619,7808318242203"
+  },
+  {
+    "id": 2010,
+    "name": "GewürzmühlenPfefferschwarz",
+    "brand": "Kania",
+    "pack": "50 g",
+    "price": 1.49,
+    "eans": "8795736911523,6495591161256"
+  },
+  {
+    "id": 2011,
+    "name": "Knoblauchgranuliert",
+    "brand": "Kania",
+    "pack": "70 g",
+    "price": 0.69,
+    "eans": "9610454781342,6568820049844"
+  },
+  {
+    "id": 2012,
+    "name": "Kümmelganz",
+    "brand": "Kania",
+    "pack": "50 g",
+    "price": 0.59,
+    "eans": "5944596506070,9319543799922"
+  },
+  {
+    "id": 2013,
+    "name": "Lorbeerblätter",
+    "brand": "Kania",
+    "pack": "7.5 g",
+    "price": 0.69,
+    "eans": "2493508503445,8242484256807"
+  },
+  {
+    "id": 2014,
+    "name": "PaprikaEdelsüß",
+    "brand": "Kania",
+    "pack": "50 g",
+    "price": 0.59,
+    "eans": "2604452083567,7777959583269"
+  },
+  {
+    "id": 2015,
+    "name": "Paprikarosenscharf",
+    "brand": "Kania",
+    "pack": "50 g",
+    "price": 0.59,
+    "eans": "6909825360815,5785714788622"
+  },
+  {
+    "id": 2016,
+    "name": "Pfeffer,sortiert",
+    "brand": "Kania",
+    "pack": "50 g",
+    "price": 0.59,
+    "eans": "5581873027905,3541792501339"
+  },
+  {
+    "id": 2017,
+    "name": "Pfeffer,bunt,ganz",
+    "brand": "Kania",
+    "pack": "70 g",
+    "price": 2.49,
+    "eans": "1280822678475,9029895766168"
+  },
+  {
+    "id": 2018,
+    "name": "Rosmarin,geschnitten",
+    "brand": "Kania",
+    "pack": "25 g",
+    "price": 0.59,
+    "eans": "7022691754584,2742713418847"
+  },
+  {
+    "id": 2019,
+    "name": "Röstzwiebeln",
+    "brand": "Kania",
+    "pack": "150 g",
+    "price": 0.99,
+    "eans": "2442690593468,1964900483860"
+  },
+  {
+    "id": 2020,
+    "name": "SaisonaleGewürze,sortiert",
+    "brand": "Belbake",
+    "pack": "1 Btl",
+    "price": 0.99,
+    "eans": "9808995038548,6717547405581"
+  },
+  {
+    "id": 2021,
+    "name": "Salatkräuter,gefriergetrocknet",
+    "brand": "MAMSELL",
+    "pack": "25 g",
+    "price": 0.99,
+    "eans": "7445833628688,1577334959407"
+  },
+  {
+    "id": 2022,
+    "name": "Bio-WeizenmehlType550",
+    "brand": "Belbake",
+    "pack": "1 kg",
+    "price": 0.89,
+    "eans": "5778147784439,6232867622529"
+  },
+  {
+    "id": 2023,
+    "name": "Dinkelmehl,sortiert",
+    "brand": "Belbake",
+    "pack": "1000 g",
+    "price": 1.34,
+    "eans": "6730683269961,9607572850111"
+  },
+  {
+    "id": 2024,
+    "name": "FleurdeSel",
+    "brand": "DELUXE",
+    "pack": "125 g",
+    "price": 1.99,
+    "eans": "7398106812102,1184756613369"
+  },
+  {
+    "id": 2025,
+    "name": "JodsalzmitFluorid",
+    "brand": "CHANTESEL",
+    "pack": "500 g",
+    "price": 0.19,
+    "eans": "5478441585625,3226260617278"
+  },
+  {
+    "id": 2026,
+    "name": "Puderzucker",
+    "brand": "Belbake",
+    "pack": "250 g",
+    "price": 0.29,
+    "eans": "6185772062075,4123929004532"
+  },
+  {
+    "id": 2027,
+    "name": "Tomatenwürzsalz",
+    "brand": "Kania",
+    "pack": "75 g",
+    "price": 0.69,
+    "eans": "4929181929725,6490166396743"
+  },
+  {
+    "id": 2028,
+    "name": "Weizenmehl,Type405",
+    "brand": "Belbake",
+    "pack": "1 kg",
+    "price": 0.39,
+    "eans": "5703948124153,9794669757214"
+  },
+  {
+    "id": 2029,
+    "name": "Würfelzucker",
+    "brand": "Belbake",
+    "pack": "1000 g",
+    "price": 0.85,
+    "eans": "2508076995674,5191570165277"
+  },
+  {
+    "id": 2030,
+    "name": "Zucker",
+    "brand": "ACME",
+    "pack": "1 kg",
+    "price": 0.75,
+    "eans": "3429718414331,1645592947310"
+  },
+  {
+    "id": 2031,
+    "name": "AntipastiitalienischeArt,sortiert",
+    "brand": "SALADINETTES",
+    "pack": "1 Pkg",
+    "price": 1.69,
+    "eans": "7484510774249,7485406980997"
+  },
+  {
+    "id": 2032,
+    "name": "Antipastiteller",
+    "brand": "DELUXE",
+    "pack": "775 g",
+    "price": 5.99,
+    "eans": "8863563305249,1219213897041"
+  },
+  {
+    "id": 2033,
+    "name": "GriechischeAntipasti,Champignonknöpfe",
+    "brand": "SALADINETTES",
+    "pack": "230 g",
+    "price": 1.69,
+    "eans": "7396756777024,1116896314547"
+  },
+  {
+    "id": 2034,
+    "name": "GriechischeAntipasti,PeperoniMix",
+    "brand": "SALADINETTES",
+    "pack": "230 g",
+    "price": 1.69,
+    "eans": "8905596815453,2967651952325"
+  },
+  {
+    "id": 2035,
+    "name": "GriechischeAntipasti,RotePeperoni-scharf",
+    "brand": "SALADINETTES",
+    "pack": "230 g",
+    "price": 1.69,
+    "eans": "1975828960074,7661784678101"
+  },
+  {
+    "id": 2036,
+    "name": "GrüneOlivenmitPaprikapaste",
+    "brand": "BARESA",
+    "pack": "220 g",
+    "price": 1.19,
+    "eans": "8713570646142,7889152469988"
+  },
+  {
+    "id": 2037,
+    "name": "Brotaufstrich,sortiert",
+    "brand": "chef select",
+    "pack": "150 g",
+    "price": 0.89,
+    "eans": "9804689869535,7916780045106"
+  },
+  {
+    "id": 2038,
+    "name": "BudapesterSalat",
+    "brand": "Vitakrone",
+    "pack": "200 g",
+    "price": 0.99,
+    "eans": "6602303825584,6118801176962"
+  },
+  {
+    "id": 2039,
+    "name": "DelikatessFleischsalat",
+    "brand": "Vitakrone",
+    "pack": "200 g",
+    "price": 1.19,
+    "eans": "2401320758608,9331310893336"
+  },
+  {
+    "id": 2040,
+    "name": "DillHappen",
+    "brand": "Vitakrone",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "3010310066952,3603234091867"
+  },
+  {
+    "id": 2041,
+    "name": "Dill-Sahne-HeringsfiletsmitGurkenundDill",
+    "brand": "Vitakrone",
+    "pack": "400 g",
+    "price": 1.35,
+    "eans": "1516497633632,8508917713805"
+  },
+  {
+    "id": 2042,
+    "name": "EiersalatmitVorderschinkenundSchnittlauch",
+    "brand": "Vitakrone",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "4380954656840,3084180431967"
+  },
+  {
+    "id": 2043,
+    "name": "Feldsalat-Mix",
+    "brand": "SALADINETTES",
+    "pack": "100 g",
+    "price": 0.79,
+    "eans": "3254327772486,4954895792600"
+  },
+  {
+    "id": 2044,
+    "name": "Fleischsalat",
+    "brand": "chef select",
+    "pack": "400 g",
+    "price": 1.25,
+    "eans": "6363178720939,7517040438944"
+  },
+  {
+    "id": 2045,
+    "name": "FleischsalatJoghurt",
+    "brand": "Vitakrone",
+    "pack": "200 g",
+    "price": 0.85,
+    "eans": "2589396417268,1828547121885"
+  },
+  {
+    "id": 2046,
+    "name": "FleischsalatMetzgerart,sortiert",
+    "brand": "Vitakrone",
+    "pack": "200 g",
+    "price": 0.89,
+    "eans": "1499797101332,2599881888480"
+  },
+  {
+    "id": 2047,
+    "name": "HähnchenbrustSalat",
+    "brand": "Vitakrone",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "2928850455581,9164172977360"
+  },
+  {
+    "id": 2048,
+    "name": "Heringshappen",
+    "brand": "OCEAN SEA",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "8952666187699,6367595927933"
+  },
+  {
+    "id": 2049,
+    "name": "Heringssalat-rot",
+    "brand": "OCEAN SEA",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "3388983824446,8261045143042"
+  },
+  {
+    "id": 2050,
+    "name": "Kartoffelsalat",
+    "brand": "Vitakrone",
+    "pack": "1000 g",
+    "price": 1.59,
+    "eans": "6931987994607,5448448044630"
+  },
+  {
+    "id": 2051,
+    "name": "klarerGurkensalat",
+    "brand": "Vitakrone",
+    "pack": "300 g",
+    "price": 0.99,
+    "eans": "1270836928109,4664279471228"
+  },
+  {
+    "id": 2052,
+    "name": "Nudelsalat",
+    "brand": "Vitakrone",
+    "pack": "400 g",
+    "price": 1.19,
+    "eans": "3532019441156,9716083432539"
+  },
+  {
+    "id": 2053,
+    "name": "Partysalat",
+    "brand": "Vitakrone",
+    "pack": "400 g",
+    "price": 1.19,
+    "eans": "9670164677403,3168509160353"
+  },
+  {
+    "id": 2054,
+    "name": "Pellkartoffelsalat",
+    "brand": "Vitakrone",
+    "pack": "1000 g",
+    "price": 1.59,
+    "eans": "2767663605963,2865369253317"
+  },
+  {
+    "id": 2055,
+    "name": "Sahne-HeringsfiletsmitGurken,ÄpfelundZwiebeln",
+    "brand": "Vitakrone",
+    "pack": "400 g",
+    "price": 1.35,
+    "eans": "5611062791703,6941043238248"
+  },
+  {
+    "id": 2056,
+    "name": "SalatClassico",
+    "brand": "SALADINETTES",
+    "pack": "280 g",
+    "price": 1.99,
+    "eans": "3742033684396,9074891944836"
+  },
+  {
+    "id": 2057,
+    "name": "SalatErntedank",
+    "brand": "SALADINETTES",
+    "pack": "300 g",
+    "price": 1.99,
+    "eans": "9717169112789,8542309750276"
+  },
+  {
+    "id": 2058,
+    "name": "SalatHellas",
+    "brand": "SALADINETTES",
+    "pack": "300 g",
+    "price": 1.99,
+    "eans": "4001424988055,5347321055643"
+  },
+  {
+    "id": 2059,
+    "name": "SalatItaliana",
+    "brand": "SALADINETTES",
+    "pack": "300 g",
+    "price": 1.79,
+    "eans": "7065893982928,8788103681952"
+  },
+  {
+    "id": 2060,
+    "name": "SalatKunterbunt",
+    "brand": "SALADINETTES",
+    "pack": "300 g",
+    "price": 1.99,
+    "eans": "4270774980310,1141781606858"
+  },
+  {
+    "id": 2061,
+    "name": "SalatMexicana",
+    "brand": "SALADINETTES",
+    "pack": "300 g",
+    "price": 1.79,
+    "eans": "8594342105483,3267988557750"
+  },
+  {
+    "id": 2062,
+    "name": "Shrimpssalat",
+    "brand": "OCEAN SEA",
+    "pack": "200 g",
+    "price": 1.79,
+    "eans": "4257385024244,3099964634991"
+  },
+  {
+    "id": 2063,
+    "name": "ThunfischSalat",
+    "brand": "Vitakrone",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "3502388309012,8011482745947"
+  },
+  {
+    "id": 2064,
+    "name": "Waldorfsalat",
+    "brand": "Vitakrone",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "3188934854368,3132977878607"
+  },
+  {
+    "id": 2065,
+    "name": "Weißkrautsalat",
+    "brand": "Vitakrone",
+    "pack": "1000 g",
+    "price": 1.49,
+    "eans": "7317717795161,8761652909968"
+  },
+  {
+    "id": 2066,
+    "name": "Weißkrautsalat",
+    "brand": "Vitakrone",
+    "pack": "400 g",
+    "price": 1.19,
+    "eans": "1133559995714,9565318659278"
+  },
+  {
+    "id": 2067,
+    "name": "Fleischstreifen,sortiert",
+    "brand": "Orlando",
+    "pack": "20 Stk.",
+    "price": 0.59,
+    "eans": "6489638958763,2642062601184"
+  },
+  {
+    "id": 2068,
+    "name": "Hunde-Backwarenmix,sortiert",
+    "brand": "Orlando",
+    "pack": "400 g",
+    "price": 0.99,
+    "eans": "4934043225365,9728304646175"
+  },
+  {
+    "id": 2069,
+    "name": "HundefutterKroketten,sortiert",
+    "brand": "Orlando",
+    "pack": "10 kg",
+    "price": 7.99,
+    "eans": "9989142565633,8824887913213"
+  },
+  {
+    "id": 2070,
+    "name": "HundenahrungNuggetsmitInulin",
+    "brand": "Orlando",
+    "pack": "3 kg",
+    "price": 2.99,
+    "eans": "1853591117645,9334616878786"
+  },
+  {
+    "id": 2071,
+    "name": "HundenassnahrungHappeninSaucemitRind",
+    "brand": "Orlando",
+    "pack": "1240 g",
+    "price": 0.99,
+    "eans": "4980114882043,8975661547312"
+  },
+  {
+    "id": 2072,
+    "name": "HundenassnahrungPasteteJunior",
+    "brand": "Orlando",
+    "pack": "300 g",
+    "price": 0.55,
+    "eans": "8602328861084,8079112520135"
+  },
+  {
+    "id": 2073,
+    "name": "HundenassnahrungPastetemitRind&Leber",
+    "brand": "Orlando",
+    "pack": "300 g",
+    "price": 0.55,
+    "eans": "6378635090906,8200836980374"
+  },
+  {
+    "id": 2074,
+    "name": "HundenassnahrungPastetemitRind,KartoffelnundKräutern",
+    "brand": "Orlando",
+    "pack": "300 g",
+    "price": 0.55,
+    "eans": "2765751356728,5236600749161"
+  },
+  {
+    "id": 2075,
+    "name": "HundenassnahrungPasteteSeniormitHuhn,Gemüse&Reiskern",
+    "brand": "Orlando",
+    "pack": "300 g",
+    "price": 0.55,
+    "eans": "5586331109094,4000685317376"
+  },
+  {
+    "id": 2076,
+    "name": "KauwürstchenmitWild",
+    "brand": "Orlando",
+    "pack": "20 Stk.",
+    "price": 0.95,
+    "eans": "5555839326456,2515341243293"
+  },
+  {
+    "id": 2077,
+    "name": "PremiumSnackEntenfilet",
+    "brand": "Orlando",
+    "pack": "100 g",
+    "price": 1.59,
+    "eans": "6320986258382,2411425640968"
+  },
+  {
+    "id": 2078,
+    "name": "PremiumSnackHühnerfilet",
+    "brand": "Orlando",
+    "pack": "100 g",
+    "price": 1.59,
+    "eans": "7211887634254,2017321740971"
+  },
+  {
+    "id": 2079,
+    "name": "PremiumSnackMinisalami",
+    "brand": "Orlando",
+    "pack": "100 g",
+    "price": 1.59,
+    "eans": "5711196995746,2904269195478"
+  },
+  {
+    "id": 2080,
+    "name": "PremiumSnackRindburger",
+    "brand": "Orlando",
+    "pack": "100 g",
+    "price": 1.59,
+    "eans": "7509427771423,3337121127628"
+  },
+  {
+    "id": 2081,
+    "name": "FeinsteStückcheninSauce,sortiert",
+    "brand": "Coshida",
+    "pack": "415 g",
+    "price": 0.35,
+    "eans": "7661808463874,1342113124747"
+  },
+  {
+    "id": 2082,
+    "name": "Katzennassnahrung,sortiert",
+    "brand": "Coshida",
+    "pack": "1200 g",
+    "price": 2.25,
+    "eans": "6855831828248,6867389807606"
+  },
+  {
+    "id": 2083,
+    "name": "Katzensticks,sortiert",
+    "brand": "Coshida",
+    "pack": "10 Stk.",
+    "price": 0.85,
+    "eans": "7671393757142,4416113074368"
+  },
+  {
+    "id": 2084,
+    "name": "Katzenstreuultraweiß,klümpchenbildend",
+    "brand": "Coshida",
+    "pack": "6 l",
+    "price": 2.95,
+    "eans": "3691269272412,6256137712468"
+  },
+  {
+    "id": 2085,
+    "name": "Pastete,sortiert",
+    "brand": "Coshida",
+    "pack": "100 g",
+    "price": 0.2,
+    "eans": "1332017593121,7719887372447"
+  },
+  {
+    "id": 2086,
+    "name": "PremiumRagoutGeflügel&Leber",
+    "brand": "Coshida",
+    "pack": "400 g",
+    "price": 0.49,
+    "eans": "7891412728810,9109631069286"
+  },
+  {
+    "id": 2087,
+    "name": "HalbfettbutterLight",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 1.55,
+    "eans": "4443463888048,2830172326459"
+  },
+  {
+    "id": 2088,
+    "name": "Rinderhackfleischlight",
+    "brand": "Landjunker",
+    "pack": "400 g",
+    "price": 2.99,
+    "eans": "7125779529958,5828603633822"
+  },
+  {
+    "id": 2089,
+    "name": "lightSchinken-Wiener,2x4Stück",
+    "brand": "Dulano",
+    "pack": "400 g",
+    "price": 2.59,
+    "eans": "6469144679109,4990974291015"
+  },
+  {
+    "id": 2090,
+    "name": "Geflügel-Leberwurst,fein,5Stück",
+    "brand": "Dulano",
+    "pack": "130 g",
+    "price": 1.19,
+    "eans": "3540258530746,7433962653633"
+  },
+  {
+    "id": 2091,
+    "name": "light1aSalamiclassic",
+    "brand": "Dulano",
+    "pack": "100 g",
+    "price": 1.19,
+    "eans": "3574354723825,4862429029255"
+  },
+  {
+    "id": 2092,
+    "name": "light1aSalamiTruthahn",
+    "brand": "Dulano",
+    "pack": "100 g",
+    "price": 1.19,
+    "eans": "2278843734057,7150607971821"
+  },
+  {
+    "id": 2093,
+    "name": "lightKatenschinkengewürfelt,2x75g",
+    "brand": "Dulano",
+    "pack": "150 g",
+    "price": 1.69,
+    "eans": "8124207759164,1309202186840"
+  },
+  {
+    "id": 2094,
+    "name": "StreichzwergeGeflügelleberwurstlight",
+    "brand": "Dulano",
+    "pack": "130 g",
+    "price": 1.19,
+    "eans": "7170284823145,9782916316260"
+  },
+  {
+    "id": 2095,
+    "name": "Coca-ColaZero",
+    "brand": "ACME",
+    "pack": "1.25 l",
+    "price": 1.09,
+    "eans": "5266139657385,2612025687517"
+  },
+  {
+    "id": 2096,
+    "name": "Colalight",
+    "brand": "Freeway",
+    "pack": "1.5 l",
+    "price": 0.45,
+    "eans": "2243892001955,1424626779932"
+  },
+  {
+    "id": 2097,
+    "name": "Grapefruit-Limonade,sortiert",
+    "brand": "Freeway",
+    "pack": "1.5 l",
+    "price": 0.59,
+    "eans": "7070987865490,6021345727111"
+  },
+  {
+    "id": 2098,
+    "name": "MixxMaxCola&Orangelight",
+    "brand": "Freeway",
+    "pack": "1.5 l",
+    "price": 0.45,
+    "eans": "7952738066250,8606087325696"
+  },
+  {
+    "id": 2099,
+    "name": "Käseaufschnittlight",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 1.39,
+    "eans": "8422028731780,8430934481354"
+  },
+  {
+    "id": 2100,
+    "name": "lightKäseaufschnittinScheiben",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 1.49,
+    "eans": "1569914432875,6268465215191"
+  },
+  {
+    "id": 2101,
+    "name": "Mozzarellalight",
+    "brand": "LOVILIO",
+    "pack": "220 g",
+    "price": 0.69,
+    "eans": "8348345697649,9009423760776"
+  },
+  {
+    "id": 2102,
+    "name": "Schmelzkäsescheiben,Toastlight",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 0.99,
+    "eans": "1559170722933,4245634436559"
+  },
+  {
+    "id": 2103,
+    "name": "BiofettarmerJoghurtmild,1,8%Fett",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 0.85,
+    "eans": "6866422249526,4193051478624"
+  },
+  {
+    "id": 2104,
+    "name": "FettarmerJoghurt,1,8%Fett,sortiert",
+    "brand": "Milbona",
+    "pack": "250 g",
+    "price": 0.35,
+    "eans": "9885939803691,1382022275123"
+  },
+  {
+    "id": 2105,
+    "name": "QuarkTraum,0,2%Fett,sortiert",
+    "brand": "Milbona",
+    "pack": "500 g",
+    "price": 0.97,
+    "eans": "1922802726027,2706449906689"
+  }
+]

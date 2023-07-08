@@ -1,5 +1,7 @@
 package com.example.hackathon;
 
+import com.example.hackathon.products.Product;
+import com.example.hackathon.products.ProductService;
 import com.example.hackathon.users.Customer;
 import com.example.hackathon.users.CustomerService;
 import com.example.hackathon.util.JsonDataHandler;
@@ -18,31 +20,53 @@ import java.util.List;
 public class SocialShoppingApplication {
 
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 
 
-		SpringApplication app = new SpringApplication(SocialShoppingApplication.class);
-		app.setBannerMode(Banner.Mode.OFF);
-		ApplicationContext context = app.run(args);
+        SpringApplication app = new SpringApplication(SocialShoppingApplication.class);
+        app.setBannerMode(Banner.Mode.OFF);
+        ApplicationContext context = app.run(args);
 
-		JsonDataHandler jsonDataHandler = new JsonDataHandler();
-		String fileName = "Customers.json";
+        JsonDataHandler jsonDataHandler = new JsonDataHandler();
 
-		try {
-			ClassPathResource resource = new ClassPathResource(fileName);
-			byte[] fileContent = StreamUtils.copyToByteArray(resource.getInputStream());
-			String jsonData = new String(fileContent, StandardCharsets.UTF_8);
-			List<Customer> parsedCustomers = jsonDataHandler.readJsonData(jsonData);
+        // Parsing and saving customers
+        String customersFileName = "Customers.json";
+        parseAndSaveCustomers(jsonDataHandler, customersFileName, context);
 
-			CustomerService customerService = context.getBean(CustomerService.class);
+        // Parsing and saving products
+        String productsFileName = "Products.json";
+        parseAndSaveProducts(jsonDataHandler, productsFileName, context);
+    }
 
-			// Call the saveAll method of CustomerService to save the parsed customers
-			customerService.saveAllCustomers(parsedCustomers);
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
-	}
+    private static void parseAndSaveCustomers(JsonDataHandler jsonDataHandler, String fileName, ApplicationContext context) {
+        try {
+            ClassPathResource resource = new ClassPathResource(fileName);
+            byte[] fileContent = StreamUtils.copyToByteArray(resource.getInputStream());
+            String jsonData = new String(fileContent, StandardCharsets.UTF_8);
+            List<Customer> parsedCustomers = jsonDataHandler.readJsonDataForCustomers(jsonData);
 
+            CustomerService customerService = context.getBean(CustomerService.class);
+
+            customerService.saveAllCustomers(parsedCustomers);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static void parseAndSaveProducts(JsonDataHandler jsonDataHandler, String fileName, ApplicationContext context) {
+        try {
+            ClassPathResource resource = new ClassPathResource(fileName);
+            byte[] fileContent = StreamUtils.copyToByteArray(resource.getInputStream());
+            String jsonData = new String(fileContent, StandardCharsets.UTF_8);
+            List<Product> parsedProducts = jsonDataHandler.readJsonDataForProducts(jsonData);
+
+            ProductService productService = context.getBean(ProductService.class);
+
+            productService.saveAllProducts(parsedProducts);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 }
 
 

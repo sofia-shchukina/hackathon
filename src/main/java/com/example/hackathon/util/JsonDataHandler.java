@@ -1,5 +1,6 @@
 package com.example.hackathon.util;
 
+import com.example.hackathon.products.Product;
 import com.example.hackathon.users.Customer;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -16,9 +17,18 @@ public class JsonDataHandler {
         this.objectMapper = new ObjectMapper().findAndRegisterModules();
     }
 
-    public List<Customer> readJsonData(String jsonData) {
+    public List<Customer> readJsonDataForCustomers(String jsonData) {
         try {
             return objectMapper.readValue(jsonData, new TypeReference<List<Customer>>() {});
+        } catch (IOException e) {
+            e.printStackTrace();
+            return null;
+        }
+    }
+
+    public List<Product> readJsonDataForProducts(String jsonData) {
+        try {
+            return objectMapper.readValue(jsonData, new TypeReference<List<Product>>() {});
         } catch (IOException e) {
             e.printStackTrace();
             return null;
