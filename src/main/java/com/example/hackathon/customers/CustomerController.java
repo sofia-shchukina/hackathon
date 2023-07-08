@@ -10,7 +10,7 @@ import java.util.List;
 
 
 @Controller
-@RequestMapping("/user/")
+@RequestMapping("/customer/")
 public class CustomerController {
 
     private final CustomerService customerService;
