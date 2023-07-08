@@ -11,7 +11,7 @@ import org.springframework.web.util.UriComponentsBuilder;
 @Service
 public class GeoCodingService {
     private static final String GEOCODING_API_URL = "https://maps.googleapis.com/maps/api/geocode/json";
-    private static final String API_KEY = "AIzaSyB9xb4Yu3_8mLvV0nhphW_bVE_xCVEROFY";
+    private static final String API_KEY = "changeIt";
 
 
     public double[] getCoordinates(String address) {
