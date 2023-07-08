@@ -24,7 +24,7 @@ public class ProductController {
     }
 
     @GetMapping()
-    public ResponseEntity<List<Product>> showAllCurrentShoppingRequests() {
+    public ResponseEntity<List<Product>> showAllProducts() {
         List<Product> allCurrentShoppingRequest = productService.showAllArticles();
         return ResponseEntity.status(HttpStatus.CREATED).body(allCurrentShoppingRequest);
     }
