@@ -27,7 +27,7 @@ public class ShoppingRequestController {
     @GetMapping()
     public ResponseEntity <List<ShoppingRequest>> showAllCurrentShoppingRequests(){
         List<ShoppingRequest> allCurrentShoppingRequest =  shoppingRequestService.showAllCurrentShoppingRequest();
-        return ResponseEntity.status(HttpStatus.CREATED).body(allCurrentShoppingRequest);
+        return ResponseEntity.status(HttpStatus.OK).body(allCurrentShoppingRequest);
     }
 
    @GetMapping("/{id}/")
@@ -35,4 +35,11 @@ public class ShoppingRequestController {
        Optional<ShoppingRequest> shoppingRequestFoundById = shoppingRequestService.getShoppingRequestById(id);
        return shoppingRequestFoundById.map(ResponseEntity::ok).orElseGet(() -> ResponseEntity.notFound().build());
    }
+
+   @GetMapping("/my/{name}/")
+    public ResponseEntity<List<ShoppingRequest>> getMyShoppingRequests(@PathVariable String name){
+        List<ShoppingRequest> myList = shoppingRequestService.getMyShoppingRequests(name);
+       return ResponseEntity.status(HttpStatus.OK).body(myList);
+   }
+
 }

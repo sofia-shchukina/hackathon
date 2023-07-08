@@ -32,4 +32,10 @@ public class ShoppingRequestService {
         return shoppingRequestRepository.findById(id);
     }
 
+    public List<ShoppingRequest> getMyShoppingRequests(String myName) {
+        List<ShoppingRequest> allShoppingRequests =  shoppingRequestRepository.findAll();
+        return allShoppingRequests.stream()
+                .filter(request -> request.getNameOfTheRequester().equals(myName))
+                .collect(Collectors.toList());
+    }
 }
