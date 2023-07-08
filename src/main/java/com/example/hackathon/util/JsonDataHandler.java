@@ -1,7 +1,7 @@
 package com.example.hackathon.util;
 
 import com.example.hackathon.products.Product;
-import com.example.hackathon.users.Customer;
+import com.example.hackathon.customers.Customer;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 

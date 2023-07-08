@@ -1,4 +1,4 @@
-package com.example.hackathon.users;
+package com.example.hackathon.customers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

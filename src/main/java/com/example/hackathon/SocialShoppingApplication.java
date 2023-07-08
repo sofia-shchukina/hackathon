@@ -2,8 +2,8 @@ package com.example.hackathon;
 
 import com.example.hackathon.products.Product;
 import com.example.hackathon.products.ProductService;
-import com.example.hackathon.users.Customer;
-import com.example.hackathon.users.CustomerService;
+import com.example.hackathon.customers.Customer;
+import com.example.hackathon.customers.CustomerService;
 import com.example.hackathon.util.JsonDataHandler;
 import org.springframework.boot.Banner;
 import org.springframework.boot.SpringApplication;

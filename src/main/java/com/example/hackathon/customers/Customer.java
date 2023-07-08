@@ -1,4 +1,4 @@
-package com.example.hackathon.users;
+package com.example.hackathon.customers;
 
 import jakarta.persistence.Embedded;
 import jakarta.persistence.Entity;

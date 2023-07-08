@@ -1,4 +1,4 @@
-package com.example.hackathon.users;
+package com.example.hackathon.customers;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
