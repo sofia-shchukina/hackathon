@@ -1,12 +1,10 @@
 package com.example.hackathon.products;
 
-import com.example.hackathon.requests.ShoppingRequest;
-import com.example.hackathon.requests.ShoppingRequestRepository;
-import com.example.hackathon.users.Customer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class ProductService {
@@ -26,4 +24,7 @@ public class ProductService {
         productRepository.saveAll(allProducts);
     }
 
+    public Optional<Product> getProductById(Integer id) {
+        return productRepository.findById(id);
+    }
 }
