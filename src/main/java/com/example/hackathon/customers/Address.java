@@ -9,6 +9,16 @@ public class Address {
     private String city;
     private String street;
 
+    @Override
+    public String toString() {
+        return "Address{" +
+                "countryCode='" + countryCode + '\'' +
+                ", zipCode='" + zipCode + '\'' +
+                ", city='" + city + '\'' +
+                ", street='" + street + '\'' +
+                '}';
+    }
+
     public String getCountryCode() {
         return countryCode;
     }

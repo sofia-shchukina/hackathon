@@ -50,4 +50,13 @@ public class ShopAddress {
     public void setCountry(String country) {
         Country = country;
     }
+
+    @Override
+    public String toString() {
+        return ""+ street + '\''  + houseNumber + '\'' +
+                 city + '\'' +
+                 postcode +
+                 Country + '\'' +
+                '}';
+    }
 }

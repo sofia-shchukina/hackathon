@@ -27,10 +27,10 @@ public class StoreController {
         return ResponseEntity.status(HttpStatus.OK).body(allStores);
     }
 
- /*   GetMapping("/near/")
-    public ResponseEntity<List<Store>> showOnlyNearbyStores() {
-        List<Store> nearbyStores = storeService.showAllArticles();
-        return ResponseEntity.status(HttpStatus.OK).body(allCurrentShoppingRequest);
-    } */
+    @GetMapping("/near/{myAddress}/")
+    public ResponseEntity<Store> showTheNearestStore(@PathVariable String myAddress) {
+        Store nearestStore = storeService.showNearestStore(myAddress);
+        return ResponseEntity.status(HttpStatus.OK).body(nearestStore);
+    }
 
 }
