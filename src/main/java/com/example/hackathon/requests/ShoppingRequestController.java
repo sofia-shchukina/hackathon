@@ -6,6 +6,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Optional;
 
 @Controller
 @RequestMapping("/request/")
@@ -17,24 +18,21 @@ public class ShoppingRequestController {
         this.shoppingRequestService = shoppingRequestService;
     }
 
-    @PostMapping()
+   @PostMapping()
     public ResponseEntity<ShoppingRequest> addShoppingRequest(@RequestBody ShoppingRequest shoppingRequest){
         ShoppingRequest savedShoppingRequest =  shoppingRequestService.addShoppingRequest(shoppingRequest);
         return ResponseEntity.status(HttpStatus.CREATED).body(savedShoppingRequest);
     }
+
     @GetMapping()
     public ResponseEntity <List<ShoppingRequest>> showAllCurrentShoppingRequests(){
         List<ShoppingRequest> allCurrentShoppingRequest =  shoppingRequestService.showAllCurrentShoppingRequest();
         return ResponseEntity.status(HttpStatus.CREATED).body(allCurrentShoppingRequest);
     }
-    @DeleteMapping("/{id}")
-    public ResponseEntity<Void> deleteShoppingRequestById(@PathVariable String id) {
-        boolean deleted = shoppingRequestService.deleteShoppingRequestById(id);
-        if (deleted) {
-            return ResponseEntity.noContent().build();
-        } else {
-            return ResponseEntity.notFound().build();
-        }
-    }
 
+   @GetMapping("/{id}/")
+   public ResponseEntity<ShoppingRequest> getShoppingRequestById(@PathVariable String id) {
+       Optional<ShoppingRequest> shoppingRequestFoundById = shoppingRequestService.getShoppingRequestById(id);
+       return shoppingRequestFoundById.map(ResponseEntity::ok).orElseGet(() -> ResponseEntity.notFound().build());
+   }
 }

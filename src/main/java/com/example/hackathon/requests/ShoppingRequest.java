@@ -1,55 +1,27 @@
 package com.example.hackathon.requests;
 
-import com.example.hackathon.products.Product;
+import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
+import java.time.LocalDateTime;
 import java.util.List;
-
+@Entity
+@Table(name="shoppingrequest")
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
 public class ShoppingRequest {
-
-
-    public ShoppingRequest(String id, String nameOfTheRequester, List<Product> productsToBuy, String status) {
-        this.id = id;
-        this.nameOfTheRequester = nameOfTheRequester;
-        this.productsToBuy = productsToBuy;
-        this.status = status;
-    }
-
+    @Id
     String id;
     String nameOfTheRequester;
-
-    List<Product> productsToBuy;
+    @ElementCollection
+    List<OrderItem> shoppinglist;
 
     String status;
 
-    public void setStatus(String status) {
-        this.status = status;
-    }
-
-    public String getStatus() {
-        return status;
-    }
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
-
-    public String getNameOfTheRequester() {
-        return nameOfTheRequester;
-    }
-
-    public void setNameOfTheRequester(String nameOfTheRequester) {
-        this.nameOfTheRequester = nameOfTheRequester;
-    }
-
-    public List<Product> getProductsToBuy() {
-        return productsToBuy;
-    }
-
-    public void setProductsToBuy(List<Product> productsToBuy) {
-        this.productsToBuy = productsToBuy;
-    }
+    LocalDateTime deadline;
 }
