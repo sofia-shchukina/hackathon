@@ -18,6 +18,9 @@ public class ShoppingRequest {
     @Id
     String id;
     String nameOfTheRequester;
+
+    String address;
+
     @ElementCollection
     List<OrderItem> shoppinglist;
 

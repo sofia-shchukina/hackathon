@@ -42,4 +42,10 @@ public class ShoppingRequestController {
        return ResponseEntity.status(HttpStatus.OK).body(myList);
    }
 
+   @GetMapping("/nearby/{address}")
+    public ResponseEntity<List<ShoppingRequest>> getRequestsNearby(@PathVariable String address) {
+        List<ShoppingRequest> nearbyRequests = shoppingRequestService.getNearbyRequests(address);
+       return ResponseEntity.status(HttpStatus.OK).body(nearbyRequests);
+   }
+
 }
